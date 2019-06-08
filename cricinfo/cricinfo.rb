@@ -18,6 +18,7 @@ module Cricinfo
 		html_data = open(DATA_ENDPOINT + year)
 		html_doc = Nokogiri::HTML(html_data)
 		result_table = html_doc.at('.engineTable')
+		# File.write("data/"+year".xml", result_table.to_xml)
 		return result_table
 	end
 

@@ -61,12 +61,22 @@ module Cricinfo
 		return true
 	end
 
+	def self.calculatePercentage(value)
+		value = value * 100
+		return value.round(2)
+	end
+
 	def self.prediction(ratings,player_team,opponent_team)
 		if validTeam?(player_team) && validTeam?(opponent_team) 
 			player = ratings[TEAMS.index(player_team)]
 			opponent = ratings[TEAMS.index(opponent_team)]
-			probability = 1.0/(1 + (10 ** ((opponent.rating - player.rating)/400.0)))
-			puts "The odds of winning for #{player_team} are #{probability}"
+			
+			playerPercentage = calculatePercentage(1.0/(1 + (10 ** ((opponent.rating - player.rating)/400.0))))
+			puts "#{player_team} has a #{playerPercentage}% chance of winning."
+
+			opponentWinPercentage = calculatePercentage(1.0/(1 + (10 ** ((player.rating - opponent.rating)/400.0))))
+			puts "#{opponent_team} has a #{opponentWinPercentage}% chance of winning."
+
 		end
 	end
 

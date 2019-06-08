@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    elo (0.1.0)
+    gli (2.18.0)
+    mini_portile2 (2.4.0)
+    nokogiri (1.9.1)
+      mini_portile2 (~> 2.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  elo
+  gli
+  nokogiri
+
+BUNDLED WITH
+   1.17.3

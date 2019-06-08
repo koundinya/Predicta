@@ -31,6 +31,23 @@ Commands:
 
 ```
 
+## Example
+
+```bash
+./predicta.rb predict England Bangladesh
+
+
+Syncing data, just in case
+Fetching data .... this might take sometime
+Sync took 1.273706 seconds
+Calculating ELO ratings...
+ELO ratings calculated!
+England has a 75.34% chance of winning.
+Bangladesh has a 24.66% chance of winning.
+
+
+```
+
 ## Todo
 1. TEST CASES -- RSPECS.
 2. BUILD SHEILDS

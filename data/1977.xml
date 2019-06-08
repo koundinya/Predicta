@@ -1,0 +1,70 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="722159">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59417.html" class="data-link">Albion</a></td>
+									<td nowrap="nowrap">Mar 16, 1977</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64159.html" class="data-link">ODI # 41</a></td>
+				 </tr>
+ <tr class="data1" data-days="722237">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">Jun 2, 1977</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64958.html" class="data-link">ODI # 42</a></td>
+				 </tr>
+ <tr class="data1" data-days="722239">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">101 runs</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">Jun 4, 1977</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64959.html" class="data-link">ODI # 43</a></td>
+				 </tr>
+ <tr class="data1" data-days="722241">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Jun 6, 1977</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64960.html" class="data-link">ODI # 44</a></td>
+				 </tr>
+ <tr class="data1" data-days="722441">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59011.html" class="data-link">Sahiwal</a></td>
+									<td nowrap="nowrap">Dec 23, 1977</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64160.html" class="data-link">ODI # 45</a></td>
+				 </tr>
+ <tr class="data1" data-days="722448">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59018.html" class="data-link">Sialkot</a></td>
+									<td nowrap="nowrap">Dec 30, 1977</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64161.html" class="data-link">ODI # 46</a></td>
+				 </tr>
+</tbody>
+</table>

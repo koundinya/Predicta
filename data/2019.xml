@@ -1,0 +1,745 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="737427">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">45 runs</td>
+									<td class="left"><a href="/ci/content/ground/444258.html" class="data-link">Mount Maunganui</a></td>
+									<td nowrap="nowrap">Jan 3, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1153840.html" class="data-link">ODI # 4074</a></td>
+				 </tr>
+ <tr class="data1" data-days="737429">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">21 runs</td>
+									<td class="left"><a href="/ci/content/ground/444258.html" class="data-link">Mount Maunganui</a></td>
+									<td nowrap="nowrap">Jan 5, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1153841.html" class="data-link">ODI # 4075</a></td>
+				 </tr>
+ <tr class="data1" data-days="737432">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">115 runs</td>
+									<td class="left"><a href="/ci/content/ground/424917.html" class="data-link">Nelson</a></td>
+									<td nowrap="nowrap">Jan 8, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1153842.html" class="data-link">ODI # 4076</a></td>
+				 </tr>
+ <tr class="data1" data-days="737436">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">34 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 12, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144997.html" class="data-link">ODI # 4077</a></td>
+				 </tr>
+ <tr class="data1" data-days="737439">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 15, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144998.html" class="data-link">ODI # 4078</a></td>
+				 </tr>
+ <tr class="data1" data-days="737442">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 18, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144999.html" class="data-link">ODI # 4079</a></td>
+				 </tr>
+ <tr class="data1" data-days="737443">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59159.html" class="data-link">Port Elizabeth</a></td>
+									<td nowrap="nowrap">Jan 19, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144156.html" class="data-link">ODI # 4080</a></td>
+				 </tr>
+ <tr class="data1" data-days="737446">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59089.html" class="data-link">Durban</a></td>
+									<td nowrap="nowrap">Jan 22, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144157.html" class="data-link">ODI # 4081</a></td>
+				 </tr>
+ <tr class="data1" data-days="737447">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Jan 23, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1153691.html" class="data-link">ODI # 4082</a></td>
+				 </tr>
+ <tr class="data1" data-days="737449">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/27.html" class="data-link">U.A.E.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/33.html" class="data-link">Nepal</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/27.html" class="data-link">U.A.E.</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/481147.html" class="data-link">ICCA Dubai</a></td>
+									<td nowrap="nowrap">Jan 25, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1170454.html" class="data-link">ODI # 4083</a></td>
+				 </tr>
+ <tr class="data1" data-days="737449">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">13 runs</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Jan 25, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144158.html" class="data-link">ODI # 4084</a></td>
+				 </tr>
+ <tr class="data1" data-days="737450">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">90 runs</td>
+									<td class="left"><a href="/ci/content/ground/444258.html" class="data-link">Mount Maunganui</a></td>
+									<td nowrap="nowrap">Jan 26, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1153692.html" class="data-link">ODI # 4085</a></td>
+				 </tr>
+ <tr class="data1" data-days="737450">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/27.html" class="data-link">U.A.E.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/33.html" class="data-link">Nepal</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/33.html" class="data-link">Nepal</a></td>
+									<td class="left" nowrap="nowrap">145 runs</td>
+									<td class="left"><a href="/ci/content/ground/481147.html" class="data-link">ICCA Dubai</a></td>
+									<td nowrap="nowrap">Jan 26, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1170455.html" class="data-link">ODI # 4086</a></td>
+				 </tr>
+ <tr class="data1" data-days="737451">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Jan 27, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144159.html" class="data-link">ODI # 4087</a></td>
+				 </tr>
+ <tr class="data1" data-days="737452">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/444258.html" class="data-link">Mount Maunganui</a></td>
+									<td nowrap="nowrap">Jan 28, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1153693.html" class="data-link">ODI # 4088</a></td>
+				 </tr>
+ <tr class="data1" data-days="737452">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/27.html" class="data-link">U.A.E.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/33.html" class="data-link">Nepal</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/33.html" class="data-link">Nepal</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/481147.html" class="data-link">ICCA Dubai</a></td>
+									<td nowrap="nowrap">Jan 28, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1170456.html" class="data-link">ODI # 4089</a></td>
+				 </tr>
+ <tr class="data1" data-days="737454">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59068.html" class="data-link">Cape Town</a></td>
+									<td nowrap="nowrap">Jan 30, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144160.html" class="data-link">ODI # 4090</a></td>
+				 </tr>
+ <tr class="data1" data-days="737455">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58831.html" class="data-link">Hamilton</a></td>
+									<td nowrap="nowrap">Jan 31, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1153694.html" class="data-link">ODI # 4091</a></td>
+				 </tr>
+ <tr class="data1" data-days="737458">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">35 runs</td>
+									<td class="left"><a href="/ci/content/ground/58899.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Feb 3, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1153695.html" class="data-link">ODI # 4092</a></td>
+				 </tr>
+ <tr class="data1" data-days="737468">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Feb 13, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1153844.html" class="data-link">ODI # 4093</a></td>
+				 </tr>
+ <tr class="data1" data-days="737471">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58810.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Feb 16, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1153845.html" class="data-link">ODI # 4094</a></td>
+				 </tr>
+ <tr class="data1" data-days="737475">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">88 runs</td>
+									<td class="left"><a href="/ci/content/ground/58827.html" class="data-link">Dunedin</a></td>
+									<td nowrap="nowrap">Feb 20, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1153846.html" class="data-link">ODI # 4095</a></td>
+				 </tr>
+ <tr class="data1" data-days="737475">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Feb 20, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1158066.html" class="data-link">ODI # 4096</a></td>
+				 </tr>
+ <tr class="data1" data-days="737477">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">26 runs</td>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Feb 22, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1158067.html" class="data-link">ODI # 4097</a></td>
+				 </tr>
+ <tr class="data1" data-days="737480">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59490.html" class="data-link">St George's</a></td>
+									<td nowrap="nowrap">Feb 25, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1158068.html" class="data-link">ODI # 4098</a></td>
+				 </tr>
+ <tr class="data1" data-days="737482">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">29 runs</td>
+									<td class="left"><a href="/ci/content/ground/59490.html" class="data-link">St George's</a></td>
+									<td nowrap="nowrap">Feb 27, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1158069.html" class="data-link">ODI # 4099</a></td>
+				 </tr>
+ <tr class="data1" data-days="737483">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/1145946.html" class="data-link">Dehradun</a></td>
+									<td nowrap="nowrap">Feb 28, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168115.html" class="data-link">ODI # 4100</a></td>
+				 </tr>
+ <tr class="data1" data-days="737485">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/1145946.html" class="data-link">Dehradun</a></td>
+									<td nowrap="nowrap">Mar 2, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168116.html" class="data-link">ODI # 4101</a></td>
+				 </tr>
+ <tr class="data1" data-days="737485">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58142.html" class="data-link">Hyderabad (Deccan)</a></td>
+									<td nowrap="nowrap">Mar 2, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168242.html" class="data-link">ODI # 4102</a></td>
+				 </tr>
+ <tr class="data1" data-days="737485">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59518.html" class="data-link">Gros Islet</a></td>
+									<td nowrap="nowrap">Mar 2, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1158070.html" class="data-link">ODI # 4103</a></td>
+				 </tr>
+ <tr class="data1" data-days="737486">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Mar 3, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144167.html" class="data-link">ODI # 4104</a></td>
+				 </tr>
+ <tr class="data1" data-days="737488">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/1145946.html" class="data-link">Dehradun</a></td>
+									<td nowrap="nowrap">Mar 5, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168117.html" class="data-link">ODI # 4105</a></td>
+				 </tr>
+ <tr class="data1" data-days="737488">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">8 runs</td>
+									<td class="left"><a href="/ci/content/ground/375326.html" class="data-link">Nagpur</a></td>
+									<td nowrap="nowrap">Mar 5, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168243.html" class="data-link">ODI # 4106</a></td>
+				 </tr>
+ <tr class="data1" data-days="737489">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">113 runs</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Mar 6, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144168.html" class="data-link">ODI # 4107</a></td>
+				 </tr>
+ <tr class="data1" data-days="737491">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">109 runs</td>
+									<td class="left"><a href="/ci/content/ground/1145946.html" class="data-link">Dehradun</a></td>
+									<td nowrap="nowrap">Mar 8, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168118.html" class="data-link">ODI # 4108</a></td>
+				 </tr>
+ <tr class="data1" data-days="737491">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">32 runs</td>
+									<td class="left"><a href="/ci/content/ground/485865.html" class="data-link">Ranchi</a></td>
+									<td nowrap="nowrap">Mar 8, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168244.html" class="data-link">ODI # 4109</a></td>
+				 </tr>
+ <tr class="data1" data-days="737493">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/1145946.html" class="data-link">Dehradun</a></td>
+									<td nowrap="nowrap">Mar 10, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168119.html" class="data-link">ODI # 4110</a></td>
+				 </tr>
+ <tr class="data1" data-days="737493">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57991.html" class="data-link">Mohali</a></td>
+									<td nowrap="nowrap">Mar 10, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168245.html" class="data-link">ODI # 4111</a></td>
+				 </tr>
+ <tr class="data1" data-days="737493">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">71 runs</td>
+									<td class="left"><a href="/ci/content/ground/59089.html" class="data-link">Durban</a></td>
+									<td nowrap="nowrap">Mar 10, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144169.html" class="data-link">ODI # 4112</a></td>
+				 </tr>
+ <tr class="data1" data-days="737496">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">35 runs</td>
+									<td class="left"><a href="/ci/content/ground/58040.html" class="data-link">Delhi</a></td>
+									<td nowrap="nowrap">Mar 13, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168246.html" class="data-link">ODI # 4113</a></td>
+				 </tr>
+ <tr class="data1" data-days="737496">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59159.html" class="data-link">Port Elizabeth</a></td>
+									<td nowrap="nowrap">Mar 13, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144170.html" class="data-link">ODI # 4114</a></td>
+				 </tr>
+ <tr class="data1" data-days="737499">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">41 runs</td>
+									<td class="left"><a href="/ci/content/ground/59068.html" class="data-link">Cape Town</a></td>
+									<td nowrap="nowrap">Mar 16, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144171.html" class="data-link">ODI # 4115</a></td>
+				 </tr>
+ <tr class="data1" data-days="737505">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 22, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1174238.html" class="data-link">ODI # 4116</a></td>
+				 </tr>
+ <tr class="data1" data-days="737507">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 24, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1174239.html" class="data-link">ODI # 4117</a></td>
+				 </tr>
+ <tr class="data1" data-days="737510">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">80 runs</td>
+									<td class="left"><a href="/ci/content/ground/59396.html" class="data-link">Abu Dhabi</a></td>
+									<td nowrap="nowrap">Mar 27, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1174240.html" class="data-link">ODI # 4118</a></td>
+				 </tr>
+ <tr class="data1" data-days="737512">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 runs</td>
+									<td class="left"><a href="/ci/content/ground/392627.html" class="data-link">Dubai (DSC)</a></td>
+									<td nowrap="nowrap">Mar 29, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1174241.html" class="data-link">ODI # 4119</a></td>
+				 </tr>
+ <tr class="data1" data-days="737514">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">20 runs</td>
+									<td class="left"><a href="/ci/content/ground/392627.html" class="data-link">Dubai (DSC)</a></td>
+									<td nowrap="nowrap">Mar 31, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1174242.html" class="data-link">ODI # 4120</a></td>
+				 </tr>
+ <tr class="data1" data-days="737524">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/27.html" class="data-link">U.A.E.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Apr 10, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1179272.html" class="data-link">ODI # 4121</a></td>
+				 </tr>
+ <tr class="data1" data-days="737526">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/27.html" class="data-link">U.A.E.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">4 runs</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Apr 12, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1179273.html" class="data-link">ODI # 4122</a></td>
+				 </tr>
+ <tr class="data1" data-days="737528">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/27.html" class="data-link">U.A.E.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">131 runs</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Apr 14, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1179274.html" class="data-link">ODI # 4123</a></td>
+				 </tr>
+ <tr class="data1" data-days="737530">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/27.html" class="data-link">U.A.E.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Apr 16, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1179275.html" class="data-link">ODI # 4124</a></td>
+				 </tr>
+ <tr class="data1" data-days="737541">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/28.html" class="data-link">Namibia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/37.html" class="data-link">Oman</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/28.html" class="data-link">Namibia</a></td>
+									<td class="left" nowrap="nowrap">145 runs</td>
+									<td class="left"><a href="/ci/content/ground/58678.html" class="data-link">Windhoek</a></td>
+									<td nowrap="nowrap">Apr 27, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1174845.html" class="data-link">ODI # 4125</a></td>
+				 </tr>
+ <tr class="data1" data-days="737541">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/20.html" class="data-link">P.N.G.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/11.html" class="data-link">U.S.A.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/20.html" class="data-link">P.N.G.</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/475201.html" class="data-link">Windhoek</a></td>
+									<td nowrap="nowrap">Apr 27, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1174844.html" class="data-link">ODI # 4126</a></td>
+				 </tr>
+ <tr class="data1" data-days="737547">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58607.html" class="data-link">Dublin (Malahide)</a></td>
+									<td nowrap="nowrap">May 3, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1161014.html" class="data-link">ODI # 4127</a></td>
+				 </tr>
+ <tr class="data1" data-days="737549">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">196 runs</td>
+									<td class="left"><a href="/ci/content/ground/58604.html" class="data-link">Dublin</a></td>
+									<td nowrap="nowrap">May 5, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168508.html" class="data-link">ODI # 4128</a></td>
+				 </tr>
+ <tr class="data1" data-days="737551">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58604.html" class="data-link">Dublin</a></td>
+									<td nowrap="nowrap">May 7, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168509.html" class="data-link">ODI # 4129</a></td>
+				 </tr>
+ <tr class="data1" data-days="737552">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">May 8, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1152841.html" class="data-link">ODI # 4130</a></td>
+				 </tr>
+ <tr class="data1" data-days="737554">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">2 runs</td>
+									<td class="left"><a href="/ci/content/ground/59269.html" class="data-link">Edinburgh</a></td>
+									<td nowrap="nowrap">May 10, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1169330.html" class="data-link">ODI # 4131</a></td>
+				 </tr>
+ <tr class="data1" data-days="737555">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58607.html" class="data-link">Dublin (Malahide)</a></td>
+									<td nowrap="nowrap">May 11, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168511.html" class="data-link">ODI # 4132</a></td>
+				 </tr>
+ <tr class="data1" data-days="737555">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">12 runs</td>
+									<td class="left"><a href="/ci/content/ground/57312.html" class="data-link">Southampton</a></td>
+									<td nowrap="nowrap">May 11, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1152842.html" class="data-link">ODI # 4133</a></td>
+				 </tr>
+ <tr class="data1" data-days="737557">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58607.html" class="data-link">Dublin (Malahide)</a></td>
+									<td nowrap="nowrap">May 13, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168512.html" class="data-link">ODI # 4134</a></td>
+				 </tr>
+ <tr class="data1" data-days="737558">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56831.html" class="data-link">Bristol</a></td>
+									<td nowrap="nowrap">May 14, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1152843.html" class="data-link">ODI # 4135</a></td>
+				 </tr>
+ <tr class="data1" data-days="737559">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58604.html" class="data-link">Dublin</a></td>
+									<td nowrap="nowrap">May 15, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168513.html" class="data-link">ODI # 4136</a></td>
+				 </tr>
+ <tr class="data1" data-days="737561">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58607.html" class="data-link">Dublin (Malahide)</a></td>
+									<td nowrap="nowrap">May 17, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168514.html" class="data-link">ODI # 4137</a></td>
+				 </tr>
+ <tr class="data1" data-days="737561">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">May 17, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1152844.html" class="data-link">ODI # 4138</a></td>
+				 </tr>
+ <tr class="data1" data-days="737563">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">72 runs</td>
+									<td class="left"><a href="/ci/content/ground/58588.html" class="data-link">Belfast</a></td>
+									<td nowrap="nowrap">May 19, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168515.html" class="data-link">ODI # 4139</a></td>
+				 </tr>
+ <tr class="data1" data-days="737563">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">54 runs</td>
+									<td class="left"><a href="/ci/content/ground/57092.html" class="data-link">Leeds</a></td>
+									<td nowrap="nowrap">May 19, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1152845.html" class="data-link">ODI # 4140</a></td>
+				 </tr>
+ <tr class="data1" data-days="737565">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">126 runs</td>
+									<td class="left"><a href="/ci/content/ground/58588.html" class="data-link">Belfast</a></td>
+									<td nowrap="nowrap">May 21, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1168516.html" class="data-link">ODI # 4141</a></td>
+				 </tr>
+ <tr class="data1" data-days="737565">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">35 runs</td>
+									<td class="left"><a href="/ci/content/ground/59269.html" class="data-link">Edinburgh</a></td>
+									<td nowrap="nowrap">May 21, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1169332.html" class="data-link">ODI # 4142</a></td>
+				 </tr>
+ <tr class="data1" data-days="737574">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">104 runs</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">May 30, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144483.html" class="data-link">ODI # 4143</a></td>
+				 </tr>
+ <tr class="data1" data-days="737575">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">May 31, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144484.html" class="data-link">ODI # 4144</a></td>
+				 </tr>
+ <tr class="data1" data-days="737576">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">10 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56874.html" class="data-link">Cardiff</a></td>
+									<td nowrap="nowrap">Jun 1, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144485.html" class="data-link">ODI # 4145</a></td>
+				 </tr>
+ <tr class="data1" data-days="737576">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56831.html" class="data-link">Bristol</a></td>
+									<td nowrap="nowrap">Jun 1, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144486.html" class="data-link">ODI # 4146</a></td>
+				 </tr>
+ <tr class="data1" data-days="737577">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">21 runs</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Jun 2, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144487.html" class="data-link">ODI # 4147</a></td>
+				 </tr>
+ <tr class="data1" data-days="737578">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">14 runs</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Jun 3, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144488.html" class="data-link">ODI # 4148</a></td>
+				 </tr>
+ <tr class="data1" data-days="737579">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">34 runs</td>
+									<td class="left"><a href="/ci/content/ground/56874.html" class="data-link">Cardiff</a></td>
+									<td nowrap="nowrap">Jun 4, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144489.html" class="data-link">ODI # 4149</a></td>
+				 </tr>
+ <tr class="data1" data-days="737580">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57312.html" class="data-link">Southampton</a></td>
+									<td nowrap="nowrap">Jun 5, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144490.html" class="data-link">ODI # 4150</a></td>
+				 </tr>
+ <tr class="data1" data-days="737580">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Jun 5, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144491.html" class="data-link">ODI # 4151</a></td>
+				 </tr>
+ <tr class="data1" data-days="737581">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">15 runs</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Jun 6, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144492.html" class="data-link">ODI # 4152</a></td>
+				 </tr>
+ <tr class="data1" data-days="737583">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">-</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56874.html" class="data-link">Cardiff</a></td>
+									<td nowrap="nowrap">Jun 8, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144494.html" class="data-link">ODI # 4153</a></td>
+				 </tr>
+ <tr class="data1" data-days="737583">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">-</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/57351.html" class="data-link">Taunton</a></td>
+									<td nowrap="nowrap">Jun 8, 2019</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1144495.html" class="data-link">ODI # 4154</a></td>
+				 </tr>
+</tbody>
+</table>

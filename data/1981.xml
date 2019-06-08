@@ -1,0 +1,268 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="723553">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 8, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65308.html" class="data-link">ODI # 104</a></td>
+				 </tr>
+ <tr class="data1" data-days="723555">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">10 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 10, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65309.html" class="data-link">ODI # 105</a></td>
+				 </tr>
+ <tr class="data1" data-days="723556">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 11, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65310.html" class="data-link">ODI # 106</a></td>
+				 </tr>
+ <tr class="data1" data-days="723558">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">1 run</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 13, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65311.html" class="data-link">ODI # 107</a></td>
+				 </tr>
+ <tr class="data1" data-days="723560">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">27 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 15, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65312.html" class="data-link">ODI # 108</a></td>
+				 </tr>
+ <tr class="data1" data-days="723563">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">22 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 18, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65313.html" class="data-link">ODI # 109</a></td>
+				 </tr>
+ <tr class="data1" data-days="723566">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 21, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65314.html" class="data-link">ODI # 110</a></td>
+				 </tr>
+ <tr class="data1" data-days="723574">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">78 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 29, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65315.html" class="data-link">ODI # 111</a></td>
+				 </tr>
+ <tr class="data1" data-days="723576">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 31, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65316.html" class="data-link">ODI # 112</a></td>
+				 </tr>
+ <tr class="data1" data-days="723577">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 1, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65317.html" class="data-link">ODI # 113</a></td>
+				 </tr>
+ <tr class="data1" data-days="723579">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 3, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65318.html" class="data-link">ODI # 114</a></td>
+				 </tr>
+ <tr class="data1" data-days="723580">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">2 runs</td>
+									<td class="left"><a href="/ci/content/ground/59463.html" class="data-link">Kingstown</a></td>
+									<td nowrap="nowrap">Feb 4, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64176.html" class="data-link">ODI # 115</a></td>
+				 </tr>
+ <tr class="data1" data-days="723590">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">78 runs</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Feb 14, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64177.html" class="data-link">ODI # 116</a></td>
+				 </tr>
+ <tr class="data1" data-days="723591">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">57 runs</td>
+									<td class="left"><a href="/ci/content/ground/58831.html" class="data-link">Hamilton</a></td>
+									<td nowrap="nowrap">Feb 15, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64178.html" class="data-link">ODI # 117</a></td>
+				 </tr>
+ <tr class="data1" data-days="723602">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59417.html" class="data-link">Albion</a></td>
+									<td nowrap="nowrap">Feb 26, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64179.html" class="data-link">ODI # 118</a></td>
+				 </tr>
+ <tr class="data1" data-days="723700">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Jun 4, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64969.html" class="data-link">ODI # 119</a></td>
+				 </tr>
+ <tr class="data1" data-days="723702">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">2 runs</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">Jun 6, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64970.html" class="data-link">ODI # 120</a></td>
+				 </tr>
+ <tr class="data1" data-days="723704">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">71 runs</td>
+									<td class="left"><a href="/ci/content/ground/57092.html" class="data-link">Leeds</a></td>
+									<td nowrap="nowrap">Jun 8, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64971.html" class="data-link">ODI # 121</a></td>
+				 </tr>
+ <tr class="data1" data-days="723870">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">18 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Nov 21, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65319.html" class="data-link">ODI # 122</a></td>
+				 </tr>
+ <tr class="data1" data-days="723871">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Nov 22, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65320.html" class="data-link">ODI # 123</a></td>
+				 </tr>
+ <tr class="data1" data-days="723873">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Nov 24, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65321.html" class="data-link">ODI # 124</a></td>
+				 </tr>
+ <tr class="data1" data-days="723874">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57852.html" class="data-link">Ahmedabad</a></td>
+									<td nowrap="nowrap">Nov 25, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64180.html" class="data-link">ODI # 125</a></td>
+				 </tr>
+ <tr class="data1" data-days="723884">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">8 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Dec 5, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65322.html" class="data-link">ODI # 126</a></td>
+				 </tr>
+ <tr class="data1" data-days="723885">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">38 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Dec 6, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65323.html" class="data-link">ODI # 127</a></td>
+				 </tr>
+ <tr class="data1" data-days="723896">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Dec 17, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65324.html" class="data-link">ODI # 128</a></td>
+				 </tr>
+ <tr class="data1" data-days="723898">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Dec 19, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65325.html" class="data-link">ODI # 129</a></td>
+				 </tr>
+ <tr class="data1" data-days="723899">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Dec 20, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65326.html" class="data-link">ODI # 130</a></td>
+				 </tr>
+ <tr class="data1" data-days="723899">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58164.html" class="data-link">Jalandhar</a></td>
+									<td nowrap="nowrap">Dec 20, 1981</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64181.html" class="data-link">ODI # 131</a></td>
+				 </tr>
+</tbody>
+</table>

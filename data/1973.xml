@@ -1,0 +1,61 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="720665">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">22 runs</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Feb 11, 1973</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64149.html" class="data-link">ODI # 5</a></td>
+				 </tr>
+ <tr class="data1" data-days="720822">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57347.html" class="data-link">Swansea</a></td>
+									<td nowrap="nowrap">Jul 18, 1973</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64947.html" class="data-link">ODI # 6</a></td>
+				 </tr>
+ <tr class="data1" data-days="720824">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">Jul 20, 1973</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64948.html" class="data-link">ODI # 7</a></td>
+				 </tr>
+ <tr class="data1" data-days="720871">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">1 wicket</td>
+									<td class="left"><a href="/ci/content/ground/57092.html" class="data-link">Leeds</a></td>
+									<td nowrap="nowrap">Sep 5, 1973</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64949.html" class="data-link">ODI # 8</a></td>
+				 </tr>
+ <tr class="data1" data-days="720873">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Sep 7, 1973</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64950.html" class="data-link">ODI # 9</a></td>
+				 </tr>
+</tbody>
+</table>

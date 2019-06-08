@@ -1,0 +1,610 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="724284">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 9, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65338.html" class="data-link">ODI # 165</a></td>
+				 </tr>
+ <tr class="data1" data-days="724286">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">31 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 11, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65339.html" class="data-link">ODI # 166</a></td>
+				 </tr>
+ <tr class="data1" data-days="724288">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">2 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 13, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65340.html" class="data-link">ODI # 167</a></td>
+				 </tr>
+ <tr class="data1" data-days="724290">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">54 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 15, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65341.html" class="data-link">ODI # 168</a></td>
+				 </tr>
+ <tr class="data1" data-days="724291">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 16, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65342.html" class="data-link">ODI # 169</a></td>
+				 </tr>
+ <tr class="data1" data-days="724293">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">47 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 18, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65343.html" class="data-link">ODI # 170</a></td>
+				 </tr>
+ <tr class="data1" data-days="724295">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 20, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65344.html" class="data-link">ODI # 171</a></td>
+				 </tr>
+ <tr class="data1" data-days="724296">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58956.html" class="data-link">Karachi</a></td>
+									<td nowrap="nowrap">Jan 21, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64200.html" class="data-link">ODI # 172</a></td>
+				 </tr>
+ <tr class="data1" data-days="724297">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">58 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 22, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65345.html" class="data-link">ODI # 173</a></td>
+				 </tr>
+ <tr class="data1" data-days="724298">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 23, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65346.html" class="data-link">ODI # 174</a></td>
+				 </tr>
+ <tr class="data1" data-days="724301">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">98 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 26, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65347.html" class="data-link">ODI # 175</a></td>
+				 </tr>
+ <tr class="data1" data-days="724304">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 29, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65348.html" class="data-link">ODI # 176</a></td>
+				 </tr>
+ <tr class="data1" data-days="724305">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">14 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 30, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65349.html" class="data-link">ODI # 177</a></td>
+				 </tr>
+ <tr class="data1" data-days="724306">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">47 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 31, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65350.html" class="data-link">ODI # 178</a></td>
+				 </tr>
+ <tr class="data1" data-days="724311">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Feb 5, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65351.html" class="data-link">ODI # 179</a></td>
+				 </tr>
+ <tr class="data1" data-days="724312">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">27 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Feb 6, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65352.html" class="data-link">ODI # 180</a></td>
+				 </tr>
+ <tr class="data1" data-days="724315">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 9, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65353.html" class="data-link">ODI # 181</a></td>
+				 </tr>
+ <tr class="data1" data-days="724319">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">149 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 13, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65354.html" class="data-link">ODI # 182</a></td>
+				 </tr>
+ <tr class="data1" data-days="724325">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Feb 19, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64201.html" class="data-link">ODI # 183</a></td>
+				 </tr>
+ <tr class="data1" data-days="724329">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">103 runs</td>
+									<td class="left"><a href="/ci/content/ground/58895.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Feb 23, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64202.html" class="data-link">ODI # 184</a></td>
+				 </tr>
+ <tr class="data1" data-days="724332">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">84 runs</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Feb 26, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64203.html" class="data-link">ODI # 185</a></td>
+				 </tr>
+ <tr class="data1" data-days="724336">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">65 runs</td>
+									<td class="left"><a href="/ci/content/ground/58822.html" class="data-link">Dunedin</a></td>
+									<td nowrap="nowrap">Mar 2, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64204.html" class="data-link">ODI # 186</a></td>
+				 </tr>
+ <tr class="data1" data-days="724343">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">52 runs</td>
+									<td class="left"><a href="/ci/content/ground/59475.html" class="data-link">Port of Spain</a></td>
+									<td nowrap="nowrap">Mar 9, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64205.html" class="data-link">ODI # 187</a></td>
+				 </tr>
+ <tr class="data1" data-days="724351">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">14 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Mar 17, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64206.html" class="data-link">ODI # 188</a></td>
+				 </tr>
+ <tr class="data1" data-days="724353">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Mar 19, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64207.html" class="data-link">ODI # 189</a></td>
+				 </tr>
+ <tr class="data1" data-days="724354">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">116 runs</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Mar 20, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64208.html" class="data-link">ODI # 190</a></td>
+				 </tr>
+ <tr class="data1" data-days="724363">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">27 runs</td>
+									<td class="left"><a href="/ci/content/ground/59417.html" class="data-link">Albion</a></td>
+									<td nowrap="nowrap">Mar 29, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64209.html" class="data-link">ODI # 191</a></td>
+				 </tr>
+ <tr class="data1" data-days="724372">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59492.html" class="data-link">St George's</a></td>
+									<td nowrap="nowrap">Apr 7, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64210.html" class="data-link">ODI # 192</a></td>
+				 </tr>
+ <tr class="data1" data-days="724378">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59303.html" class="data-link">Colombo (PSS)</a></td>
+									<td nowrap="nowrap">Apr 13, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64211.html" class="data-link">ODI # 193</a></td>
+				 </tr>
+ <tr class="data1" data-days="724381">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59303.html" class="data-link">Colombo (PSS)</a></td>
+									<td nowrap="nowrap">Apr 16, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64212.html" class="data-link">ODI # 194</a></td>
+				 </tr>
+ <tr class="data1" data-days="724394">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59308.html" class="data-link">Colombo (SSC)</a></td>
+									<td nowrap="nowrap">Apr 29, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64213.html" class="data-link">ODI # 195</a></td>
+				 </tr>
+ <tr class="data1" data-days="724395">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59308.html" class="data-link">Colombo (SSC)</a></td>
+									<td nowrap="nowrap">Apr 30, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64214.html" class="data-link">ODI # 196</a></td>
+				 </tr>
+ <tr class="data1" data-days="724435">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">106 runs</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Jun 9, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65064.html" class="data-link">ODI # 197</a></td>
+				 </tr>
+ <tr class="data1" data-days="724435">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">50 runs</td>
+									<td class="left"><a href="/ci/content/ground/57347.html" class="data-link">Swansea</a></td>
+									<td nowrap="nowrap">Jun 9, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65065.html" class="data-link">ODI # 198</a></td>
+				 </tr>
+ <tr class="data1" data-days="724435">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">13 runs</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Jun 9, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65066.html" class="data-link">ODI # 199</a></td>
+				 </tr>
+ <tr class="data1" data-days="724436">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">34 runs</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">Jun 9-10, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65067.html" class="data-link">ODI # 200</a></td>
+				 </tr>
+ <tr class="data1" data-days="724437">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">47 runs</td>
+									<td class="left"><a href="/ci/content/ground/57351.html" class="data-link">Taunton</a></td>
+									<td nowrap="nowrap">Jun 11, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65068.html" class="data-link">ODI # 201</a></td>
+				 </tr>
+ <tr class="data1" data-days="724438">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">52 runs</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">Jun 11-12, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65069.html" class="data-link">ODI # 202</a></td>
+				 </tr>
+ <tr class="data1" data-days="724438">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">101 runs</td>
+									<td class="left"><a href="/ci/content/ground/57092.html" class="data-link">Leeds</a></td>
+									<td nowrap="nowrap">Jun 11-12, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65070.html" class="data-link">ODI # 203</a></td>
+				 </tr>
+ <tr class="data1" data-days="724437">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57100.html" class="data-link">Leicester</a></td>
+									<td nowrap="nowrap">Jun 11, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65071.html" class="data-link">ODI # 204</a></td>
+				 </tr>
+ <tr class="data1" data-days="724439">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Jun 13, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65072.html" class="data-link">ODI # 205</a></td>
+				 </tr>
+ <tr class="data1" data-days="724439">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56831.html" class="data-link">Bristol</a></td>
+									<td nowrap="nowrap">Jun 13, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65073.html" class="data-link">ODI # 206</a></td>
+				 </tr>
+ <tr class="data1" data-days="724439">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">162 runs</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Jun 13, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65074.html" class="data-link">ODI # 207</a></td>
+				 </tr>
+ <tr class="data1" data-days="724439">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57424.html" class="data-link">Worcester</a></td>
+									<td nowrap="nowrap">Jun 13, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65075.html" class="data-link">ODI # 208</a></td>
+				 </tr>
+ <tr class="data1" data-days="724441">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">Jun 15, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65076.html" class="data-link">ODI # 209</a></td>
+				 </tr>
+ <tr class="data1" data-days="724441">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">66 runs</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Jun 15, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65077.html" class="data-link">ODI # 210</a></td>
+				 </tr>
+ <tr class="data1" data-days="724442">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">11 runs</td>
+									<td class="left"><a href="/ci/content/ground/57092.html" class="data-link">Leeds</a></td>
+									<td nowrap="nowrap">Jun 16, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65078.html" class="data-link">ODI # 211</a></td>
+				 </tr>
+ <tr class="data1" data-days="724442">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">32 runs</td>
+									<td class="left"><a href="/ci/content/ground/57309.html" class="data-link">Southampton</a></td>
+									<td nowrap="nowrap">Jun 16, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65079.html" class="data-link">ODI # 212</a></td>
+				 </tr>
+ <tr class="data1" data-days="724444">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">Jun 18, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65080.html" class="data-link">ODI # 213</a></td>
+				 </tr>
+ <tr class="data1" data-days="724444">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56953.html" class="data-link">Derby</a></td>
+									<td nowrap="nowrap">Jun 18, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65081.html" class="data-link">ODI # 214</a></td>
+				 </tr>
+ <tr class="data1" data-days="724444">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Jun 18, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65082.html" class="data-link">ODI # 215</a></td>
+				 </tr>
+ <tr class="data1" data-days="724444">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">31 runs</td>
+									<td class="left"><a href="/ci/content/ground/57367.html" class="data-link">Tunbridge Wells</a></td>
+									<td nowrap="nowrap">Jun 18, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65083.html" class="data-link">ODI # 216</a></td>
+				 </tr>
+ <tr class="data1" data-days="724446">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57092.html" class="data-link">Leeds</a></td>
+									<td nowrap="nowrap">Jun 20, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65084.html" class="data-link">ODI # 217</a></td>
+				 </tr>
+ <tr class="data1" data-days="724446">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">11 runs</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Jun 20, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65085.html" class="data-link">ODI # 218</a></td>
+				 </tr>
+ <tr class="data1" data-days="724446">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">118 runs</td>
+									<td class="left"><a href="/ci/content/ground/56887.html" class="data-link">Chelmsford</a></td>
+									<td nowrap="nowrap">Jun 20, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65086.html" class="data-link">ODI # 219</a></td>
+				 </tr>
+ <tr class="data1" data-days="724446">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">10 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">Jun 20, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65087.html" class="data-link">ODI # 220</a></td>
+				 </tr>
+ <tr class="data1" data-days="724448">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">Jun 22, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65088.html" class="data-link">ODI # 221</a></td>
+				 </tr>
+ <tr class="data1" data-days="724448">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Jun 22, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65089.html" class="data-link">ODI # 222</a></td>
+				 </tr>
+ <tr class="data1" data-days="724451">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">43 runs</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Jun 25, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65090.html" class="data-link">ODI # 223</a></td>
+				 </tr>
+ <tr class="data1" data-days="724528">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58136.html" class="data-link">Hyderabad (Deccan)</a></td>
+									<td nowrap="nowrap">Sep 10, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64215.html" class="data-link">ODI # 224</a></td>
+				 </tr>
+ <tr class="data1" data-days="724550">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58162.html" class="data-link">Jaipur</a></td>
+									<td nowrap="nowrap">Oct 2, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64216.html" class="data-link">ODI # 225</a></td>
+				 </tr>
+ <tr class="data1" data-days="724561">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">28 runs</td>
+									<td class="left"><a href="/ci/content/ground/58456.html" class="data-link">Srinagar</a></td>
+									<td nowrap="nowrap">Oct 13, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64217.html" class="data-link">ODI # 226</a></td>
+				 </tr>
+ <tr class="data1" data-days="724588">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58519.html" class="data-link">Vadodara</a></td>
+									<td nowrap="nowrap">Nov 9, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64218.html" class="data-link">ODI # 227</a></td>
+				 </tr>
+ <tr class="data1" data-days="724610">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58151.html" class="data-link">Indore</a></td>
+									<td nowrap="nowrap">Dec 1, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64219.html" class="data-link">ODI # 228</a></td>
+				 </tr>
+ <tr class="data1" data-days="724616">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">104 runs</td>
+									<td class="left"><a href="/ci/content/ground/58180.html" class="data-link">Jamshedpur</a></td>
+									<td nowrap="nowrap">Dec 7, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64220.html" class="data-link">ODI # 229</a></td>
+				 </tr>
+ <tr class="data1" data-days="724626">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58114.html" class="data-link">Guwahati</a></td>
+									<td nowrap="nowrap">Dec 17, 1983</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64221.html" class="data-link">ODI # 230</a></td>
+				 </tr>
+</tbody>
+</table>

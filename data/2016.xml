@@ -1,0 +1,907 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="736330">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/424917.html" class="data-link">Nelson</a></td>
+									<td nowrap="nowrap">Jan 2, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/914213.html" class="data-link">ODI # 3718</a></td>
+				 </tr>
+ <tr class="data1" data-days="736330">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">117 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Jan 2, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/953339.html" class="data-link">ODI # 3719</a></td>
+				 </tr>
+ <tr class="data1" data-days="736332">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">65 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Jan 4, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/953341.html" class="data-link">ODI # 3720</a></td>
+				 </tr>
+ <tr class="data1" data-days="736333">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">36 runs</td>
+									<td class="left"><a href="/ci/content/ground/444258.html" class="data-link">Mount Maunganui</a></td>
+									<td nowrap="nowrap">Jan 5, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/914215.html" class="data-link">ODI # 3721</a></td>
+				 </tr>
+ <tr class="data1" data-days="736334">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Jan 6, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/953343.html" class="data-link">ODI # 3722</a></td>
+				 </tr>
+ <tr class="data1" data-days="736340">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 12, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/895807.html" class="data-link">ODI # 3723</a></td>
+				 </tr>
+ <tr class="data1" data-days="736343">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 15, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/895809.html" class="data-link">ODI # 3724</a></td>
+				 </tr>
+ <tr class="data1" data-days="736345">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 17, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/895811.html" class="data-link">ODI # 3725</a></td>
+				 </tr>
+ <tr class="data1" data-days="736348">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">25 runs</td>
+									<td class="left"><a href="/ci/content/ground/56370.html" class="data-link">Canberra</a></td>
+									<td nowrap="nowrap">Jan 20, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/895813.html" class="data-link">ODI # 3726</a></td>
+				 </tr>
+ <tr class="data1" data-days="736351">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 23, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/895815.html" class="data-link">ODI # 3727</a></td>
+				 </tr>
+ <tr class="data1" data-days="736353">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">70 runs</td>
+									<td class="left"><a href="/ci/content/ground/58895.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Jan 25, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/914227.html" class="data-link">ODI # 3728</a></td>
+				 </tr>
+ <tr class="data1" data-days="736354">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/19.html" class="data-link">Hong Kong</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/19.html" class="data-link">Hong Kong</a></td>
+									<td class="left" nowrap="nowrap">109 runs</td>
+									<td class="left"><a href="/ci/content/ground/493864.html" class="data-link">Mong Kok</a></td>
+									<td nowrap="nowrap">Jan 26, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/952183.html" class="data-link">ODI # 3729</a></td>
+				 </tr>
+ <tr class="data1" data-days="736359">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Jan 31, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/914265.html" class="data-link">ODI # 3730</a></td>
+				 </tr>
+ <tr class="data1" data-days="736362">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">159 runs</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Feb 3, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/914231.html" class="data-link">ODI # 3731</a></td>
+				 </tr>
+ <tr class="data1" data-days="736362">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">39 runs</td>
+									<td class="left"><a href="/ci/content/ground/59042.html" class="data-link">Bloemfontein</a></td>
+									<td nowrap="nowrap">Feb 3, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/800469.html" class="data-link">ODI # 3732</a></td>
+				 </tr>
+ <tr class="data1" data-days="736365">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58899.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Feb 6, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/914233.html" class="data-link">ODI # 3733</a></td>
+				 </tr>
+ <tr class="data1" data-days="736365">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59159.html" class="data-link">Port Elizabeth</a></td>
+									<td nowrap="nowrap">Feb 6, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/800471.html" class="data-link">ODI # 3734</a></td>
+				 </tr>
+ <tr class="data1" data-days="736367">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">55 runs</td>
+									<td class="left"><a href="/ci/content/ground/58831.html" class="data-link">Hamilton</a></td>
+									<td nowrap="nowrap">Feb 8, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/914235.html" class="data-link">ODI # 3735</a></td>
+				 </tr>
+ <tr class="data1" data-days="736368">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Feb 9, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/800473.html" class="data-link">ODI # 3736</a></td>
+				 </tr>
+ <tr class="data1" data-days="736371">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">1 wicket</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Feb 12, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/800475.html" class="data-link">ODI # 3737</a></td>
+				 </tr>
+ <tr class="data1" data-days="736373">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59068.html" class="data-link">Cape Town</a></td>
+									<td nowrap="nowrap">Feb 14, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/800477.html" class="data-link">ODI # 3738</a></td>
+				 </tr>
+ <tr class="data1" data-days="736483">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/208544.html" class="data-link">Providence</a></td>
+									<td nowrap="nowrap">Jun 3, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/932849.html" class="data-link">ODI # 3739</a></td>
+				 </tr>
+ <tr class="data1" data-days="736485">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/208544.html" class="data-link">Providence</a></td>
+									<td nowrap="nowrap">Jun 5, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/932851.html" class="data-link">ODI # 3740</a></td>
+				 </tr>
+ <tr class="data1" data-days="736487">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">47 runs</td>
+									<td class="left"><a href="/ci/content/ground/208544.html" class="data-link">Providence</a></td>
+									<td nowrap="nowrap">Jun 7, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/932853.html" class="data-link">ODI # 3741</a></td>
+				 </tr>
+ <tr class="data1" data-days="736491">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Jun 11, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1007649.html" class="data-link">ODI # 3742</a></td>
+				 </tr>
+ <tr class="data1" data-days="736491">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">36 runs</td>
+									<td class="left"><a href="/ci/content/ground/59421.html" class="data-link">Basseterre</a></td>
+									<td nowrap="nowrap">Jun 11, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/932855.html" class="data-link">ODI # 3743</a></td>
+				 </tr>
+ <tr class="data1" data-days="736493">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Jun 13, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1007651.html" class="data-link">ODI # 3744</a></td>
+				 </tr>
+ <tr class="data1" data-days="736493">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59421.html" class="data-link">Basseterre</a></td>
+									<td nowrap="nowrap">Jun 13, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/932857.html" class="data-link">ODI # 3745</a></td>
+				 </tr>
+ <tr class="data1" data-days="736495">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">10 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Jun 15, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1007653.html" class="data-link">ODI # 3746</a></td>
+				 </tr>
+ <tr class="data1" data-days="736495">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">139 runs</td>
+									<td class="left"><a href="/ci/content/ground/59421.html" class="data-link">Basseterre</a></td>
+									<td nowrap="nowrap">Jun 15, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/932859.html" class="data-link">ODI # 3747</a></td>
+				 </tr>
+ <tr class="data1" data-days="736496">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">76 runs</td>
+									<td class="left"><a href="/ci/content/ground/58607.html" class="data-link">Dublin (Malahide)</a></td>
+									<td nowrap="nowrap">Jun 16, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913619.html" class="data-link">ODI # 3748</a></td>
+				 </tr>
+ <tr class="data1" data-days="736498">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">136 runs</td>
+									<td class="left"><a href="/ci/content/ground/58607.html" class="data-link">Dublin (Malahide)</a></td>
+									<td nowrap="nowrap">Jun 18, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913621.html" class="data-link">ODI # 3749</a></td>
+				 </tr>
+ <tr class="data1" data-days="736499">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Jun 19, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/932861.html" class="data-link">ODI # 3750</a></td>
+				 </tr>
+ <tr class="data1" data-days="736501">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">tied</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Jun 21, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913623.html" class="data-link">ODI # 3751</a></td>
+				 </tr>
+ <tr class="data1" data-days="736501">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Jun 21, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/932863.html" class="data-link">ODI # 3752</a></td>
+				 </tr>
+ <tr class="data1" data-days="736504">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">10 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">Jun 24, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913625.html" class="data-link">ODI # 3753</a></td>
+				 </tr>
+ <tr class="data1" data-days="736504">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">100 runs</td>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Jun 24, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/932865.html" class="data-link">ODI # 3754</a></td>
+				 </tr>
+ <tr class="data1" data-days="736506">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56831.html" class="data-link">Bristol</a></td>
+									<td nowrap="nowrap">Jun 26, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913627.html" class="data-link">ODI # 3755</a></td>
+				 </tr>
+ <tr class="data1" data-days="736506">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">58 runs</td>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Jun 26, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/932867.html" class="data-link">ODI # 3756</a></td>
+				 </tr>
+ <tr class="data1" data-days="736509">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Jun 29, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913629.html" class="data-link">ODI # 3757</a></td>
+				 </tr>
+ <tr class="data1" data-days="736512">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">122 runs</td>
+									<td class="left"><a href="/ci/content/ground/56874.html" class="data-link">Cardiff</a></td>
+									<td nowrap="nowrap">Jul 2, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913631.html" class="data-link">ODI # 3758</a></td>
+				 </tr>
+ <tr class="data1" data-days="736514">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59269.html" class="data-link">Edinburgh</a></td>
+									<td nowrap="nowrap">Jul 4, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1003271.html" class="data-link">ODI # 3759</a></td>
+				 </tr>
+ <tr class="data1" data-days="736516">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">78 runs</td>
+									<td class="left"><a href="/ci/content/ground/59269.html" class="data-link">Edinburgh</a></td>
+									<td nowrap="nowrap">Jul 6, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1003273.html" class="data-link">ODI # 3760</a></td>
+				 </tr>
+ <tr class="data1" data-days="736522">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">39 runs</td>
+									<td class="left"><a href="/ci/content/ground/58588.html" class="data-link">Belfast</a></td>
+									<td nowrap="nowrap">Jul 12, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/997961.html" class="data-link">ODI # 3761</a></td>
+				 </tr>
+ <tr class="data1" data-days="736524">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58588.html" class="data-link">Belfast</a></td>
+									<td nowrap="nowrap">Jul 14, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/997963.html" class="data-link">ODI # 3762</a></td>
+				 </tr>
+ <tr class="data1" data-days="736527">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">79 runs</td>
+									<td class="left"><a href="/ci/content/ground/58588.html" class="data-link">Belfast</a></td>
+									<td nowrap="nowrap">Jul 17, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/997965.html" class="data-link">ODI # 3763</a></td>
+				 </tr>
+ <tr class="data1" data-days="736529">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">12 runs</td>
+									<td class="left"><a href="/ci/content/ground/58588.html" class="data-link">Belfast</a></td>
+									<td nowrap="nowrap">Jul 19, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/997967.html" class="data-link">ODI # 3764</a></td>
+				 </tr>
+ <tr class="data1" data-days="736555">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/27.html" class="data-link">U.A.E.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap">98 runs</td>
+									<td class="left"><a href="/ci/content/ground/59269.html" class="data-link">Edinburgh</a></td>
+									<td nowrap="nowrap">Aug 14, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/997993.html" class="data-link">ODI # 3765</a></td>
+				 </tr>
+ <tr class="data1" data-days="736557">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/27.html" class="data-link">U.A.E.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59269.html" class="data-link">Edinburgh</a></td>
+									<td nowrap="nowrap">Aug 16, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/997995.html" class="data-link">ODI # 3766</a></td>
+				 </tr>
+ <tr class="data1" data-days="736559">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">255 runs</td>
+									<td class="left"><a href="/ci/content/ground/58607.html" class="data-link">Dublin (Malahide)</a></td>
+									<td nowrap="nowrap">Aug 18, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913649.html" class="data-link">ODI # 3767</a></td>
+				 </tr>
+ <tr class="data1" data-days="736562">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Aug 21, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/995457.html" class="data-link">ODI # 3768</a></td>
+				 </tr>
+ <tr class="data1" data-days="736565">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">82 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Aug 24, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/995459.html" class="data-link">ODI # 3769</a></td>
+				 </tr>
+ <tr class="data1" data-days="736565">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">44 runs</td>
+									<td class="left"><a href="/ci/content/ground/57312.html" class="data-link">Southampton</a></td>
+									<td nowrap="nowrap">Aug 24, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913653.html" class="data-link">ODI # 3770</a></td>
+				 </tr>
+ <tr class="data1" data-days="736568">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Aug 27, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913655.html" class="data-link">ODI # 3771</a></td>
+				 </tr>
+ <tr class="data1" data-days="736569">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59368.html" class="data-link">Dambulla</a></td>
+									<td nowrap="nowrap">Aug 28, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/995461.html" class="data-link">ODI # 3772</a></td>
+				 </tr>
+ <tr class="data1" data-days="736571">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">169 runs</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Aug 30, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913657.html" class="data-link">ODI # 3773</a></td>
+				 </tr>
+ <tr class="data1" data-days="736572">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59368.html" class="data-link">Dambulla</a></td>
+									<td nowrap="nowrap">Aug 31, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/995463.html" class="data-link">ODI # 3774</a></td>
+				 </tr>
+ <tr class="data1" data-days="736573">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57092.html" class="data-link">Leeds</a></td>
+									<td nowrap="nowrap">Sep 1, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913659.html" class="data-link">ODI # 3775</a></td>
+				 </tr>
+ <tr class="data1" data-days="736576">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/434211.html" class="data-link">Pallekele</a></td>
+									<td nowrap="nowrap">Sep 4, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/995465.html" class="data-link">ODI # 3776</a></td>
+				 </tr>
+ <tr class="data1" data-days="736576">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56874.html" class="data-link">Cardiff</a></td>
+									<td nowrap="nowrap">Sep 4, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/913661.html" class="data-link">ODI # 3777</a></td>
+				 </tr>
+ <tr class="data1" data-days="736580">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/19.html" class="data-link">Hong Kong</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59269.html" class="data-link">Edinburgh</a></td>
+									<td nowrap="nowrap">Sep 8, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1004283.html" class="data-link">ODI # 3778</a></td>
+				 </tr>
+ <tr class="data1" data-days="736582">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/19.html" class="data-link">Hong Kong</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap">53 runs</td>
+									<td class="left"><a href="/ci/content/ground/59269.html" class="data-link">Edinburgh</a></td>
+									<td nowrap="nowrap">Sep 10, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1004285.html" class="data-link">ODI # 3779</a></td>
+				 </tr>
+ <tr class="data1" data-days="736597">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">206 runs</td>
+									<td class="left"><a href="/ci/content/ground/59039.html" class="data-link">Benoni</a></td>
+									<td nowrap="nowrap">Sep 25, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/936131.html" class="data-link">ODI # 3780</a></td>
+				 </tr>
+ <tr class="data1" data-days="736597">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">7 runs</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Sep 25, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1051297.html" class="data-link">ODI # 3781</a></td>
+				 </tr>
+ <tr class="data1" data-days="736599">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59039.html" class="data-link">Benoni</a></td>
+									<td nowrap="nowrap">Sep 27, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/936133.html" class="data-link">ODI # 3782</a></td>
+				 </tr>
+ <tr class="data1" data-days="736600">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Sep 28, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1051299.html" class="data-link">ODI # 3783</a></td>
+				 </tr>
+ <tr class="data1" data-days="736602">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">111 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Sep 30, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1050223.html" class="data-link">ODI # 3784</a></td>
+				 </tr>
+ <tr class="data1" data-days="736602">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Sep 30, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/936135.html" class="data-link">ODI # 3785</a></td>
+				 </tr>
+ <tr class="data1" data-days="736603">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">141 runs</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Oct 1, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1051301.html" class="data-link">ODI # 3786</a></td>
+				 </tr>
+ <tr class="data1" data-days="736604">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">142 runs</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Oct 2, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/936137.html" class="data-link">ODI # 3787</a></td>
+				 </tr>
+ <tr class="data1" data-days="736604">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">59 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 2, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1050225.html" class="data-link">ODI # 3788</a></td>
+				 </tr>
+ <tr class="data1" data-days="736607">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">136 runs</td>
+									<td class="left"><a href="/ci/content/ground/59396.html" class="data-link">Abu Dhabi</a></td>
+									<td nowrap="nowrap">Oct 5, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1050227.html" class="data-link">ODI # 3789</a></td>
+				 </tr>
+ <tr class="data1" data-days="736607">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59089.html" class="data-link">Durban</a></td>
+									<td nowrap="nowrap">Oct 5, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/936139.html" class="data-link">ODI # 3790</a></td>
+				 </tr>
+ <tr class="data1" data-days="736609">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">21 runs</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Oct 7, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1029819.html" class="data-link">ODI # 3791</a></td>
+				 </tr>
+ <tr class="data1" data-days="736611">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59159.html" class="data-link">Port Elizabeth</a></td>
+									<td nowrap="nowrap">Oct 9, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/936141.html" class="data-link">ODI # 3792</a></td>
+				 </tr>
+ <tr class="data1" data-days="736611">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">34 runs</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Oct 9, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1029821.html" class="data-link">ODI # 3793</a></td>
+				 </tr>
+ <tr class="data1" data-days="736614">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56658.html" class="data-link">Chattogram</a></td>
+									<td nowrap="nowrap">Oct 12, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1029823.html" class="data-link">ODI # 3794</a></td>
+				 </tr>
+ <tr class="data1" data-days="736614">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">31 runs</td>
+									<td class="left"><a href="/ci/content/ground/59068.html" class="data-link">Cape Town</a></td>
+									<td nowrap="nowrap">Oct 12, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/936143.html" class="data-link">ODI # 3795</a></td>
+				 </tr>
+ <tr class="data1" data-days="736618">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58056.html" class="data-link">Dharamsala</a></td>
+									<td nowrap="nowrap">Oct 16, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1030219.html" class="data-link">ODI # 3796</a></td>
+				 </tr>
+ <tr class="data1" data-days="736622">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">6 runs</td>
+									<td class="left"><a href="/ci/content/ground/58040.html" class="data-link">Delhi</a></td>
+									<td nowrap="nowrap">Oct 20, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1030221.html" class="data-link">ODI # 3797</a></td>
+				 </tr>
+ <tr class="data1" data-days="736625">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57991.html" class="data-link">Mohali</a></td>
+									<td nowrap="nowrap">Oct 23, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1030223.html" class="data-link">ODI # 3798</a></td>
+				 </tr>
+ <tr class="data1" data-days="736628">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">19 runs</td>
+									<td class="left"><a href="/ci/content/ground/485865.html" class="data-link">Ranchi</a></td>
+									<td nowrap="nowrap">Oct 26, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1030225.html" class="data-link">ODI # 3799</a></td>
+				 </tr>
+ <tr class="data1" data-days="736631">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">190 runs</td>
+									<td class="left"><a href="/ci/content/ground/58547.html" class="data-link">Visakhapatnam</a></td>
+									<td nowrap="nowrap">Oct 29, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1030227.html" class="data-link">ODI # 3800</a></td>
+				 </tr>
+ <tr class="data1" data-days="736637">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/19.html" class="data-link">Hong Kong</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/20.html" class="data-link">P.N.G.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/19.html" class="data-link">Hong Kong</a></td>
+									<td class="left" nowrap="nowrap">106 runs</td>
+									<td class="left"><a href="/ci/content/ground/493864.html" class="data-link">Mong Kok</a></td>
+									<td nowrap="nowrap">Nov 4, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1026847.html" class="data-link">ODI # 3801</a></td>
+				 </tr>
+ <tr class="data1" data-days="736639">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/19.html" class="data-link">Hong Kong</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/20.html" class="data-link">P.N.G.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/20.html" class="data-link">P.N.G.</a></td>
+									<td class="left" nowrap="nowrap">14 runs</td>
+									<td class="left"><a href="/ci/content/ground/493864.html" class="data-link">Mong Kok</a></td>
+									<td nowrap="nowrap">Nov 6, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1026849.html" class="data-link">ODI # 3802</a></td>
+				 </tr>
+ <tr class="data1" data-days="736641">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/19.html" class="data-link">Hong Kong</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/20.html" class="data-link">P.N.G.</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/19.html" class="data-link">Hong Kong</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/493864.html" class="data-link">Mong Kok</a></td>
+									<td nowrap="nowrap">Nov 8, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1026851.html" class="data-link">ODI # 3803</a></td>
+				 </tr>
+ <tr class="data1" data-days="736647">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Nov 14, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1059710.html" class="data-link">ODI # 3804</a></td>
+				 </tr>
+ <tr class="data1" data-days="736649">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">62 runs</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Nov 16, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1059711.html" class="data-link">ODI # 3805</a></td>
+				 </tr>
+ <tr class="data1" data-days="736652">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">tied</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Nov 19, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1059712.html" class="data-link">ODI # 3806</a></td>
+				 </tr>
+ <tr class="data1" data-days="736654">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Nov 21, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1059713.html" class="data-link">ODI # 3807</a></td>
+				 </tr>
+ <tr class="data1" data-days="736656">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">1 run</td>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Nov 23, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1059714.html" class="data-link">ODI # 3808</a></td>
+				 </tr>
+ <tr class="data1" data-days="736658">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">5 runs</td>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Nov 25, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1059715.html" class="data-link">ODI # 3809</a></td>
+				 </tr>
+ <tr class="data1" data-days="736660">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Nov 27, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1059716.html" class="data-link">ODI # 3810</a></td>
+				 </tr>
+ <tr class="data1" data-days="736667">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">68 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Dec 4, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1001371.html" class="data-link">ODI # 3811</a></td>
+				 </tr>
+ <tr class="data1" data-days="736669">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">116 runs</td>
+									<td class="left"><a href="/ci/content/ground/56370.html" class="data-link">Canberra</a></td>
+									<td nowrap="nowrap">Dec 6, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1001373.html" class="data-link">ODI # 3812</a></td>
+				 </tr>
+ <tr class="data1" data-days="736672">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">117 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Dec 9, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1001375.html" class="data-link">ODI # 3813</a></td>
+				 </tr>
+ <tr class="data1" data-days="736689">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">77 runs</td>
+									<td class="left"><a href="/ci/content/ground/58810.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Dec 26, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1019973.html" class="data-link">ODI # 3814</a></td>
+				 </tr>
+ <tr class="data1" data-days="736692">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">67 runs</td>
+									<td class="left"><a href="/ci/content/ground/424917.html" class="data-link">Nelson</a></td>
+									<td nowrap="nowrap">Dec 29, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1019975.html" class="data-link">ODI # 3815</a></td>
+				 </tr>
+ <tr class="data1" data-days="736694">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/424917.html" class="data-link">Nelson</a></td>
+									<td nowrap="nowrap">Dec 31, 2016</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/1019977.html" class="data-link">ODI # 3816</a></td>
+				 </tr>
+</tbody>
+</table>

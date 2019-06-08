@@ -1,0 +1,565 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="726103">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">81 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 2, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65422.html" class="data-link">ODI # 484</a></td>
+				 </tr>
+ <tr class="data1" data-days="726103">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">56 runs</td>
+									<td class="left"><a href="/ci/content/ground/57980.html" class="data-link">Kolkata</a></td>
+									<td nowrap="nowrap">Jan 2, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64315.html" class="data-link">ODI # 483</a></td>
+				 </tr>
+ <tr class="data1" data-days="726104">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">1 run</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 3, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65423.html" class="data-link">ODI # 485</a></td>
+				 </tr>
+ <tr class="data1" data-days="726106">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 5, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65424.html" class="data-link">ODI # 486</a></td>
+				 </tr>
+ <tr class="data1" data-days="726106">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58401.html" class="data-link">Rajkot</a></td>
+									<td nowrap="nowrap">Jan 5, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64316.html" class="data-link">ODI # 487</a></td>
+				 </tr>
+ <tr class="data1" data-days="726108">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 7, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65425.html" class="data-link">ODI # 488</a></td>
+				 </tr>
+ <tr class="data1" data-days="726108">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">2 runs</td>
+									<td class="left"><a href="/ci/content/ground/57851.html" class="data-link">Ahmedabad</a></td>
+									<td nowrap="nowrap">Jan 7, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64317.html" class="data-link">ODI # 489</a></td>
+				 </tr>
+ <tr class="data1" data-days="726110">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 9, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65426.html" class="data-link">ODI # 490</a></td>
+				 </tr>
+ <tr class="data1" data-days="726111">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">81 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 10, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65427.html" class="data-link">ODI # 491</a></td>
+				 </tr>
+ <tr class="data1" data-days="726113">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56407.html" class="data-link">Hobart</a></td>
+									<td nowrap="nowrap">Jan 12, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65428.html" class="data-link">ODI # 492</a></td>
+				 </tr>
+ <tr class="data1" data-days="726115">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">38 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 14, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65429.html" class="data-link">ODI # 493</a></td>
+				 </tr>
+ <tr class="data1" data-days="726117">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 16, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65430.html" class="data-link">ODI # 494</a></td>
+				 </tr>
+ <tr class="data1" data-days="726118">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 17, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65431.html" class="data-link">ODI # 495</a></td>
+				 </tr>
+ <tr class="data1" data-days="726120">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 19, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65432.html" class="data-link">ODI # 496</a></td>
+				 </tr>
+ <tr class="data1" data-days="726120">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58081.html" class="data-link">Faridabad</a></td>
+									<td nowrap="nowrap">Jan 19, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64318.html" class="data-link">ODI # 497</a></td>
+				 </tr>
+ <tr class="data1" data-days="726121">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">78 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 20, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65433.html" class="data-link">ODI # 498</a></td>
+				 </tr>
+ <tr class="data1" data-days="726123">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 22, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65434.html" class="data-link">ODI # 499</a></td>
+				 </tr>
+ <tr class="data1" data-days="726123">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">73 runs</td>
+									<td class="left"><a href="/ci/content/ground/58119.html" class="data-link">Gwalior</a></td>
+									<td nowrap="nowrap">Jan 22, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64319.html" class="data-link">ODI # 500</a></td>
+				 </tr>
+ <tr class="data1" data-days="726125">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 24, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65435.html" class="data-link">ODI # 501</a></td>
+				 </tr>
+ <tr class="data1" data-days="726126">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58479.html" class="data-link">Thiruvananthapuram</a></td>
+									<td nowrap="nowrap">Jan 25, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64320.html" class="data-link">ODI # 502</a></td>
+				 </tr>
+ <tr class="data1" data-days="726136">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">22 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 4, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64321.html" class="data-link">ODI # 503</a></td>
+				 </tr>
+ <tr class="data1" data-days="726170">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58822.html" class="data-link">Dunedin</a></td>
+									<td nowrap="nowrap">Mar 9, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64322.html" class="data-link">ODI # 504</a></td>
+				 </tr>
+ <tr class="data1" data-days="726173">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Mar 12, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64323.html" class="data-link">ODI # 505</a></td>
+				 </tr>
+ <tr class="data1" data-days="726173">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">47 runs</td>
+									<td class="left"><a href="/ci/content/ground/59458.html" class="data-link">Kingston</a></td>
+									<td nowrap="nowrap">Mar 12, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64324.html" class="data-link">ODI # 506</a></td>
+				 </tr>
+ <tr class="data1" data-days="726176">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59495.html" class="data-link">St John's</a></td>
+									<td nowrap="nowrap">Mar 15, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64325.html" class="data-link">ODI # 507</a></td>
+				 </tr>
+ <tr class="data1" data-days="726177">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Mar 16, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64326.html" class="data-link">ODI # 508</a></td>
+				 </tr>
+ <tr class="data1" data-days="726179">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">50 runs</td>
+									<td class="left"><a href="/ci/content/ground/59475.html" class="data-link">Port of Spain</a></td>
+									<td nowrap="nowrap">Mar 18, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64327.html" class="data-link">ODI # 509</a></td>
+				 </tr>
+ <tr class="data1" data-days="726180">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Mar 19, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64328.html" class="data-link">ODI # 510</a></td>
+				 </tr>
+ <tr class="data1" data-days="726181">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59475.html" class="data-link">Port of Spain</a></td>
+									<td nowrap="nowrap">Mar 20, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64329.html" class="data-link">ODI # 511</a></td>
+				 </tr>
+ <tr class="data1" data-days="726186">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">18 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 25, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65745.html" class="data-link">ODI # 512</a></td>
+				 </tr>
+ <tr class="data1" data-days="726188">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">73 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 27, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65746.html" class="data-link">ODI # 513</a></td>
+				 </tr>
+ <tr class="data1" data-days="726190">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">99 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 29, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65747.html" class="data-link">ODI # 514</a></td>
+				 </tr>
+ <tr class="data1" data-days="726191">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59447.html" class="data-link">Georgetown</a></td>
+									<td nowrap="nowrap">Mar 30, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64330.html" class="data-link">ODI # 515</a></td>
+				 </tr>
+ <tr class="data1" data-days="726192">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">43 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 31, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65748.html" class="data-link">ODI # 516</a></td>
+				 </tr>
+ <tr class="data1" data-days="726193">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">52 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 1, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65749.html" class="data-link">ODI # 517</a></td>
+				 </tr>
+ <tr class="data1" data-days="726241">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">May 19, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64989.html" class="data-link">ODI # 518</a></td>
+				 </tr>
+ <tr class="data1" data-days="726243">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">47 runs</td>
+									<td class="left"><a href="/ci/content/ground/57092.html" class="data-link">Leeds</a></td>
+									<td nowrap="nowrap">May 21, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64990.html" class="data-link">ODI # 519</a></td>
+				 </tr>
+ <tr class="data1" data-days="726246">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">May 23-24, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64991.html" class="data-link">ODI # 520</a></td>
+				 </tr>
+ <tr class="data1" data-days="726349">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Sep 4, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64992.html" class="data-link">ODI # 521</a></td>
+				 </tr>
+ <tr class="data1" data-days="726389">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/58967.html" class="data-link">Lahore</a></td>
+									<td nowrap="nowrap">Oct 14, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64331.html" class="data-link">ODI # 522</a></td>
+				 </tr>
+ <tr class="data1" data-days="726391">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">23 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 16, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65841.html" class="data-link">ODI # 523</a></td>
+				 </tr>
+ <tr class="data1" data-days="726393">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">84 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 18, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65842.html" class="data-link">ODI # 524</a></td>
+				 </tr>
+ <tr class="data1" data-days="726394">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">34 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 19, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65843.html" class="data-link">ODI # 525</a></td>
+				 </tr>
+ <tr class="data1" data-days="726396">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 21, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65844.html" class="data-link">ODI # 526</a></td>
+				 </tr>
+ <tr class="data1" data-days="726397">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">11 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 22, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65845.html" class="data-link">ODI # 527</a></td>
+				 </tr>
+ <tr class="data1" data-days="726402">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Oct 27, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65674.html" class="data-link">ODI # 528</a></td>
+				 </tr>
+ <tr class="data1" data-days="726402">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56656.html" class="data-link">Chittagong</a></td>
+									<td nowrap="nowrap">Oct 27, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65675.html" class="data-link">ODI # 529</a></td>
+				 </tr>
+ <tr class="data1" data-days="726404">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">17 runs</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Oct 29, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65676.html" class="data-link">ODI # 530</a></td>
+				 </tr>
+ <tr class="data1" data-days="726404">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">173 runs</td>
+									<td class="left"><a href="/ci/content/ground/56656.html" class="data-link">Chittagong</a></td>
+									<td nowrap="nowrap">Oct 29, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65677.html" class="data-link">ODI # 531</a></td>
+				 </tr>
+ <tr class="data1" data-days="726406">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Oct 31, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65678.html" class="data-link">ODI # 532</a></td>
+				 </tr>
+ <tr class="data1" data-days="726408">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Nov 2, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65679.html" class="data-link">ODI # 533</a></td>
+				 </tr>
+ <tr class="data1" data-days="726410">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Nov 4, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65680.html" class="data-link">ODI # 534</a></td>
+				 </tr>
+ <tr class="data1" data-days="726446">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">89 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Dec 10, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65436.html" class="data-link">ODI # 535</a></td>
+				 </tr>
+ <tr class="data1" data-days="726446">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58542.html" class="data-link">Visakhapatnam</a></td>
+									<td nowrap="nowrap">Dec 10, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64332.html" class="data-link">ODI # 536</a></td>
+				 </tr>
+ <tr class="data1" data-days="726447">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Dec 11, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65437.html" class="data-link">ODI # 537</a></td>
+				 </tr>
+ <tr class="data1" data-days="726448">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58027.html" class="data-link">Cuttack</a></td>
+									<td nowrap="nowrap">Dec 12, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64333.html" class="data-link">ODI # 538</a></td>
+				 </tr>
+ <tr class="data1" data-days="726449">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">1 run</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Dec 13, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65438.html" class="data-link">ODI # 539</a></td>
+				 </tr>
+ <tr class="data1" data-days="726451">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">34 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Dec 15, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65439.html" class="data-link">ODI # 540</a></td>
+				 </tr>
+ <tr class="data1" data-days="726451">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">53 runs</td>
+									<td class="left"><a href="/ci/content/ground/58151.html" class="data-link">Indore</a></td>
+									<td nowrap="nowrap">Dec 15, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64334.html" class="data-link">ODI # 541</a></td>
+				 </tr>
+ <tr class="data1" data-days="726453">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">17 runs</td>
+									<td class="left"><a href="/ci/content/ground/56407.html" class="data-link">Hobart</a></td>
+									<td nowrap="nowrap">Dec 17, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65440.html" class="data-link">ODI # 542</a></td>
+				 </tr>
+ <tr class="data1" data-days="726453">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58519.html" class="data-link">Vadodara</a></td>
+									<td nowrap="nowrap">Dec 17, 1988</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64335.html" class="data-link">ODI # 543</a></td>
+				 </tr>
+</tbody>
+</table>

@@ -1,0 +1,682 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="725737">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">37 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 1, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65909.html" class="data-link">ODI # 409</a></td>
+				 </tr>
+ <tr class="data1" data-days="725738">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">1 wicket</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 2, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65910.html" class="data-link">ODI # 410</a></td>
+				 </tr>
+ <tr class="data1" data-days="725739">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">19 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 3, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65911.html" class="data-link">ODI # 411</a></td>
+				 </tr>
+ <tr class="data1" data-days="725740">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">164 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 4, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65912.html" class="data-link">ODI # 412</a></td>
+				 </tr>
+ <tr class="data1" data-days="725741">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 5, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65913.html" class="data-link">ODI # 413</a></td>
+				 </tr>
+ <tr class="data1" data-days="725743">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 7, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65914.html" class="data-link">ODI # 414</a></td>
+				 </tr>
+ <tr class="data1" data-days="725747">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58114.html" class="data-link">Guwahati</a></td>
+									<td nowrap="nowrap">Jan 11, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64297.html" class="data-link">ODI # 415</a></td>
+				 </tr>
+ <tr class="data1" data-days="725749">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58040.html" class="data-link">Delhi</a></td>
+									<td nowrap="nowrap">Jan 13, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64298.html" class="data-link">ODI # 416</a></td>
+				 </tr>
+ <tr class="data1" data-days="725751">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">94 runs</td>
+									<td class="left"><a href="/ci/content/ground/58519.html" class="data-link">Vadodara</a></td>
+									<td nowrap="nowrap">Jan 15, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64299.html" class="data-link">ODI # 417</a></td>
+				 </tr>
+ <tr class="data1" data-days="725753">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 17, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65408.html" class="data-link">ODI # 418</a></td>
+				 </tr>
+ <tr class="data1" data-days="725753">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">10 runs</td>
+									<td class="left"><a href="/ci/content/ground/58324.html" class="data-link">Mumbai</a></td>
+									<td nowrap="nowrap">Jan 17, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64300.html" class="data-link">ODI # 419</a></td>
+				 </tr>
+ <tr class="data1" data-days="725754">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">11 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 18, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65409.html" class="data-link">ODI # 420</a></td>
+				 </tr>
+ <tr class="data1" data-days="725756">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 20, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65410.html" class="data-link">ODI # 421</a></td>
+				 </tr>
+ <tr class="data1" data-days="725758">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 22, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65411.html" class="data-link">ODI # 422</a></td>
+				 </tr>
+ <tr class="data1" data-days="725760">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">89 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 24, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65412.html" class="data-link">ODI # 423</a></td>
+				 </tr>
+ <tr class="data1" data-days="725761">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">16 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 25, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65413.html" class="data-link">ODI # 424</a></td>
+				 </tr>
+ <tr class="data1" data-days="725762">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">33 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 26, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65414.html" class="data-link">ODI # 425</a></td>
+				 </tr>
+ <tr class="data1" data-days="725763">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58151.html" class="data-link">Indore</a></td>
+									<td nowrap="nowrap">Jan 27, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64301.html" class="data-link">ODI # 426</a></td>
+				 </tr>
+ <tr class="data1" data-days="725764">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">36 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 28, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65415.html" class="data-link">ODI # 427</a></td>
+				 </tr>
+ <tr class="data1" data-days="725766">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 30, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65416.html" class="data-link">ODI # 428</a></td>
+				 </tr>
+ <tr class="data1" data-days="725768">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">109 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 1, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65417.html" class="data-link">ODI # 429</a></td>
+				 </tr>
+ <tr class="data1" data-days="725770">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">29 runs</td>
+									<td class="left"><a href="/ci/content/ground/56397.html" class="data-link">Devonport</a></td>
+									<td nowrap="nowrap">Feb 3, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65418.html" class="data-link">ODI # 430</a></td>
+				 </tr>
+ <tr class="data1" data-days="725773">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 6, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65419.html" class="data-link">ODI # 431</a></td>
+				 </tr>
+ <tr class="data1" data-days="725775">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 8, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65420.html" class="data-link">ODI # 432</a></td>
+				 </tr>
+ <tr class="data1" data-days="725778">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">8 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 11, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65421.html" class="data-link">ODI # 433</a></td>
+				 </tr>
+ <tr class="data1" data-days="725785">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57980.html" class="data-link">Kolkata</a></td>
+									<td nowrap="nowrap">Feb 18, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64302.html" class="data-link">ODI # 434</a></td>
+				 </tr>
+ <tr class="data1" data-days="725813">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">95 runs</td>
+									<td class="left"><a href="/ci/content/ground/58822.html" class="data-link">Dunedin</a></td>
+									<td nowrap="nowrap">Mar 18, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64303.html" class="data-link">ODI # 435</a></td>
+				 </tr>
+ <tr class="data1" data-days="725815">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/58136.html" class="data-link">Hyderabad (Deccan)</a></td>
+									<td nowrap="nowrap">Mar 20, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64304.html" class="data-link">ODI # 436</a></td>
+				 </tr>
+ <tr class="data1" data-days="725816">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Mar 21, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64305.html" class="data-link">ODI # 437</a></td>
+				 </tr>
+ <tr class="data1" data-days="725817">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58383.html" class="data-link">Pune</a></td>
+									<td nowrap="nowrap">Mar 22, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64306.html" class="data-link">ODI # 438</a></td>
+				 </tr>
+ <tr class="data1" data-days="725819">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">41 runs</td>
+									<td class="left"><a href="/ci/content/ground/58344.html" class="data-link">Nagpur</a></td>
+									<td nowrap="nowrap">Mar 24, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64307.html" class="data-link">ODI # 439</a></td>
+				 </tr>
+ <tr class="data1" data-days="725821">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58180.html" class="data-link">Jamshedpur</a></td>
+									<td nowrap="nowrap">Mar 26, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64308.html" class="data-link">ODI # 440</a></td>
+				 </tr>
+ <tr class="data1" data-days="725823">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">10 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Mar 28, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64309.html" class="data-link">ODI # 441</a></td>
+				 </tr>
+ <tr class="data1" data-days="725828">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 2, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65739.html" class="data-link">ODI # 442</a></td>
+				 </tr>
+ <tr class="data1" data-days="725829">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 3, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65740.html" class="data-link">ODI # 443</a></td>
+				 </tr>
+ <tr class="data1" data-days="725831">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 5, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65741.html" class="data-link">ODI # 444</a></td>
+				 </tr>
+ <tr class="data1" data-days="725833">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 7, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65742.html" class="data-link">ODI # 445</a></td>
+				 </tr>
+ <tr class="data1" data-days="725835">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">11 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 9, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65743.html" class="data-link">ODI # 446</a></td>
+				 </tr>
+ <tr class="data1" data-days="725836">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 10, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65744.html" class="data-link">ODI # 447</a></td>
+				 </tr>
+ <tr class="data1" data-days="725877">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">May 21, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64986.html" class="data-link">ODI # 448</a></td>
+				 </tr>
+ <tr class="data1" data-days="725879">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">May 23, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64987.html" class="data-link">ODI # 449</a></td>
+				 </tr>
+ <tr class="data1" data-days="725881">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">1 wicket</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">May 25, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64988.html" class="data-link">ODI # 450</a></td>
+				 </tr>
+ <tr class="data1" data-days="726017">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">15 runs</td>
+									<td class="left"><a href="/ci/content/ground/58936.html" class="data-link">Hyderabad (Sind)</a></td>
+									<td nowrap="nowrap">Oct 8, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65091.html" class="data-link">ODI # 451</a></td>
+				 </tr>
+ <tr class="data1" data-days="726018">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">1 run</td>
+									<td class="left"><a href="/ci/content/ground/58008.html" class="data-link">Chennai</a></td>
+									<td nowrap="nowrap">Oct 9, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65093.html" class="data-link">ODI # 453</a></td>
+				 </tr>
+ <tr class="data1" data-days="726018">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58930.html" class="data-link">Gujranwala</a></td>
+									<td nowrap="nowrap">Oct 9, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65092.html" class="data-link">ODI # 452</a></td>
+				 </tr>
+ <tr class="data1" data-days="726019">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">3 runs</td>
+									<td class="left"><a href="/ci/content/ground/58136.html" class="data-link">Hyderabad (Deccan)</a></td>
+									<td nowrap="nowrap">Oct 10, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65094.html" class="data-link">ODI # 454</a></td>
+				 </tr>
+ <tr class="data1" data-days="726022">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">18 runs</td>
+									<td class="left"><a href="/ci/content/ground/59004.html" class="data-link">Rawalpindi</a></td>
+									<td nowrap="nowrap">Oct 12-13, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65095.html" class="data-link">ODI # 455</a></td>
+				 </tr>
+ <tr class="data1" data-days="726022">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">96 runs</td>
+									<td class="left"><a href="/ci/content/ground/58008.html" class="data-link">Chennai</a></td>
+									<td nowrap="nowrap">Oct 13, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65096.html" class="data-link">ODI # 456</a></td>
+				 </tr>
+ <tr class="data1" data-days="726022">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">191 runs</td>
+									<td class="left"><a href="/ci/content/ground/58956.html" class="data-link">Karachi</a></td>
+									<td nowrap="nowrap">Oct 13, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65097.html" class="data-link">ODI # 457</a></td>
+				 </tr>
+ <tr class="data1" data-days="726023">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">16 runs</td>
+									<td class="left"><a href="/ci/content/ground/57897.html" class="data-link">Bengaluru</a></td>
+									<td nowrap="nowrap">Oct 14, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65098.html" class="data-link">ODI # 458</a></td>
+				 </tr>
+ <tr class="data1" data-days="726025">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">1 wicket</td>
+									<td class="left"><a href="/ci/content/ground/58967.html" class="data-link">Lahore</a></td>
+									<td nowrap="nowrap">Oct 16, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65099.html" class="data-link">ODI # 459</a></td>
+				 </tr>
+ <tr class="data1" data-days="726026">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58324.html" class="data-link">Mumbai</a></td>
+									<td nowrap="nowrap">Oct 17, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65101.html" class="data-link">ODI # 461</a></td>
+				 </tr>
+ <tr class="data1" data-days="726026">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">108 runs</td>
+									<td class="left"><a href="/ci/content/ground/58988.html" class="data-link">Peshawar</a></td>
+									<td nowrap="nowrap">Oct 17, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65100.html" class="data-link">ODI # 460</a></td>
+				 </tr>
+ <tr class="data1" data-days="726028">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">3 runs</td>
+									<td class="left"><a href="/ci/content/ground/58151.html" class="data-link">Indore</a></td>
+									<td nowrap="nowrap">Oct 18-19, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65102.html" class="data-link">ODI # 462</a></td>
+				 </tr>
+ <tr class="data1" data-days="726029">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58956.html" class="data-link">Karachi</a></td>
+									<td nowrap="nowrap">Oct 20, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65103.html" class="data-link">ODI # 463</a></td>
+				 </tr>
+ <tr class="data1" data-days="726030">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">25 runs</td>
+									<td class="left"><a href="/ci/content/ground/58204.html" class="data-link">Kanpur</a></td>
+									<td nowrap="nowrap">Oct 21, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65104.html" class="data-link">ODI # 464</a></td>
+				 </tr>
+ <tr class="data1" data-days="726031">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">56 runs</td>
+									<td class="left"><a href="/ci/content/ground/58040.html" class="data-link">Delhi</a></td>
+									<td nowrap="nowrap">Oct 22, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65105.html" class="data-link">ODI # 465</a></td>
+				 </tr>
+ <tr class="data1" data-days="726032">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57980.html" class="data-link">Kolkata</a></td>
+									<td nowrap="nowrap">Oct 23, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65106.html" class="data-link">ODI # 466</a></td>
+				 </tr>
+ <tr class="data1" data-days="726034">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">113 runs</td>
+									<td class="left"><a href="/ci/content/ground/58927.html" class="data-link">Faisalabad</a></td>
+									<td nowrap="nowrap">Oct 25, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65107.html" class="data-link">ODI # 467</a></td>
+				 </tr>
+ <tr class="data1" data-days="726035">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">34 runs</td>
+									<td class="left"><a href="/ci/content/ground/58162.html" class="data-link">Jaipur</a></td>
+									<td nowrap="nowrap">Oct 26, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65108.html" class="data-link">ODI # 468</a></td>
+				 </tr>
+ <tr class="data1" data-days="726035">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57851.html" class="data-link">Ahmedabad</a></td>
+									<td nowrap="nowrap">Oct 26, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65109.html" class="data-link">ODI # 469</a></td>
+				 </tr>
+ <tr class="data1" data-days="726036">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">17 runs</td>
+									<td class="left"><a href="/ci/content/ground/57993.html" class="data-link">Chandigarh</a></td>
+									<td nowrap="nowrap">Oct 27, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65110.html" class="data-link">ODI # 470</a></td>
+				 </tr>
+ <tr class="data1" data-days="726039">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">70 runs</td>
+									<td class="left"><a href="/ci/content/ground/58027.html" class="data-link">Cuttack</a></td>
+									<td nowrap="nowrap">Oct 30, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65111.html" class="data-link">ODI # 471</a></td>
+				 </tr>
+ <tr class="data1" data-days="726039">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58383.html" class="data-link">Pune</a></td>
+									<td nowrap="nowrap">Oct 30, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65112.html" class="data-link">ODI # 472</a></td>
+				 </tr>
+ <tr class="data1" data-days="726039">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">28 runs</td>
+									<td class="left"><a href="/ci/content/ground/58956.html" class="data-link">Karachi</a></td>
+									<td nowrap="nowrap">Oct 30, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65113.html" class="data-link">ODI # 473</a></td>
+				 </tr>
+ <tr class="data1" data-days="726040">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58344.html" class="data-link">Nagpur</a></td>
+									<td nowrap="nowrap">Oct 31, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65114.html" class="data-link">ODI # 474</a></td>
+				 </tr>
+ <tr class="data1" data-days="726044">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">18 runs</td>
+									<td class="left"><a href="/ci/content/ground/58967.html" class="data-link">Lahore</a></td>
+									<td nowrap="nowrap">Nov 4, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65115.html" class="data-link">ODI # 475</a></td>
+				 </tr>
+ <tr class="data1" data-days="726045">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">35 runs</td>
+									<td class="left"><a href="/ci/content/ground/58324.html" class="data-link">Mumbai</a></td>
+									<td nowrap="nowrap">Nov 5, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65116.html" class="data-link">ODI # 476</a></td>
+				 </tr>
+ <tr class="data1" data-days="726048">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">7 runs</td>
+									<td class="left"><a href="/ci/content/ground/57980.html" class="data-link">Kolkata</a></td>
+									<td nowrap="nowrap">Nov 8, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65117.html" class="data-link">ODI # 477</a></td>
+				 </tr>
+ <tr class="data1" data-days="726058">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58967.html" class="data-link">Lahore</a></td>
+									<td nowrap="nowrap">Nov 18, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64310.html" class="data-link">ODI # 478</a></td>
+				 </tr>
+ <tr class="data1" data-days="726060">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">23 runs</td>
+									<td class="left"><a href="/ci/content/ground/58956.html" class="data-link">Karachi</a></td>
+									<td nowrap="nowrap">Nov 20, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64311.html" class="data-link">ODI # 479</a></td>
+				 </tr>
+ <tr class="data1" data-days="726062">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">98 runs</td>
+									<td class="left"><a href="/ci/content/ground/58988.html" class="data-link">Peshawar</a></td>
+									<td nowrap="nowrap">Nov 22, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64312.html" class="data-link">ODI # 480</a></td>
+				 </tr>
+ <tr class="data1" data-days="726078">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">10 runs</td>
+									<td class="left"><a href="/ci/content/ground/58344.html" class="data-link">Nagpur</a></td>
+									<td nowrap="nowrap">Dec 8, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64313.html" class="data-link">ODI # 481</a></td>
+				 </tr>
+ <tr class="data1" data-days="726093">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">52 runs</td>
+									<td class="left"><a href="/ci/content/ground/58114.html" class="data-link">Guwahati</a></td>
+									<td nowrap="nowrap">Dec 23, 1987</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64314.html" class="data-link">ODI # 482</a></td>
+				 </tr>
+</tbody>
+</table>

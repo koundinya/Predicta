@@ -1,0 +1,601 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="725012">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 6, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65373.html" class="data-link">ODI # 282</a></td>
+				 </tr>
+ <tr class="data1" data-days="725014">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 8, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65374.html" class="data-link">ODI # 283</a></td>
+				 </tr>
+ <tr class="data1" data-days="725016">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56410.html" class="data-link">Hobart</a></td>
+									<td nowrap="nowrap">Jan 10, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65375.html" class="data-link">ODI # 284</a></td>
+				 </tr>
+ <tr class="data1" data-days="725018">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">110 runs</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Jan 12, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64249.html" class="data-link">ODI # 285</a></td>
+				 </tr>
+ <tr class="data1" data-days="725018">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">90 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 12, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65376.html" class="data-link">ODI # 286</a></td>
+				 </tr>
+ <tr class="data1" data-days="725019">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 13, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65377.html" class="data-link">ODI # 287</a></td>
+				 </tr>
+ <tr class="data1" data-days="725021">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58831.html" class="data-link">Hamilton</a></td>
+									<td nowrap="nowrap">Jan 15, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64250.html" class="data-link">ODI # 288</a></td>
+				 </tr>
+ <tr class="data1" data-days="725021">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 15, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65378.html" class="data-link">ODI # 289</a></td>
+				 </tr>
+ <tr class="data1" data-days="725023">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">65 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 17, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65379.html" class="data-link">ODI # 290</a></td>
+				 </tr>
+ <tr class="data1" data-days="725025">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 19, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65380.html" class="data-link">ODI # 291</a></td>
+				 </tr>
+ <tr class="data1" data-days="725026">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">65 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 20, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65381.html" class="data-link">ODI # 292</a></td>
+				 </tr>
+ <tr class="data1" data-days="725026">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57897.html" class="data-link">Bengaluru</a></td>
+									<td nowrap="nowrap">Jan 20, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64251.html" class="data-link">ODI # 293</a></td>
+				 </tr>
+ <tr class="data1" data-days="725029">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 23, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65382.html" class="data-link">ODI # 294</a></td>
+				 </tr>
+ <tr class="data1" data-days="725029">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58344.html" class="data-link">Nagpur</a></td>
+									<td nowrap="nowrap">Jan 23, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64252.html" class="data-link">ODI # 295</a></td>
+				 </tr>
+ <tr class="data1" data-days="725032">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 26, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65383.html" class="data-link">ODI # 296</a></td>
+				 </tr>
+ <tr class="data1" data-days="725033">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 27, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65384.html" class="data-link">ODI # 297</a></td>
+				 </tr>
+ <tr class="data1" data-days="725033">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 runs</td>
+									<td class="left"><a href="/ci/content/ground/57993.html" class="data-link">Chandigarh</a></td>
+									<td nowrap="nowrap">Jan 27, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64253.html" class="data-link">ODI # 298</a></td>
+				 </tr>
+ <tr class="data1" data-days="725034">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">232 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 28, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65385.html" class="data-link">ODI # 299</a></td>
+				 </tr>
+ <tr class="data1" data-days="725039">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">82 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Feb 2, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65386.html" class="data-link">ODI # 300</a></td>
+				 </tr>
+ <tr class="data1" data-days="725040">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Feb 3, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65387.html" class="data-link">ODI # 301</a></td>
+				 </tr>
+ <tr class="data1" data-days="725043">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">13 runs</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Feb 6, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64254.html" class="data-link">ODI # 302</a></td>
+				 </tr>
+ <tr class="data1" data-days="725043">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">26 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 6, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65388.html" class="data-link">ODI # 303</a></td>
+				 </tr>
+ <tr class="data1" data-days="725047">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 10, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65389.html" class="data-link">ODI # 304</a></td>
+				 </tr>
+ <tr class="data1" data-days="725049">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 12, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65390.html" class="data-link">ODI # 305</a></td>
+				 </tr>
+ <tr class="data1" data-days="725054">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Feb 16-17, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64255.html" class="data-link">ODI # 306</a></td>
+				 </tr>
+ <tr class="data1" data-days="725054">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 17, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65719.html" class="data-link">ODI # 307</a></td>
+				 </tr>
+ <tr class="data1" data-days="725058">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 19-21, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65720.html" class="data-link">ODI # 308</a></td>
+				 </tr>
+ <tr class="data1" data-days="725057">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 20, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65721.html" class="data-link">ODI # 309</a></td>
+				 </tr>
+ <tr class="data1" data-days="725060">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">51 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 23, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65722.html" class="data-link">ODI # 310</a></td>
+				 </tr>
+ <tr class="data1" data-days="725061">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">62 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 24, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65723.html" class="data-link">ODI # 311</a></td>
+				 </tr>
+ <tr class="data1" data-days="725063">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">86 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 26, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65724.html" class="data-link">ODI # 312</a></td>
+				 </tr>
+ <tr class="data1" data-days="725064">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 27, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65725.html" class="data-link">ODI # 313</a></td>
+				 </tr>
+ <tr class="data1" data-days="725067">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">67 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Mar 2, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65726.html" class="data-link">ODI # 314</a></td>
+				 </tr>
+ <tr class="data1" data-days="725068">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Mar 3, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65727.html" class="data-link">ODI # 315</a></td>
+				 </tr>
+ <tr class="data1" data-days="725070">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Mar 5, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65728.html" class="data-link">ODI # 316</a></td>
+				 </tr>
+ <tr class="data1" data-days="725071">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Mar 6, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65729.html" class="data-link">ODI # 317</a></td>
+				 </tr>
+ <tr class="data1" data-days="725074">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Mar 9, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65730.html" class="data-link">ODI # 318</a></td>
+				 </tr>
+ <tr class="data1" data-days="725075">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Mar 10, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65731.html" class="data-link">ODI # 319</a></td>
+				 </tr>
+ <tr class="data1" data-days="725085">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">23 runs</td>
+									<td class="left"><a href="/ci/content/ground/59495.html" class="data-link">St John's</a></td>
+									<td nowrap="nowrap">Mar 20, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64256.html" class="data-link">ODI # 320</a></td>
+				 </tr>
+ <tr class="data1" data-days="725087">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">38 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 22, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65732.html" class="data-link">ODI # 321</a></td>
+				 </tr>
+ <tr class="data1" data-days="725089">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 24, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65733.html" class="data-link">ODI # 322</a></td>
+				 </tr>
+ <tr class="data1" data-days="725091">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">43 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 26, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65734.html" class="data-link">ODI # 323</a></td>
+				 </tr>
+ <tr class="data1" data-days="725092">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59475.html" class="data-link">Port of Spain</a></td>
+									<td nowrap="nowrap">Mar 27, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64257.html" class="data-link">ODI # 324</a></td>
+				 </tr>
+ <tr class="data1" data-days="725094">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 29, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65735.html" class="data-link">ODI # 325</a></td>
+				 </tr>
+ <tr class="data1" data-days="725110">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">130 runs</td>
+									<td class="left"><a href="/ci/content/ground/59417.html" class="data-link">Albion</a></td>
+									<td nowrap="nowrap">Apr 14, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64258.html" class="data-link">ODI # 326</a></td>
+				 </tr>
+ <tr class="data1" data-days="725113">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">10 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59475.html" class="data-link">Port of Spain</a></td>
+									<td nowrap="nowrap">Apr 17, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64259.html" class="data-link">ODI # 327</a></td>
+				 </tr>
+ <tr class="data1" data-days="725119">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">112 runs</td>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Apr 23, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64260.html" class="data-link">ODI # 328</a></td>
+				 </tr>
+ <tr class="data1" data-days="725156">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">May 30, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64979.html" class="data-link">ODI # 329</a></td>
+				 </tr>
+ <tr class="data1" data-days="725158">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">Jun 1, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64980.html" class="data-link">ODI # 330</a></td>
+				 </tr>
+ <tr class="data1" data-days="725160">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Jun 3, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64981.html" class="data-link">ODI # 331</a></td>
+				 </tr>
+ <tr class="data1" data-days="725243">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59308.html" class="data-link">Colombo (SSC)</a></td>
+									<td nowrap="nowrap">Aug 25, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64261.html" class="data-link">ODI # 332</a></td>
+				 </tr>
+ <tr class="data1" data-days="725270">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">14 runs</td>
+									<td class="left"><a href="/ci/content/ground/59303.html" class="data-link">Colombo (PSS)</a></td>
+									<td nowrap="nowrap">Sep 21, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64262.html" class="data-link">ODI # 333</a></td>
+				 </tr>
+ <tr class="data1" data-days="725271">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59303.html" class="data-link">Colombo (PSS)</a></td>
+									<td nowrap="nowrap">Sep 22, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64263.html" class="data-link">ODI # 334</a></td>
+				 </tr>
+ <tr class="data1" data-days="725292">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58988.html" class="data-link">Peshawar</a></td>
+									<td nowrap="nowrap">Oct 13, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64264.html" class="data-link">ODI # 335</a></td>
+				 </tr>
+ <tr class="data1" data-days="725302">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">15 runs</td>
+									<td class="left"><a href="/ci/content/ground/58930.html" class="data-link">Gujranwala</a></td>
+									<td nowrap="nowrap">Oct 23, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64265.html" class="data-link">ODI # 336</a></td>
+				 </tr>
+ <tr class="data1" data-days="725304">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58967.html" class="data-link">Lahore</a></td>
+									<td nowrap="nowrap">Oct 25, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64266.html" class="data-link">ODI # 337</a></td>
+				 </tr>
+ <tr class="data1" data-days="725313">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">89 runs</td>
+									<td class="left"><a href="/ci/content/ground/58936.html" class="data-link">Hyderabad (Sind)</a></td>
+									<td nowrap="nowrap">Nov 3, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64267.html" class="data-link">ODI # 338</a></td>
+				 </tr>
+ <tr class="data1" data-days="725325">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Nov 15, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65736.html" class="data-link">ODI # 339</a></td>
+				 </tr>
+ <tr class="data1" data-days="725327">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">48 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Nov 17, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65737.html" class="data-link">ODI # 340</a></td>
+				 </tr>
+ <tr class="data1" data-days="725332">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Nov 22, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65738.html" class="data-link">ODI # 341</a></td>
+				 </tr>
+ <tr class="data1" data-days="725337">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58930.html" class="data-link">Gujranwala</a></td>
+									<td nowrap="nowrap">Nov 27, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64268.html" class="data-link">ODI # 342</a></td>
+				 </tr>
+ <tr class="data1" data-days="725339">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58967.html" class="data-link">Lahore</a></td>
+									<td nowrap="nowrap">Nov 29, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64269.html" class="data-link">ODI # 343</a></td>
+				 </tr>
+ <tr class="data1" data-days="725342">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">40 runs</td>
+									<td class="left"><a href="/ci/content/ground/58988.html" class="data-link">Peshawar</a></td>
+									<td nowrap="nowrap">Dec 2, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64270.html" class="data-link">ODI # 344</a></td>
+				 </tr>
+ <tr class="data1" data-days="725344">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59004.html" class="data-link">Rawalpindi</a></td>
+									<td nowrap="nowrap">Dec 4, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64271.html" class="data-link">ODI # 345</a></td>
+				 </tr>
+ <tr class="data1" data-days="725346">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58956.html" class="data-link">Karachi</a></td>
+									<td nowrap="nowrap">Dec 6, 1985</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64272.html" class="data-link">ODI # 346</a></td>
+				 </tr>
+</tbody>
+</table>

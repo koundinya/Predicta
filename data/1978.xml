@@ -1,0 +1,106 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="722462">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">36 runs</td>
+									<td class="left"><a href="/ci/content/ground/58967.html" class="data-link">Lahore</a></td>
+									<td nowrap="nowrap">Jan 13, 1978</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64162.html" class="data-link">ODI # 47</a></td>
+				 </tr>
+ <tr class="data1" data-days="722502">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">44 runs</td>
+									<td class="left"><a href="/ci/content/ground/59495.html" class="data-link">St John's</a></td>
+									<td nowrap="nowrap">Feb 22, 1978</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64163.html" class="data-link">ODI # 48</a></td>
+				 </tr>
+ <tr class="data1" data-days="722551">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59434.html" class="data-link">Castries</a></td>
+									<td nowrap="nowrap">Apr 12, 1978</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64164.html" class="data-link">ODI # 49</a></td>
+				 </tr>
+ <tr class="data1" data-days="722594">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">132 runs</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">May 24-25, 1978</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64961.html" class="data-link">ODI # 50</a></td>
+				 </tr>
+ <tr class="data1" data-days="722595">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">94 runs</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">May 26, 1978</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64962.html" class="data-link">ODI # 51</a></td>
+				 </tr>
+ <tr class="data1" data-days="722645">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">19 runs</td>
+									<td class="left"><a href="/ci/content/ground/57290.html" class="data-link">Scarborough</a></td>
+									<td nowrap="nowrap">Jul 15, 1978</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64963.html" class="data-link">ODI # 52</a></td>
+				 </tr>
+ <tr class="data1" data-days="722647">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">126 runs</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">Jul 17, 1978</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64964.html" class="data-link">ODI # 53</a></td>
+				 </tr>
+ <tr class="data1" data-days="722723">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">4 runs</td>
+									<td class="left"><a href="/ci/content/ground/58995.html" class="data-link">Quetta</a></td>
+									<td nowrap="nowrap">Oct 1, 1978</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64165.html" class="data-link">ODI # 54</a></td>
+				 </tr>
+ <tr class="data1" data-days="722735">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59018.html" class="data-link">Sialkot</a></td>
+									<td nowrap="nowrap">Oct 13, 1978</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64166.html" class="data-link">ODI # 55</a></td>
+				 </tr>
+ <tr class="data1" data-days="722756">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59011.html" class="data-link">Sahiwal</a></td>
+									<td nowrap="nowrap">Nov 3, 1978</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64167.html" class="data-link">ODI # 56</a></td>
+				 </tr>
+</tbody>
+</table>

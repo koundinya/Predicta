@@ -1,0 +1,817 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="727571">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 9, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65486.html" class="data-link">ODI # 699</a></td>
+				 </tr>
+ <tr class="data1" data-days="727572">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59014.html" class="data-link">Sargodha</a></td>
+									<td nowrap="nowrap">Jan 10, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64381.html" class="data-link">ODI # 700</a></td>
+				 </tr>
+ <tr class="data1" data-days="727573">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Jan 11, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64382.html" class="data-link">ODI # 701</a></td>
+				 </tr>
+ <tr class="data1" data-days="727573">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 11, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65487.html" class="data-link">ODI # 702</a></td>
+				 </tr>
+ <tr class="data1" data-days="727574">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">12 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 12, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65488.html" class="data-link">ODI # 703</a></td>
+				 </tr>
+ <tr class="data1" data-days="727575">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">29 runs</td>
+									<td class="left"><a href="/ci/content/ground/58956.html" class="data-link">Karachi</a></td>
+									<td nowrap="nowrap">Jan 13, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64383.html" class="data-link">ODI # 704</a></td>
+				 </tr>
+ <tr class="data1" data-days="727576">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 14, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65489.html" class="data-link">ODI # 705</a></td>
+				 </tr>
+ <tr class="data1" data-days="727577">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">59 runs</td>
+									<td class="left"><a href="/ci/content/ground/58936.html" class="data-link">Hyderabad (Sind)</a></td>
+									<td nowrap="nowrap">Jan 15, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64384.html" class="data-link">ODI # 706</a></td>
+				 </tr>
+ <tr class="data1" data-days="727578">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 16, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65490.html" class="data-link">ODI # 707</a></td>
+				 </tr>
+ <tr class="data1" data-days="727579">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58982.html" class="data-link">Multan</a></td>
+									<td nowrap="nowrap">Jan 17, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64385.html" class="data-link">ODI # 708</a></td>
+				 </tr>
+ <tr class="data1" data-days="727580">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">88 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 18, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65491.html" class="data-link">ODI # 709</a></td>
+				 </tr>
+ <tr class="data1" data-days="727581">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">117 runs</td>
+									<td class="left"><a href="/ci/content/ground/59006.html" class="data-link">Rawalpindi</a></td>
+									<td nowrap="nowrap">Jan 19, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64386.html" class="data-link">ODI # 710</a></td>
+				 </tr>
+ <tr class="data1" data-days="727582">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 20, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65492.html" class="data-link">ODI # 711</a></td>
+				 </tr>
+ <tr class="data1" data-days="727605">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58822.html" class="data-link">Dunedin</a></td>
+									<td nowrap="nowrap">Feb 12, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64387.html" class="data-link">ODI # 712</a></td>
+				 </tr>
+ <tr class="data1" data-days="727608">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">71 runs</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Feb 15, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64388.html" class="data-link">ODI # 713</a></td>
+				 </tr>
+ <tr class="data1" data-days="727615">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">37 runs</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Feb 22, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65118.html" class="data-link">ODI # 714</a></td>
+				 </tr>
+ <tr class="data1" data-days="727615">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">9 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Feb 22, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65119.html" class="data-link">ODI # 715</a></td>
+				 </tr>
+ <tr class="data1" data-days="727616">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58865.html" class="data-link">New Plymouth</a></td>
+									<td nowrap="nowrap">Feb 23, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65120.html" class="data-link">ODI # 716</a></td>
+				 </tr>
+ <tr class="data1" data-days="727616">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">10 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 23, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65121.html" class="data-link">ODI # 717</a></td>
+				 </tr>
+ <tr class="data1" data-days="727618">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58831.html" class="data-link">Hamilton</a></td>
+									<td nowrap="nowrap">Feb 25, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65122.html" class="data-link">ODI # 718</a></td>
+				 </tr>
+ <tr class="data1" data-days="727619">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 26, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65123.html" class="data-link">ODI # 719</a></td>
+				 </tr>
+ <tr class="data1" data-days="727620">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">53 runs</td>
+									<td class="left"><a href="/ci/content/ground/56407.html" class="data-link">Hobart</a></td>
+									<td nowrap="nowrap">Feb 27, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65124.html" class="data-link">ODI # 720</a></td>
+				 </tr>
+ <tr class="data1" data-days="727620">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 27, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65125.html" class="data-link">ODI # 721</a></td>
+				 </tr>
+ <tr class="data1" data-days="727621">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56430.html" class="data-link">Mackay</a></td>
+									<td nowrap="nowrap">Feb 28, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65126.html" class="data-link">ODI # 722</a></td>
+				 </tr>
+ <tr class="data1" data-days="727622">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Feb 29, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65127.html" class="data-link">ODI # 723</a></td>
+				 </tr>
+ <tr class="data1" data-days="727622">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">75 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Feb 29, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65128.html" class="data-link">ODI # 724</a></td>
+				 </tr>
+ <tr class="data1" data-days="727623">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">1 run</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Mar 1, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65129.html" class="data-link">ODI # 725</a></td>
+				 </tr>
+ <tr class="data1" data-days="727623">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Mar 1, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65130.html" class="data-link">ODI # 726</a></td>
+				 </tr>
+ <tr class="data1" data-days="727624">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58895.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Mar 2, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65131.html" class="data-link">ODI # 727</a></td>
+				 </tr>
+ <tr class="data1" data-days="727625">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">48 runs</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Mar 3, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65132.html" class="data-link">ODI # 728</a></td>
+				 </tr>
+ <tr class="data1" data-days="727626">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">43 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Mar 4, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65133.html" class="data-link">ODI # 729</a></td>
+				 </tr>
+ <tr class="data1" data-days="727627">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">64 runs</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Mar 5, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65134.html" class="data-link">ODI # 730</a></td>
+				 </tr>
+ <tr class="data1" data-days="727627">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Mar 5, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65135.html" class="data-link">ODI # 731</a></td>
+				 </tr>
+ <tr class="data1" data-days="727629">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">55 runs</td>
+									<td class="left"><a href="/ci/content/ground/58831.html" class="data-link">Hamilton</a></td>
+									<td nowrap="nowrap">Mar 7, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65136.html" class="data-link">ODI # 732</a></td>
+				 </tr>
+ <tr class="data1" data-days="727629">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Mar 7, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65137.html" class="data-link">ODI # 733</a></td>
+				 </tr>
+ <tr class="data1" data-days="727630">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Mar 8, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65138.html" class="data-link">ODI # 734</a></td>
+				 </tr>
+ <tr class="data1" data-days="727630">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">20 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Mar 8, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65139.html" class="data-link">ODI # 735</a></td>
+				 </tr>
+ <tr class="data1" data-days="727631">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">106 runs</td>
+									<td class="left"><a href="/ci/content/ground/56322.html" class="data-link">Ballarat</a></td>
+									<td nowrap="nowrap">Mar 9, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65140.html" class="data-link">ODI # 736</a></td>
+				 </tr>
+ <tr class="data1" data-days="727632">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58895.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Mar 10, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65141.html" class="data-link">ODI # 737</a></td>
+				 </tr>
+ <tr class="data1" data-days="727632">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56370.html" class="data-link">Canberra</a></td>
+									<td nowrap="nowrap">Mar 10, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65142.html" class="data-link">ODI # 738</a></td>
+				 </tr>
+ <tr class="data1" data-days="727633">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">48 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Mar 11, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65143.html" class="data-link">ODI # 739</a></td>
+				 </tr>
+ <tr class="data1" data-days="727634">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58822.html" class="data-link">Dunedin</a></td>
+									<td nowrap="nowrap">Mar 12, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65144.html" class="data-link">ODI # 740</a></td>
+				 </tr>
+ <tr class="data1" data-days="727634">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Mar 12, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65145.html" class="data-link">ODI # 741</a></td>
+				 </tr>
+ <tr class="data1" data-days="727635">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">91 runs</td>
+									<td class="left"><a href="/ci/content/ground/56326.html" class="data-link">Berri</a></td>
+									<td nowrap="nowrap">Mar 13, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65146.html" class="data-link">ODI # 742</a></td>
+				 </tr>
+ <tr class="data1" data-days="727636">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">128 runs</td>
+									<td class="left"><a href="/ci/content/ground/56407.html" class="data-link">Hobart</a></td>
+									<td nowrap="nowrap">Mar 14, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65147.html" class="data-link">ODI # 743</a></td>
+				 </tr>
+ <tr class="data1" data-days="727637">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58895.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Mar 15, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65148.html" class="data-link">ODI # 744</a></td>
+				 </tr>
+ <tr class="data1" data-days="727637">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Mar 15, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65149.html" class="data-link">ODI # 745</a></td>
+				 </tr>
+ <tr class="data1" data-days="727637">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Mar 15, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65150.html" class="data-link">ODI # 746</a></td>
+				 </tr>
+ <tr class="data1" data-days="727640">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Mar 18, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65151.html" class="data-link">ODI # 747</a></td>
+				 </tr>
+ <tr class="data1" data-days="727640">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">9 runs</td>
+									<td class="left"><a href="/ci/content/ground/56319.html" class="data-link">Albury</a></td>
+									<td nowrap="nowrap">Mar 18, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65152.html" class="data-link">ODI # 748</a></td>
+				 </tr>
+ <tr class="data1" data-days="727640">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">57 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Mar 18, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65153.html" class="data-link">ODI # 749</a></td>
+				 </tr>
+ <tr class="data1" data-days="727643">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Mar 21, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65154.html" class="data-link">ODI # 750</a></td>
+				 </tr>
+ <tr class="data1" data-days="727644">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">19 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Mar 22, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65155.html" class="data-link">ODI # 751</a></td>
+				 </tr>
+ <tr class="data1" data-days="727647">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">22 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Mar 25, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65156.html" class="data-link">ODI # 752</a></td>
+				 </tr>
+ <tr class="data1" data-days="727660">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">107 runs</td>
+									<td class="left"><a href="/ci/content/ground/59458.html" class="data-link">Kingston</a></td>
+									<td nowrap="nowrap">Apr 7, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64389.html" class="data-link">ODI # 753</a></td>
+				 </tr>
+ <tr class="data1" data-days="727664">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">10 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59475.html" class="data-link">Port of Spain</a></td>
+									<td nowrap="nowrap">Apr 11, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64390.html" class="data-link">ODI # 754</a></td>
+				 </tr>
+ <tr class="data1" data-days="727665">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59475.html" class="data-link">Port of Spain</a></td>
+									<td nowrap="nowrap">Apr 12, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64391.html" class="data-link">ODI # 755</a></td>
+				 </tr>
+ <tr class="data1" data-days="727703">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">79 runs</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">May 20, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65003.html" class="data-link">ODI # 756</a></td>
+				 </tr>
+ <tr class="data1" data-days="727705">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">39 runs</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">May 22, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65004.html" class="data-link">ODI # 757</a></td>
+				 </tr>
+ <tr class="data1" data-days="727790">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59303.html" class="data-link">Colombo (PSS)</a></td>
+									<td nowrap="nowrap">Aug 15, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64392.html" class="data-link">ODI # 758</a></td>
+				 </tr>
+ <tr class="data1" data-days="727795">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">198 runs</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Aug 20, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65005.html" class="data-link">ODI # 759</a></td>
+				 </tr>
+ <tr class="data1" data-days="727797">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">3 runs</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Aug 22, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65006.html" class="data-link">ODI # 760</a></td>
+				 </tr>
+ <tr class="data1" data-days="727799">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">Aug 24, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65007.html" class="data-link">ODI # 761</a></td>
+				 </tr>
+ <tr class="data1" data-days="727810">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Sep 4, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64393.html" class="data-link">ODI # 762</a></td>
+				 </tr>
+ <tr class="data1" data-days="727811">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Sep 5, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64394.html" class="data-link">ODI # 763</a></td>
+				 </tr>
+ <tr class="data1" data-days="727861">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">30 runs</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Oct 25, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64395.html" class="data-link">ODI # 764</a></td>
+				 </tr>
+ <tr class="data1" data-days="727867">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">22 runs</td>
+									<td class="left"><a href="/ci/content/ground/59534.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Oct 31, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64396.html" class="data-link">ODI # 765</a></td>
+				 </tr>
+ <tr class="data1" data-days="727875">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Nov 8, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64397.html" class="data-link">ODI # 766</a></td>
+				 </tr>
+ <tr class="data1" data-days="727901">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Dec 4, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65493.html" class="data-link">ODI # 767</a></td>
+				 </tr>
+ <tr class="data1" data-days="727901">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Dec 4, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64398.html" class="data-link">ODI # 768</a></td>
+				 </tr>
+ <tr class="data1" data-days="727903">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Dec 6, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65494.html" class="data-link">ODI # 769</a></td>
+				 </tr>
+ <tr class="data1" data-days="727904">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59068.html" class="data-link">Cape Town</a></td>
+									<td nowrap="nowrap">Dec 7, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64399.html" class="data-link">ODI # 770</a></td>
+				 </tr>
+ <tr class="data1" data-days="727905">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">14 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Dec 8, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65495.html" class="data-link">ODI # 771</a></td>
+				 </tr>
+ <tr class="data1" data-days="727906">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59159.html" class="data-link">Port Elizabeth</a></td>
+									<td nowrap="nowrap">Dec 9, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64400.html" class="data-link">ODI # 772</a></td>
+				 </tr>
+ <tr class="data1" data-days="727907">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">tied</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56407.html" class="data-link">Hobart</a></td>
+									<td nowrap="nowrap">Dec 10, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65496.html" class="data-link">ODI # 773</a></td>
+				 </tr>
+ <tr class="data1" data-days="727908">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Dec 11, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64401.html" class="data-link">ODI # 774</a></td>
+				 </tr>
+ <tr class="data1" data-days="727909">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">4 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Dec 12, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65497.html" class="data-link">ODI # 775</a></td>
+				 </tr>
+ <tr class="data1" data-days="727909">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59303.html" class="data-link">Colombo (PSS)</a></td>
+									<td nowrap="nowrap">Dec 12, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64402.html" class="data-link">ODI # 776</a></td>
+				 </tr>
+ <tr class="data1" data-days="727910">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Dec 13, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65498.html" class="data-link">ODI # 777</a></td>
+				 </tr>
+ <tr class="data1" data-days="727910">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">31 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Dec 13, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64403.html" class="data-link">ODI # 778</a></td>
+				 </tr>
+ <tr class="data1" data-days="727910">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Dec 13, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64404.html" class="data-link">ODI # 779</a></td>
+				 </tr>
+ <tr class="data1" data-days="727912">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">4 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Dec 15, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65499.html" class="data-link">ODI # 780</a></td>
+				 </tr>
+ <tr class="data1" data-days="727912">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59042.html" class="data-link">Bloemfontein</a></td>
+									<td nowrap="nowrap">Dec 15, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64405.html" class="data-link">ODI # 781</a></td>
+				 </tr>
+ <tr class="data1" data-days="727914">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">133 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Dec 17, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65500.html" class="data-link">ODI # 782</a></td>
+				 </tr>
+ <tr class="data1" data-days="727914">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">39 runs</td>
+									<td class="left"><a href="/ci/content/ground/59089.html" class="data-link">Durban</a></td>
+									<td nowrap="nowrap">Dec 17, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64406.html" class="data-link">ODI # 783</a></td>
+				 </tr>
+ <tr class="data1" data-days="727916">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59098.html" class="data-link">East London</a></td>
+									<td nowrap="nowrap">Dec 19, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64407.html" class="data-link">ODI # 784</a></td>
+				 </tr>
+ <tr class="data1" data-days="727923">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">50 runs</td>
+									<td class="left"><a href="/ci/content/ground/58895.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Dec 26, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64408.html" class="data-link">ODI # 785</a></td>
+				 </tr>
+ <tr class="data1" data-days="727925">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Dec 28, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64409.html" class="data-link">ODI # 786</a></td>
+				 </tr>
+ <tr class="data1" data-days="727927">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Dec 30, 1992</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64410.html" class="data-link">ODI # 787</a></td>
+				 </tr>
+</tbody>
+</table>

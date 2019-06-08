@@ -1,0 +1,511 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="726468">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 1, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65441.html" class="data-link">ODI # 544</a></td>
+				 </tr>
+ <tr class="data1" data-days="726469">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">38 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 2, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65442.html" class="data-link">ODI # 545</a></td>
+				 </tr>
+ <tr class="data1" data-days="726472">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">8 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 5, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65443.html" class="data-link">ODI # 546</a></td>
+				 </tr>
+ <tr class="data1" data-days="726474">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">55 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 7, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65444.html" class="data-link">ODI # 547</a></td>
+				 </tr>
+ <tr class="data1" data-days="726475">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 8, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65445.html" class="data-link">ODI # 548</a></td>
+				 </tr>
+ <tr class="data1" data-days="726477">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 10, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65446.html" class="data-link">ODI # 549</a></td>
+				 </tr>
+ <tr class="data1" data-days="726479">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">61 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 12, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65447.html" class="data-link">ODI # 550</a></td>
+				 </tr>
+ <tr class="data1" data-days="726481">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">2 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 14, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65448.html" class="data-link">ODI # 551</a></td>
+				 </tr>
+ <tr class="data1" data-days="726483">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">92 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 16, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65449.html" class="data-link">ODI # 552</a></td>
+				 </tr>
+ <tr class="data1" data-days="726485">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 18, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65450.html" class="data-link">ODI # 553</a></td>
+				 </tr>
+ <tr class="data1" data-days="726504">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58822.html" class="data-link">Dunedin</a></td>
+									<td nowrap="nowrap">Feb 6, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64336.html" class="data-link">ODI # 554</a></td>
+				 </tr>
+ <tr class="data1" data-days="726530">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Mar 4, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64337.html" class="data-link">ODI # 555</a></td>
+				 </tr>
+ <tr class="data1" data-days="726533">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">50 runs</td>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Mar 7, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64338.html" class="data-link">ODI # 556</a></td>
+				 </tr>
+ <tr class="data1" data-days="726534">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58895.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Mar 8, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64339.html" class="data-link">ODI # 557</a></td>
+				 </tr>
+ <tr class="data1" data-days="726535">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59475.html" class="data-link">Port of Spain</a></td>
+									<td nowrap="nowrap">Mar 9, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64340.html" class="data-link">ODI # 558</a></td>
+				 </tr>
+ <tr class="data1" data-days="726537">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Mar 11, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64341.html" class="data-link">ODI # 559</a></td>
+				 </tr>
+ <tr class="data1" data-days="726537">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59475.html" class="data-link">Port of Spain</a></td>
+									<td nowrap="nowrap">Mar 11, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64342.html" class="data-link">ODI # 560</a></td>
+				 </tr>
+ <tr class="data1" data-days="726540">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58831.html" class="data-link">Hamilton</a></td>
+									<td nowrap="nowrap">Mar 14, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64343.html" class="data-link">ODI # 561</a></td>
+				 </tr>
+ <tr class="data1" data-days="726544">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59495.html" class="data-link">St John's</a></td>
+									<td nowrap="nowrap">Mar 18, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64344.html" class="data-link">ODI # 562</a></td>
+				 </tr>
+ <tr class="data1" data-days="726547">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">101 runs</td>
+									<td class="left"><a href="/ci/content/ground/59447.html" class="data-link">Georgetown</a></td>
+									<td nowrap="nowrap">Mar 21, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64345.html" class="data-link">ODI # 563</a></td>
+				 </tr>
+ <tr class="data1" data-days="726549">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">30 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 23, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65750.html" class="data-link">ODI # 564</a></td>
+				 </tr>
+ <tr class="data1" data-days="726550">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 24, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65751.html" class="data-link">ODI # 565</a></td>
+				 </tr>
+ <tr class="data1" data-days="726612">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">95 runs</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">May 25, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64993.html" class="data-link">ODI # 566</a></td>
+				 </tr>
+ <tr class="data1" data-days="726614">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">tied</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">May 27, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64994.html" class="data-link">ODI # 567</a></td>
+				 </tr>
+ <tr class="data1" data-days="726616">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">May 29, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64995.html" class="data-link">ODI # 568</a></td>
+				 </tr>
+ <tr class="data1" data-days="726753">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 13, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65846.html" class="data-link">ODI # 569</a></td>
+				 </tr>
+ <tr class="data1" data-days="726754">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">11 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 14, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65847.html" class="data-link">ODI # 570</a></td>
+				 </tr>
+ <tr class="data1" data-days="726755">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58040.html" class="data-link">Delhi</a></td>
+									<td nowrap="nowrap">Oct 15, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65915.html" class="data-link">ODI # 571</a></td>
+				 </tr>
+ <tr class="data1" data-days="726755">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 15, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65848.html" class="data-link">ODI # 572</a></td>
+				 </tr>
+ <tr class="data1" data-days="726756">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">37 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 16, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65849.html" class="data-link">ODI # 573</a></td>
+				 </tr>
+ <tr class="data1" data-days="726757">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">57 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 17, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65850.html" class="data-link">ODI # 574</a></td>
+				 </tr>
+ <tr class="data1" data-days="726759">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58136.html" class="data-link">Hyderabad (Deccan)</a></td>
+									<td nowrap="nowrap">Oct 19, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65916.html" class="data-link">ODI # 575</a></td>
+				 </tr>
+ <tr class="data1" data-days="726759">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58401.html" class="data-link">Rajkot</a></td>
+									<td nowrap="nowrap">Oct 19, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65917.html" class="data-link">ODI # 576</a></td>
+				 </tr>
+ <tr class="data1" data-days="726760">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">38 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 20, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65851.html" class="data-link">ODI # 577</a></td>
+				 </tr>
+ <tr class="data1" data-days="726761">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">99 runs</td>
+									<td class="left"><a href="/ci/content/ground/58008.html" class="data-link">Chennai</a></td>
+									<td nowrap="nowrap">Oct 21, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65918.html" class="data-link">ODI # 578</a></td>
+				 </tr>
+ <tr class="data1" data-days="726762">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58027.html" class="data-link">Cuttack</a></td>
+									<td nowrap="nowrap">Oct 22, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65919.html" class="data-link">ODI # 579</a></td>
+				 </tr>
+ <tr class="data1" data-days="726762">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 runs</td>
+									<td class="left"><a href="/ci/content/ground/57851.html" class="data-link">Ahmedabad</a></td>
+									<td nowrap="nowrap">Oct 22, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65920.html" class="data-link">ODI # 580</a></td>
+				 </tr>
+ <tr class="data1" data-days="726763">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">66 runs</td>
+									<td class="left"><a href="/ci/content/ground/58317.html" class="data-link">Mumbai (BS)</a></td>
+									<td nowrap="nowrap">Oct 23, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65921.html" class="data-link">ODI # 581</a></td>
+				 </tr>
+ <tr class="data1" data-days="726763">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">20 runs</td>
+									<td class="left"><a href="/ci/content/ground/58040.html" class="data-link">Delhi</a></td>
+									<td nowrap="nowrap">Oct 23, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65922.html" class="data-link">ODI # 582</a></td>
+				 </tr>
+ <tr class="data1" data-days="726765">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58204.html" class="data-link">Kanpur</a></td>
+									<td nowrap="nowrap">Oct 25, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65923.html" class="data-link">ODI # 583</a></td>
+				 </tr>
+ <tr class="data1" data-days="726765">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58164.html" class="data-link">Jalandhar</a></td>
+									<td nowrap="nowrap">Oct 25, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65924.html" class="data-link">ODI # 584</a></td>
+				 </tr>
+ <tr class="data1" data-days="726765">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">28 runs</td>
+									<td class="left"><a href="/ci/content/ground/58301.html" class="data-link">Margao</a></td>
+									<td nowrap="nowrap">Oct 25, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65925.html" class="data-link">ODI # 585</a></td>
+				 </tr>
+ <tr class="data1" data-days="726767">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">26 runs</td>
+									<td class="left"><a href="/ci/content/ground/58119.html" class="data-link">Gwalior</a></td>
+									<td nowrap="nowrap">Oct 27, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65926.html" class="data-link">ODI # 586</a></td>
+				 </tr>
+ <tr class="data1" data-days="726767">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57897.html" class="data-link">Bengaluru</a></td>
+									<td nowrap="nowrap">Oct 27, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65927.html" class="data-link">ODI # 587</a></td>
+				 </tr>
+ <tr class="data1" data-days="726767">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">6 runs</td>
+									<td class="left"><a href="/ci/content/ground/58273.html" class="data-link">Lucknow</a></td>
+									<td nowrap="nowrap">Oct 27, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65928.html" class="data-link">ODI # 588</a></td>
+				 </tr>
+ <tr class="data1" data-days="726768">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">77 runs</td>
+									<td class="left"><a href="/ci/content/ground/57980.html" class="data-link">Kolkata</a></td>
+									<td nowrap="nowrap">Oct 28, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65929.html" class="data-link">ODI # 589</a></td>
+				 </tr>
+ <tr class="data1" data-days="726770">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58344.html" class="data-link">Nagpur</a></td>
+									<td nowrap="nowrap">Oct 30, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65930.html" class="data-link">ODI # 590</a></td>
+				 </tr>
+ <tr class="data1" data-days="726770">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58324.html" class="data-link">Mumbai</a></td>
+									<td nowrap="nowrap">Oct 30, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65931.html" class="data-link">ODI # 591</a></td>
+				 </tr>
+ <tr class="data1" data-days="726772">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57980.html" class="data-link">Kolkata</a></td>
+									<td nowrap="nowrap">Nov 1, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65932.html" class="data-link">ODI # 592</a></td>
+				 </tr>
+ <tr class="data1" data-days="726819">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">7 runs</td>
+									<td class="left"><a href="/ci/content/ground/58930.html" class="data-link">Gujranwala</a></td>
+									<td nowrap="nowrap">Dec 18, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64346.html" class="data-link">ODI # 593</a></td>
+				 </tr>
+ <tr class="data1" data-days="726821">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/58956.html" class="data-link">Karachi</a></td>
+									<td nowrap="nowrap">Dec 20, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64347.html" class="data-link">ODI # 594</a></td>
+				 </tr>
+ <tr class="data1" data-days="726823">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">38 runs</td>
+									<td class="left"><a href="/ci/content/ground/58967.html" class="data-link">Lahore</a></td>
+									<td nowrap="nowrap">Dec 22, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64348.html" class="data-link">ODI # 595</a></td>
+				 </tr>
+ <tr class="data1" data-days="726827">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">30 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Dec 26, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65451.html" class="data-link">ODI # 596</a></td>
+				 </tr>
+ <tr class="data1" data-days="726831">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Dec 30, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65452.html" class="data-link">ODI # 597</a></td>
+				 </tr>
+ <tr class="data1" data-days="726832">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Dec 31, 1989</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65453.html" class="data-link">ODI # 598</a></td>
+				 </tr>
+</tbody>
+</table>

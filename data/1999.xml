@@ -1,0 +1,1402 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="730128">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58879.html" class="data-link">Taupo</a></td>
+									<td nowrap="nowrap">Jan 9, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64598.html" class="data-link">ODI # 1378</a></td>
+				 </tr>
+ <tr class="data1" data-days="730129">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 10, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65570.html" class="data-link">ODI # 1379</a></td>
+				 </tr>
+ <tr class="data1" data-days="730130">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Jan 11, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65571.html" class="data-link">ODI # 1380</a></td>
+				 </tr>
+ <tr class="data1" data-days="730131">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Jan 12, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64599.html" class="data-link">ODI # 1381</a></td>
+				 </tr>
+ <tr class="data1" data-days="730132">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 13, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65572.html" class="data-link">ODI # 1382</a></td>
+				 </tr>
+ <tr class="data1" data-days="730133">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/58895.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Jan 14, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64600.html" class="data-link">ODI # 1383</a></td>
+				 </tr>
+ <tr class="data1" data-days="730134">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 15, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65573.html" class="data-link">ODI # 1384</a></td>
+				 </tr>
+ <tr class="data1" data-days="730135">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Jan 16, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64601.html" class="data-link">ODI # 1385</a></td>
+				 </tr>
+ <tr class="data1" data-days="730136">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 17, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65574.html" class="data-link">ODI # 1386</a></td>
+				 </tr>
+ <tr class="data1" data-days="730138">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">70 runs</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Jan 19, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64602.html" class="data-link">ODI # 1387</a></td>
+				 </tr>
+ <tr class="data1" data-days="730138">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 19, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65575.html" class="data-link">ODI # 1388</a></td>
+				 </tr>
+ <tr class="data1" data-days="730140">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56407.html" class="data-link">Hobart</a></td>
+									<td nowrap="nowrap">Jan 21, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65576.html" class="data-link">ODI # 1389</a></td>
+				 </tr>
+ <tr class="data1" data-days="730141">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Jan 22, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64603.html" class="data-link">ODI # 1390</a></td>
+				 </tr>
+ <tr class="data1" data-days="730142">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">1 wicket</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 23, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65577.html" class="data-link">ODI # 1391</a></td>
+				 </tr>
+ <tr class="data1" data-days="730143">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">80 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 24, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65578.html" class="data-link">ODI # 1392</a></td>
+				 </tr>
+ <tr class="data1" data-days="730143">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">43 runs</td>
+									<td class="left"><a href="/ci/content/ground/59098.html" class="data-link">East London</a></td>
+									<td nowrap="nowrap">Jan 24, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64604.html" class="data-link">ODI # 1393</a></td>
+				 </tr>
+ <tr class="data1" data-days="730145">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">16 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 26, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65579.html" class="data-link">ODI # 1394</a></td>
+				 </tr>
+ <tr class="data1" data-days="730146">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">55 runs</td>
+									<td class="left"><a href="/ci/content/ground/59089.html" class="data-link">Durban</a></td>
+									<td nowrap="nowrap">Jan 27, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64605.html" class="data-link">ODI # 1395</a></td>
+				 </tr>
+ <tr class="data1" data-days="730148">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">128 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 29, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65580.html" class="data-link">ODI # 1396</a></td>
+				 </tr>
+ <tr class="data1" data-days="730149">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">99 runs</td>
+									<td class="left"><a href="/ci/content/ground/59159.html" class="data-link">Port Elizabeth</a></td>
+									<td nowrap="nowrap">Jan 30, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64606.html" class="data-link">ODI # 1397</a></td>
+				 </tr>
+ <tr class="data1" data-days="730150">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">45 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 31, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65581.html" class="data-link">ODI # 1398</a></td>
+				 </tr>
+ <tr class="data1" data-days="730152">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">89 runs</td>
+									<td class="left"><a href="/ci/content/ground/59068.html" class="data-link">Cape Town</a></td>
+									<td nowrap="nowrap">Feb 2, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64607.html" class="data-link">ODI # 1399</a></td>
+				 </tr>
+ <tr class="data1" data-days="730153">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">11 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 3, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65582.html" class="data-link">ODI # 1400</a></td>
+				 </tr>
+ <tr class="data1" data-days="730155">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 5, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65583.html" class="data-link">ODI # 1401</a></td>
+				 </tr>
+ <tr class="data1" data-days="730155">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">114 runs</td>
+									<td class="left"><a href="/ci/content/ground/59042.html" class="data-link">Bloemfontein</a></td>
+									<td nowrap="nowrap">Feb 5, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64608.html" class="data-link">ODI # 1402</a></td>
+				 </tr>
+ <tr class="data1" data-days="730157">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">43 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 7, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65584.html" class="data-link">ODI # 1403</a></td>
+				 </tr>
+ <tr class="data1" data-days="730157">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">50 runs</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Feb 7, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64609.html" class="data-link">ODI # 1404</a></td>
+				 </tr>
+ <tr class="data1" data-days="730160">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">10 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 10, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65585.html" class="data-link">ODI # 1405</a></td>
+				 </tr>
+ <tr class="data1" data-days="730163">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">162 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 13, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65586.html" class="data-link">ODI # 1406</a></td>
+				 </tr>
+ <tr class="data1" data-days="730164">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58822.html" class="data-link">Dunedin</a></td>
+									<td nowrap="nowrap">Feb 14, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64610.html" class="data-link">ODI # 1407</a></td>
+				 </tr>
+ <tr class="data1" data-days="730167">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Feb 17, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64611.html" class="data-link">ODI # 1408</a></td>
+				 </tr>
+ <tr class="data1" data-days="730170">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Feb 20, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64612.html" class="data-link">ODI # 1409</a></td>
+				 </tr>
+ <tr class="data1" data-days="730194">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">152 runs</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 16, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64613.html" class="data-link">ODI # 1410</a></td>
+				 </tr>
+ <tr class="data1" data-days="730197">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">9 runs</td>
+									<td class="left"><a href="/ci/content/ground/58180.html" class="data-link">Jamshedpur</a></td>
+									<td nowrap="nowrap">Mar 19, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66211.html" class="data-link">ODI # 1411</a></td>
+				 </tr>
+ <tr class="data1" data-days="730197">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">133 runs</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 19, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66218.html" class="data-link">ODI # 1412</a></td>
+				 </tr>
+ <tr class="data1" data-days="730198">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 20, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66219.html" class="data-link">ODI # 1413</a></td>
+				 </tr>
+ <tr class="data1" data-days="730199">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">126 runs</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 21, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66220.html" class="data-link">ODI # 1414</a></td>
+				 </tr>
+ <tr class="data1" data-days="730200">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">80 runs</td>
+									<td class="left"><a href="/ci/content/ground/58344.html" class="data-link">Nagpur</a></td>
+									<td nowrap="nowrap">Mar 22, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66212.html" class="data-link">ODI # 1415</a></td>
+				 </tr>
+ <tr class="data1" data-days="730201">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">64 runs</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 23, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66221.html" class="data-link">ODI # 1416</a></td>
+				 </tr>
+ <tr class="data1" data-days="730202">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">143 runs</td>
+									<td class="left"><a href="/ci/content/ground/58162.html" class="data-link">Jaipur</a></td>
+									<td nowrap="nowrap">Mar 24, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66213.html" class="data-link">ODI # 1417</a></td>
+				 </tr>
+ <tr class="data1" data-days="730202">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap">73 runs</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 24, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66222.html" class="data-link">ODI # 1418</a></td>
+				 </tr>
+ <tr class="data1" data-days="730203">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Mar 25, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64614.html" class="data-link">ODI # 1419</a></td>
+				 </tr>
+ <tr class="data1" data-days="730203">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 25, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66223.html" class="data-link">ODI # 1420</a></td>
+				 </tr>
+ <tr class="data1" data-days="730204">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Mar 26, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64615.html" class="data-link">ODI # 1421</a></td>
+				 </tr>
+ <tr class="data1" data-days="730205">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">143 runs</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Mar 27, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64616.html" class="data-link">ODI # 1422</a></td>
+				 </tr>
+ <tr class="data1" data-days="730205">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">12 runs</td>
+									<td class="left"><a href="/ci/content/ground/58542.html" class="data-link">Visakhapatnam</a></td>
+									<td nowrap="nowrap">Mar 27, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66214.html" class="data-link">ODI # 1423</a></td>
+				 </tr>
+ <tr class="data1" data-days="730205">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">202 runs</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 27, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66224.html" class="data-link">ODI # 1424</a></td>
+				 </tr>
+ <tr class="data1" data-days="730208">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/58895.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Mar 30, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64617.html" class="data-link">ODI # 1425</a></td>
+				 </tr>
+ <tr class="data1" data-days="730208">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">51 runs</td>
+									<td class="left"><a href="/ci/content/ground/58383.html" class="data-link">Pune</a></td>
+									<td nowrap="nowrap">Mar 30, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66215.html" class="data-link">ODI # 1426</a></td>
+				 </tr>
+ <tr class="data1" data-days="730210">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57991.html" class="data-link">Mohali</a></td>
+									<td nowrap="nowrap">Apr 1, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66216.html" class="data-link">ODI # 1427</a></td>
+				 </tr>
+ <tr class="data1" data-days="730213">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">123 runs</td>
+									<td class="left"><a href="/ci/content/ground/57897.html" class="data-link">Bengaluru</a></td>
+									<td nowrap="nowrap">Apr 4, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66217.html" class="data-link">ODI # 1428</a></td>
+				 </tr>
+ <tr class="data1" data-days="730216">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">90 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 7, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65775.html" class="data-link">ODI # 1429</a></td>
+				 </tr>
+ <tr class="data1" data-days="730217">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">116 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 8, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65776.html" class="data-link">ODI # 1430</a></td>
+				 </tr>
+ <tr class="data1" data-days="730218">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">20 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 9, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65777.html" class="data-link">ODI # 1431</a></td>
+				 </tr>
+ <tr class="data1" data-days="730220">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">9 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 11, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65778.html" class="data-link">ODI # 1432</a></td>
+				 </tr>
+ <tr class="data1" data-days="730220">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">44 runs</td>
+									<td class="left"><a href="/ci/content/ground/59463.html" class="data-link">Kingstown</a></td>
+									<td nowrap="nowrap">Apr 11, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64618.html" class="data-link">ODI # 1433</a></td>
+				 </tr>
+ <tr class="data1" data-days="730221">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">62 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 12, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65779.html" class="data-link">ODI # 1434</a></td>
+				 </tr>
+ <tr class="data1" data-days="730222">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 13, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65780.html" class="data-link">ODI # 1435</a></td>
+				 </tr>
+ <tr class="data1" data-days="730223">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">46 runs</td>
+									<td class="left"><a href="/ci/content/ground/59490.html" class="data-link">St George's</a></td>
+									<td nowrap="nowrap">Apr 14, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64619.html" class="data-link">ODI # 1436</a></td>
+				 </tr>
+ <tr class="data1" data-days="730225">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Apr 16, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65781.html" class="data-link">ODI # 1437</a></td>
+				 </tr>
+ <tr class="data1" data-days="730226">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59475.html" class="data-link">Port of Spain</a></td>
+									<td nowrap="nowrap">Apr 17, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64620.html" class="data-link">ODI # 1438</a></td>
+				 </tr>
+ <tr class="data1" data-days="730227">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">20 runs</td>
+									<td class="left"><a href="/ci/content/ground/59475.html" class="data-link">Port of Spain</a></td>
+									<td nowrap="nowrap">Apr 18, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64621.html" class="data-link">ODI # 1439</a></td>
+				 </tr>
+ <tr class="data1" data-days="730230">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">tied</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59447.html" class="data-link">Georgetown</a></td>
+									<td nowrap="nowrap">Apr 21, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64622.html" class="data-link">ODI # 1440</a></td>
+				 </tr>
+ <tr class="data1" data-days="730233">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Apr 24, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64623.html" class="data-link">ODI # 1441</a></td>
+				 </tr>
+ <tr class="data1" data-days="730234">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Apr 25, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64624.html" class="data-link">ODI # 1442</a></td>
+				 </tr>
+ <tr class="data1" data-days="730253">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">May 14, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65193.html" class="data-link">ODI # 1443</a></td>
+				 </tr>
+ <tr class="data1" data-days="730254">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56825.html" class="data-link">Hove</a></td>
+									<td nowrap="nowrap">May 15, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65194.html" class="data-link">ODI # 1444</a></td>
+				 </tr>
+ <tr class="data1" data-days="730254">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57351.html" class="data-link">Taunton</a></td>
+									<td nowrap="nowrap">May 15, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65195.html" class="data-link">ODI # 1445</a></td>
+				 </tr>
+ <tr class="data1" data-days="730255">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57424.html" class="data-link">Worcester</a></td>
+									<td nowrap="nowrap">May 16, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65196.html" class="data-link">ODI # 1446</a></td>
+				 </tr>
+ <tr class="data1" data-days="730255">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">27 runs</td>
+									<td class="left"><a href="/ci/content/ground/56831.html" class="data-link">Bristol</a></td>
+									<td nowrap="nowrap">May 16, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65197.html" class="data-link">ODI # 1447</a></td>
+				 </tr>
+ <tr class="data1" data-days="730256">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56887.html" class="data-link">Chelmsford</a></td>
+									<td nowrap="nowrap">May 17, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65198.html" class="data-link">ODI # 1448</a></td>
+				 </tr>
+ <tr class="data1" data-days="730257">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56869.html" class="data-link">Canterbury</a></td>
+									<td nowrap="nowrap">May 18, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65199.html" class="data-link">ODI # 1449</a></td>
+				 </tr>
+ <tr class="data1" data-days="730258">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">3 runs</td>
+									<td class="left"><a href="/ci/content/ground/57100.html" class="data-link">Leicester</a></td>
+									<td nowrap="nowrap">May 19, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65200.html" class="data-link">ODI # 1450</a></td>
+				 </tr>
+ <tr class="data1" data-days="730258">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">89 runs</td>
+									<td class="left"><a href="/ci/content/ground/57207.html" class="data-link">Northampton</a></td>
+									<td nowrap="nowrap">May 19, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65201.html" class="data-link">ODI # 1451</a></td>
+				 </tr>
+ <tr class="data1" data-days="730259">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56874.html" class="data-link">Cardiff</a></td>
+									<td nowrap="nowrap">May 20, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65202.html" class="data-link">ODI # 1452</a></td>
+				 </tr>
+ <tr class="data1" data-days="730259">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">94 runs</td>
+									<td class="left"><a href="/ci/content/ground/56901.html" class="data-link">Chester-le-Street</a></td>
+									<td nowrap="nowrap">May 20, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65203.html" class="data-link">ODI # 1453</a></td>
+				 </tr>
+ <tr class="data1" data-days="730260">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58604.html" class="data-link">Dublin</a></td>
+									<td nowrap="nowrap">May 21, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65204.html" class="data-link">ODI # 1454</a></td>
+				 </tr>
+ <tr class="data1" data-days="730261">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">122 runs</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">May 22, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65205.html" class="data-link">ODI # 1455</a></td>
+				 </tr>
+ <tr class="data1" data-days="730261">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57424.html" class="data-link">Worcester</a></td>
+									<td nowrap="nowrap">May 22, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65206.html" class="data-link">ODI # 1456</a></td>
+				 </tr>
+ <tr class="data1" data-days="730262">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">94 runs</td>
+									<td class="left"><a href="/ci/content/ground/56831.html" class="data-link">Bristol</a></td>
+									<td nowrap="nowrap">May 23, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65207.html" class="data-link">ODI # 1457</a></td>
+				 </tr>
+ <tr class="data1" data-days="730262">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">10 runs</td>
+									<td class="left"><a href="/ci/content/ground/57092.html" class="data-link">Leeds</a></td>
+									<td nowrap="nowrap">May 23, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65208.html" class="data-link">ODI # 1458</a></td>
+				 </tr>
+ <tr class="data1" data-days="730263">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">22 runs</td>
+									<td class="left"><a href="/ci/content/ground/59269.html" class="data-link">Edinburgh</a></td>
+									<td nowrap="nowrap">May 24, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65209.html" class="data-link">ODI # 1459</a></td>
+				 </tr>
+ <tr class="data1" data-days="730263">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57309.html" class="data-link">Southampton</a></td>
+									<td nowrap="nowrap">May 24, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65210.html" class="data-link">ODI # 1460</a></td>
+				 </tr>
+ <tr class="data1" data-days="730264">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">May 25, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65211.html" class="data-link">ODI # 1461</a></td>
+				 </tr>
+ <tr class="data1" data-days="730265">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58686.html" class="data-link">Amstelveen</a></td>
+									<td nowrap="nowrap">May 26, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65212.html" class="data-link">ODI # 1462</a></td>
+				 </tr>
+ <tr class="data1" data-days="730265">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">157 runs</td>
+									<td class="left"><a href="/ci/content/ground/57351.html" class="data-link">Taunton</a></td>
+									<td nowrap="nowrap">May 26, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65213.html" class="data-link">ODI # 1463</a></td>
+				 </tr>
+ <tr class="data1" data-days="730266">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56901.html" class="data-link">Chester-le-Street</a></td>
+									<td nowrap="nowrap">May 27, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65214.html" class="data-link">ODI # 1464</a></td>
+				 </tr>
+ <tr class="data1" data-days="730266">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57100.html" class="data-link">Leicester</a></td>
+									<td nowrap="nowrap">May 27, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65215.html" class="data-link">ODI # 1465</a></td>
+				 </tr>
+ <tr class="data1" data-days="730267">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">62 runs</td>
+									<td class="left"><a href="/ci/content/ground/56953.html" class="data-link">Derby</a></td>
+									<td nowrap="nowrap">May 28, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65216.html" class="data-link">ODI # 1466</a></td>
+				 </tr>
+ <tr class="data1" data-days="730269">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">63 runs</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">May 29-30, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65217.html" class="data-link">ODI # 1467</a></td>
+				 </tr>
+ <tr class="data1" data-days="730268">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">48 runs</td>
+									<td class="left"><a href="/ci/content/ground/56887.html" class="data-link">Chelmsford</a></td>
+									<td nowrap="nowrap">May 29, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65218.html" class="data-link">ODI # 1468</a></td>
+				 </tr>
+ <tr class="data1" data-days="730269">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">45 runs</td>
+									<td class="left"><a href="/ci/content/ground/57309.html" class="data-link">Southampton</a></td>
+									<td nowrap="nowrap">May 30, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65219.html" class="data-link">ODI # 1469</a></td>
+				 </tr>
+ <tr class="data1" data-days="730269">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">May 30, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65220.html" class="data-link">ODI # 1470</a></td>
+				 </tr>
+ <tr class="data1" data-days="730270">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">62 runs</td>
+									<td class="left"><a href="/ci/content/ground/57207.html" class="data-link">Northampton</a></td>
+									<td nowrap="nowrap">May 31, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65221.html" class="data-link">ODI # 1471</a></td>
+				 </tr>
+ <tr class="data1" data-days="730270">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59269.html" class="data-link">Edinburgh</a></td>
+									<td nowrap="nowrap">May 31, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65222.html" class="data-link">ODI # 1472</a></td>
+				 </tr>
+ <tr class="data1" data-days="730274">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">77 runs</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Jun 4, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65223.html" class="data-link">ODI # 1473</a></td>
+				 </tr>
+ <tr class="data1" data-days="730275">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Jun 5, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65224.html" class="data-link">ODI # 1474</a></td>
+				 </tr>
+ <tr class="data1" data-days="730277">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/57092.html" class="data-link">Leeds</a></td>
+									<td nowrap="nowrap">Jun 6-7, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65225.html" class="data-link">ODI # 1475</a></td>
+				 </tr>
+ <tr class="data1" data-days="730278">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">47 runs</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">Jun 8, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65226.html" class="data-link">ODI # 1476</a></td>
+				 </tr>
+ <tr class="data1" data-days="730279">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">44 runs</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Jun 9, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65227.html" class="data-link">ODI # 1477</a></td>
+				 </tr>
+ <tr class="data1" data-days="730280">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">74 runs</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">Jun 10, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65228.html" class="data-link">ODI # 1478</a></td>
+				 </tr>
+ <tr class="data1" data-days="730281">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">148 runs</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Jun 11, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65229.html" class="data-link">ODI # 1479</a></td>
+				 </tr>
+ <tr class="data1" data-days="730282">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Jun 12, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65230.html" class="data-link">ODI # 1480</a></td>
+				 </tr>
+ <tr class="data1" data-days="730283">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57092.html" class="data-link">Leeds</a></td>
+									<td nowrap="nowrap">Jun 13, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65231.html" class="data-link">ODI # 1481</a></td>
+				 </tr>
+ <tr class="data1" data-days="730286">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">Jun 16, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65232.html" class="data-link">ODI # 1482</a></td>
+				 </tr>
+ <tr class="data1" data-days="730287">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">tied</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">Jun 17, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65233.html" class="data-link">ODI # 1483</a></td>
+				 </tr>
+ <tr class="data1" data-days="730290">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Jun 20, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65234.html" class="data-link">ODI # 1484</a></td>
+				 </tr>
+ <tr class="data1" data-days="730353">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">50 runs</td>
+									<td class="left"><a href="/ci/content/ground/59325.html" class="data-link">Galle</a></td>
+									<td nowrap="nowrap">Aug 22, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66225.html" class="data-link">ODI # 1485</a></td>
+				 </tr>
+ <tr class="data1" data-days="730354">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59325.html" class="data-link">Galle</a></td>
+									<td nowrap="nowrap">Aug 23, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66226.html" class="data-link">ODI # 1486</a></td>
+				 </tr>
+ <tr class="data1" data-days="730356">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Aug 25, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66227.html" class="data-link">ODI # 1487</a></td>
+				 </tr>
+ <tr class="data1" data-days="730357">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">27 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Aug 26, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66228.html" class="data-link">ODI # 1488</a></td>
+				 </tr>
+ <tr class="data1" data-days="730359">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">41 runs</td>
+									<td class="left"><a href="/ci/content/ground/59308.html" class="data-link">Colombo (SSC)</a></td>
+									<td nowrap="nowrap">Aug 28, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66229.html" class="data-link">ODI # 1489</a></td>
+				 </tr>
+ <tr class="data1" data-days="730360">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">23 runs</td>
+									<td class="left"><a href="/ci/content/ground/59308.html" class="data-link">Colombo (SSC)</a></td>
+									<td nowrap="nowrap">Aug 29, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66230.html" class="data-link">ODI # 1490</a></td>
+				 </tr>
+ <tr class="data1" data-days="730362">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Aug 31, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66231.html" class="data-link">ODI # 1491</a></td>
+				 </tr>
+ <tr class="data1" data-days="730364">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59387.html" class="data-link">Singapore</a></td>
+									<td nowrap="nowrap">Sep 2, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66232.html" class="data-link">ODI # 1492</a></td>
+				 </tr>
+ <tr class="data1" data-days="730366">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">115 runs</td>
+									<td class="left"><a href="/ci/content/ground/59387.html" class="data-link">Singapore</a></td>
+									<td nowrap="nowrap">Sep 4, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66233.html" class="data-link">ODI # 1493</a></td>
+				 </tr>
+ <tr class="data1" data-days="730367">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">42 runs</td>
+									<td class="left"><a href="/ci/content/ground/59387.html" class="data-link">Singapore</a></td>
+									<td nowrap="nowrap">Sep 5, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66234.html" class="data-link">ODI # 1494</a></td>
+				 </tr>
+ <tr class="data1" data-days="730369">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59387.html" class="data-link">Singapore</a></td>
+									<td nowrap="nowrap">Sep 7, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66235.html" class="data-link">ODI # 1495</a></td>
+				 </tr>
+ <tr class="data1" data-days="730370">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59387.html" class="data-link">Singapore</a></td>
+									<td nowrap="nowrap">Sep 8, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66236.html" class="data-link">ODI # 1496</a></td>
+				 </tr>
+ <tr class="data1" data-days="730373">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56708.html" class="data-link">Toronto</a></td>
+									<td nowrap="nowrap">Sep 11, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66046.html" class="data-link">ODI # 1497</a></td>
+				 </tr>
+ <tr class="data1" data-days="730374">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">70 runs</td>
+									<td class="left"><a href="/ci/content/ground/56708.html" class="data-link">Toronto</a></td>
+									<td nowrap="nowrap">Sep 12, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66047.html" class="data-link">ODI # 1498</a></td>
+				 </tr>
+ <tr class="data1" data-days="730376">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">88 runs</td>
+									<td class="left"><a href="/ci/content/ground/56708.html" class="data-link">Toronto</a></td>
+									<td nowrap="nowrap">Sep 14, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66048.html" class="data-link">ODI # 1499</a></td>
+				 </tr>
+ <tr class="data1" data-days="730378">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">15 runs</td>
+									<td class="left"><a href="/ci/content/ground/56708.html" class="data-link">Toronto</a></td>
+									<td nowrap="nowrap">Sep 16, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66049.html" class="data-link">ODI # 1500</a></td>
+				 </tr>
+ <tr class="data1" data-days="730380">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">42 runs</td>
+									<td class="left"><a href="/ci/content/ground/56708.html" class="data-link">Toronto</a></td>
+									<td nowrap="nowrap">Sep 18, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66050.html" class="data-link">ODI # 1501</a></td>
+				 </tr>
+ <tr class="data1" data-days="730381">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56708.html" class="data-link">Toronto</a></td>
+									<td nowrap="nowrap">Sep 19, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66051.html" class="data-link">ODI # 1502</a></td>
+				 </tr>
+ <tr class="data1" data-days="730387">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58661.html" class="data-link">Nairobi (Gym)</a></td>
+									<td nowrap="nowrap">Sep 25, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66241.html" class="data-link">ODI # 1503</a></td>
+				 </tr>
+ <tr class="data1" data-days="730388">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58661.html" class="data-link">Nairobi (Gym)</a></td>
+									<td nowrap="nowrap">Sep 26, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66242.html" class="data-link">ODI # 1504</a></td>
+				 </tr>
+ <tr class="data1" data-days="730390">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58661.html" class="data-link">Nairobi (Gym)</a></td>
+									<td nowrap="nowrap">Sep 28, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66243.html" class="data-link">ODI # 1505</a></td>
+				 </tr>
+ <tr class="data1" data-days="730391">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">58 runs</td>
+									<td class="left"><a href="/ci/content/ground/58661.html" class="data-link">Nairobi (Gym)</a></td>
+									<td nowrap="nowrap">Sep 29, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66244.html" class="data-link">ODI # 1506</a></td>
+				 </tr>
+ <tr class="data1" data-days="730392">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">24 runs</td>
+									<td class="left"><a href="/ci/content/ground/58661.html" class="data-link">Nairobi (Gym)</a></td>
+									<td nowrap="nowrap">Sep 30, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66245.html" class="data-link">ODI # 1507</a></td>
+				 </tr>
+ <tr class="data1" data-days="730393">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">107 runs</td>
+									<td class="left"><a href="/ci/content/ground/58661.html" class="data-link">Nairobi (Gym)</a></td>
+									<td nowrap="nowrap">Oct 1, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66246.html" class="data-link">ODI # 1508</a></td>
+				 </tr>
+ <tr class="data1" data-days="730395">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">26 runs</td>
+									<td class="left"><a href="/ci/content/ground/58661.html" class="data-link">Nairobi (Gym)</a></td>
+									<td nowrap="nowrap">Oct 3, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/66247.html" class="data-link">ODI # 1509</a></td>
+				 </tr>
+ <tr class="data1" data-days="730400">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">73 runs</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Oct 8, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64625.html" class="data-link">ODI # 1510</a></td>
+				 </tr>
+ <tr class="data1" data-days="730401">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">109 runs</td>
+									<td class="left"><a href="/ci/content/ground/56661.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Oct 9, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64626.html" class="data-link">ODI # 1511</a></td>
+				 </tr>
+ <tr class="data1" data-days="730405">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 13, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65887.html" class="data-link">ODI # 1512</a></td>
+				 </tr>
+ <tr class="data1" data-days="730406">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">130 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 14, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65888.html" class="data-link">ODI # 1513</a></td>
+				 </tr>
+ <tr class="data1" data-days="730407">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">tied</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 15, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65889.html" class="data-link">ODI # 1514</a></td>
+				 </tr>
+ <tr class="data1" data-days="730409">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 17, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65890.html" class="data-link">ODI # 1515</a></td>
+				 </tr>
+ <tr class="data1" data-days="730410">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">118 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 18, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65891.html" class="data-link">ODI # 1516</a></td>
+				 </tr>
+ <tr class="data1" data-days="730411">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">138 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 19, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65892.html" class="data-link">ODI # 1517</a></td>
+				 </tr>
+ <tr class="data1" data-days="730413">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">83 runs</td>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Oct 21, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64627.html" class="data-link">ODI # 1518</a></td>
+				 </tr>
+ <tr class="data1" data-days="730414">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">88 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Oct 22, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/65893.html" class="data-link">ODI # 1519</a></td>
+				 </tr>
+ <tr class="data1" data-days="730415">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Oct 23, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64628.html" class="data-link">ODI # 1520</a></td>
+				 </tr>
+ <tr class="data1" data-days="730416">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Oct 24, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64629.html" class="data-link">ODI # 1521</a></td>
+				 </tr>
+ <tr class="data1" data-days="730428">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">43 runs</td>
+									<td class="left"><a href="/ci/content/ground/58401.html" class="data-link">Rajkot</a></td>
+									<td nowrap="nowrap">Nov 5, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64630.html" class="data-link">ODI # 1522</a></td>
+				 </tr>
+ <tr class="data1" data-days="730431">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">174 runs</td>
+									<td class="left"><a href="/ci/content/ground/58136.html" class="data-link">Hyderabad (Deccan)</a></td>
+									<td nowrap="nowrap">Nov 8, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64631.html" class="data-link">ODI # 1523</a></td>
+				 </tr>
+ <tr class="data1" data-days="730434">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">14 runs</td>
+									<td class="left"><a href="/ci/content/ground/58119.html" class="data-link">Gwalior</a></td>
+									<td nowrap="nowrap">Nov 11, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64632.html" class="data-link">ODI # 1524</a></td>
+				 </tr>
+ <tr class="data1" data-days="730437">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">48 runs</td>
+									<td class="left"><a href="/ci/content/ground/58114.html" class="data-link">Guwahati</a></td>
+									<td nowrap="nowrap">Nov 14, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64633.html" class="data-link">ODI # 1525</a></td>
+				 </tr>
+ <tr class="data1" data-days="730440">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58040.html" class="data-link">Delhi</a></td>
+									<td nowrap="nowrap">Nov 17, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64634.html" class="data-link">ODI # 1526</a></td>
+				 </tr>
+ <tr class="data1" data-days="730464">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Dec 11, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64635.html" class="data-link">ODI # 1527</a></td>
+				 </tr>
+ <tr class="data1" data-days="730465">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">13 runs</td>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Dec 12, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64636.html" class="data-link">ODI # 1528</a></td>
+				 </tr>
+ <tr class="data1" data-days="730468">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">98 runs</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Dec 15, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64637.html" class="data-link">ODI # 1529</a></td>
+				 </tr>
+ <tr class="data1" data-days="730471">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Dec 18, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64638.html" class="data-link">ODI # 1530</a></td>
+				 </tr>
+ <tr class="data1" data-days="730472">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Dec 19, 1999</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/64639.html" class="data-link">ODI # 1531</a></td>
+				 </tr>
+</tbody>
+</table>

@@ -1,0 +1,826 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="734878">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">258 runs</td>
+									<td class="left"><a href="/ci/content/ground/59147.html" class="data-link">Paarl</a></td>
+									<td nowrap="nowrap">Jan 11, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/514035.html" class="data-link">ODI # 3225</a></td>
+				 </tr>
+ <tr class="data1" data-days="734881">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59098.html" class="data-link">East London</a></td>
+									<td nowrap="nowrap">Jan 14, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/514036.html" class="data-link">ODI # 3226</a></td>
+				 </tr>
+ <tr class="data1" data-days="734884">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">4 runs</td>
+									<td class="left"><a href="/ci/content/ground/59042.html" class="data-link">Bloemfontein</a></td>
+									<td nowrap="nowrap">Jan 17, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/514037.html" class="data-link">ODI # 3227</a></td>
+				 </tr>
+ <tr class="data1" data-days="734887">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59135.html" class="data-link">Kimberley</a></td>
+									<td nowrap="nowrap">Jan 20, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/514038.html" class="data-link">ODI # 3228</a></td>
+				 </tr>
+ <tr class="data1" data-days="734889">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Jan 22, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/514039.html" class="data-link">ODI # 3229</a></td>
+				 </tr>
+ <tr class="data1" data-days="734901">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">90 runs</td>
+									<td class="left"><a href="/ci/content/ground/58827.html" class="data-link">Dunedin</a></td>
+									<td nowrap="nowrap">Feb 3, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/520592.html" class="data-link">ODI # 3230</a></td>
+				 </tr>
+ <tr class="data1" data-days="734903">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">65 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 5, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518956.html" class="data-link">ODI # 3231</a></td>
+				 </tr>
+ <tr class="data1" data-days="734904">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">141 runs</td>
+									<td class="left"><a href="/ci/content/ground/441704.html" class="data-link">Whangarei</a></td>
+									<td nowrap="nowrap">Feb 6, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/520593.html" class="data-link">ODI # 3232</a></td>
+				 </tr>
+ <tr class="data1" data-days="734906">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Feb 8, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518957.html" class="data-link">ODI # 3233</a></td>
+				 </tr>
+ <tr class="data1" data-days="734907">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">202 runs</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Feb 9, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/520594.html" class="data-link">ODI # 3234</a></td>
+				 </tr>
+ <tr class="data1" data-days="734908">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">5 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Feb 10, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518958.html" class="data-link">ODI # 3235</a></td>
+				 </tr>
+ <tr class="data1" data-days="734908">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Feb 10, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/545656.html" class="data-link">ODI # 3236</a></td>
+				 </tr>
+ <tr class="data1" data-days="734910">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Feb 12, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518959.html" class="data-link">ODI # 3237</a></td>
+				 </tr>
+ <tr class="data1" data-days="734911">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">130 runs</td>
+									<td class="left"><a href="/ci/content/ground/59396.html" class="data-link">Abu Dhabi</a></td>
+									<td nowrap="nowrap">Feb 13, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/531631.html" class="data-link">ODI # 3238</a></td>
+				 </tr>
+ <tr class="data1" data-days="734912">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">tied</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Feb 14, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518960.html" class="data-link">ODI # 3239</a></td>
+				 </tr>
+ <tr class="data1" data-days="734913">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">20 runs</td>
+									<td class="left"><a href="/ci/content/ground/59396.html" class="data-link">Abu Dhabi</a></td>
+									<td nowrap="nowrap">Feb 15, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/531632.html" class="data-link">ODI # 3240</a></td>
+				 </tr>
+ <tr class="data1" data-days="734915">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 17, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518961.html" class="data-link">ODI # 3241</a></td>
+				 </tr>
+ <tr class="data1" data-days="734916">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58652.html" class="data-link">Mombasa</a></td>
+									<td nowrap="nowrap">Feb 18, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/543881.html" class="data-link">ODI # 3242</a></td>
+				 </tr>
+ <tr class="data1" data-days="734916">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/392627.html" class="data-link">Dubai (DSC)</a></td>
+									<td nowrap="nowrap">Feb 18, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/531633.html" class="data-link">ODI # 3243</a></td>
+				 </tr>
+ <tr class="data1" data-days="734917">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">110 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Feb 19, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518962.html" class="data-link">ODI # 3244</a></td>
+				 </tr>
+ <tr class="data1" data-days="734918">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">117 runs</td>
+									<td class="left"><a href="/ci/content/ground/58652.html" class="data-link">Mombasa</a></td>
+									<td nowrap="nowrap">Feb 20, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/543882.html" class="data-link">ODI # 3245</a></td>
+				 </tr>
+ <tr class="data1" data-days="734919">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">51 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Feb 21, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518963.html" class="data-link">ODI # 3246</a></td>
+				 </tr>
+ <tr class="data1" data-days="734919">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/392627.html" class="data-link">Dubai (DSC)</a></td>
+									<td nowrap="nowrap">Feb 21, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/531634.html" class="data-link">ODI # 3247</a></td>
+				 </tr>
+ <tr class="data1" data-days="734922">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56407.html" class="data-link">Hobart</a></td>
+									<td nowrap="nowrap">Feb 24, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518964.html" class="data-link">ODI # 3248</a></td>
+				 </tr>
+ <tr class="data1" data-days="734923">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58899.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Feb 25, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/520600.html" class="data-link">ODI # 3249</a></td>
+				 </tr>
+ <tr class="data1" data-days="734924">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">87 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 26, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518965.html" class="data-link">ODI # 3250</a></td>
+				 </tr>
+ <tr class="data1" data-days="734926">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56407.html" class="data-link">Hobart</a></td>
+									<td nowrap="nowrap">Feb 28, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518966.html" class="data-link">ODI # 3251</a></td>
+				 </tr>
+ <tr class="data1" data-days="734927">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Feb 29, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/520601.html" class="data-link">ODI # 3252</a></td>
+				 </tr>
+ <tr class="data1" data-days="734929">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">9 runs</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Mar 2, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518967.html" class="data-link">ODI # 3253</a></td>
+				 </tr>
+ <tr class="data1" data-days="734930">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Mar 3, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/520602.html" class="data-link">ODI # 3254</a></td>
+				 </tr>
+ <tr class="data1" data-days="734931">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">15 runs</td>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Mar 4, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518968.html" class="data-link">ODI # 3255</a></td>
+				 </tr>
+ <tr class="data1" data-days="734933">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Mar 6, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518969.html" class="data-link">ODI # 3256</a></td>
+				 </tr>
+ <tr class="data1" data-days="734935">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">16 runs</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Mar 8, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/518970.html" class="data-link">ODI # 3257</a></td>
+				 </tr>
+ <tr class="data1" data-days="734938">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">21 runs</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 11, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/535794.html" class="data-link">ODI # 3258</a></td>
+				 </tr>
+ <tr class="data1" data-days="734940">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">50 runs</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 13, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/535795.html" class="data-link">ODI # 3259</a></td>
+				 </tr>
+ <tr class="data1" data-days="734942">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 15, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/535796.html" class="data-link">ODI # 3260</a></td>
+				 </tr>
+ <tr class="data1" data-days="734943">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 16, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/535797.html" class="data-link">ODI # 3261</a></td>
+				 </tr>
+ <tr class="data1" data-days="734943">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">64 runs</td>
+									<td class="left"><a href="/ci/content/ground/59463.html" class="data-link">Kingstown</a></td>
+									<td nowrap="nowrap">Mar 16, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/540168.html" class="data-link">ODI # 3262</a></td>
+				 </tr>
+ <tr class="data1" data-days="734945">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 18, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/535798.html" class="data-link">ODI # 3263</a></td>
+				 </tr>
+ <tr class="data1" data-days="734945">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59463.html" class="data-link">Kingstown</a></td>
+									<td nowrap="nowrap">Mar 18, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/540169.html" class="data-link">ODI # 3264</a></td>
+				 </tr>
+ <tr class="data1" data-days="734947">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 20, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/535799.html" class="data-link">ODI # 3265</a></td>
+				 </tr>
+ <tr class="data1" data-days="734947">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">tied</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59463.html" class="data-link">Kingstown</a></td>
+									<td nowrap="nowrap">Mar 20, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/540170.html" class="data-link">ODI # 3266</a></td>
+				 </tr>
+ <tr class="data1" data-days="734949">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">2 runs</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Mar 22, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/535800.html" class="data-link">ODI # 3267</a></td>
+				 </tr>
+ <tr class="data1" data-days="734950">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">42 runs</td>
+									<td class="left"><a href="/ci/content/ground/59518.html" class="data-link">Gros Islet</a></td>
+									<td nowrap="nowrap">Mar 23, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/540171.html" class="data-link">ODI # 3268</a></td>
+				 </tr>
+ <tr class="data1" data-days="734952">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">30 runs</td>
+									<td class="left"><a href="/ci/content/ground/59518.html" class="data-link">Gros Islet</a></td>
+									<td nowrap="nowrap">Mar 25, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/540172.html" class="data-link">ODI # 3269</a></td>
+				 </tr>
+ <tr class="data1" data-days="734956">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 29, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/543888.html" class="data-link">ODI # 3270</a></td>
+				 </tr>
+ <tr class="data1" data-days="734958">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Mar 31, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/543889.html" class="data-link">ODI # 3271</a></td>
+				 </tr>
+ <tr class="data1" data-days="735026">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/434211.html" class="data-link">Pallekele</a></td>
+									<td nowrap="nowrap">Jun 7, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/562439.html" class="data-link">ODI # 3272</a></td>
+				 </tr>
+ <tr class="data1" data-days="735028">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">76 runs</td>
+									<td class="left"><a href="/ci/content/ground/434211.html" class="data-link">Pallekele</a></td>
+									<td nowrap="nowrap">Jun 9, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/562440.html" class="data-link">ODI # 3273</a></td>
+				 </tr>
+ <tr class="data1" data-days="735032">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Jun 13, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/562441.html" class="data-link">ODI # 3274</a></td>
+				 </tr>
+ <tr class="data1" data-days="735035">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">44 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Jun 16, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/562442.html" class="data-link">ODI # 3275</a></td>
+				 </tr>
+ <tr class="data1" data-days="735035">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">114 runs</td>
+									<td class="left"><a href="/ci/content/ground/57312.html" class="data-link">Southampton</a></td>
+									<td nowrap="nowrap">Jun 16, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534209.html" class="data-link">ODI # 3276</a></td>
+				 </tr>
+ <tr class="data1" data-days="735037">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Jun 18, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/562443.html" class="data-link">ODI # 3277</a></td>
+				 </tr>
+ <tr class="data1" data-days="735038">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Jun 19, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534210.html" class="data-link">ODI # 3278</a></td>
+				 </tr>
+ <tr class="data1" data-days="735042">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/58588.html" class="data-link">Belfast</a></td>
+									<td nowrap="nowrap">Jun 23, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534214.html" class="data-link">ODI # 3279</a></td>
+				 </tr>
+ <tr class="data1" data-days="735048">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">15 runs</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Jun 29, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534215.html" class="data-link">ODI # 3280</a></td>
+				 </tr>
+ <tr class="data1" data-days="735050">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Jul 1, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534216.html" class="data-link">ODI # 3281</a></td>
+				 </tr>
+ <tr class="data1" data-days="735054">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">59 runs</td>
+									<td class="left"><a href="/ci/content/ground/58604.html" class="data-link">Dublin</a></td>
+									<td nowrap="nowrap">Jul 5, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/555892.html" class="data-link">ODI # 3282</a></td>
+				 </tr>
+ <tr class="data1" data-days="735054">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59458.html" class="data-link">Kingston</a></td>
+									<td nowrap="nowrap">Jul 5, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/560923.html" class="data-link">ODI # 3283</a></td>
+				 </tr>
+ <tr class="data1" data-days="735056">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56901.html" class="data-link">Chester-le-Street</a></td>
+									<td nowrap="nowrap">Jul 7, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534218.html" class="data-link">ODI # 3284</a></td>
+				 </tr>
+ <tr class="data1" data-days="735056">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">55 runs</td>
+									<td class="left"><a href="/ci/content/ground/59458.html" class="data-link">Kingston</a></td>
+									<td nowrap="nowrap">Jul 7, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/560924.html" class="data-link">ODI # 3285</a></td>
+				 </tr>
+ <tr class="data1" data-days="735059">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57160.html" class="data-link">Manchester</a></td>
+									<td nowrap="nowrap">Jul 10, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534219.html" class="data-link">ODI # 3286</a></td>
+				 </tr>
+ <tr class="data1" data-days="735061">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59258.html" class="data-link">Ayr</a></td>
+									<td nowrap="nowrap">Jul 11-12, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/555894.html" class="data-link">ODI # 3287</a></td>
+				 </tr>
+ <tr class="data1" data-days="735060">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">88 runs</td>
+									<td class="left"><a href="/ci/content/ground/59421.html" class="data-link">Basseterre</a></td>
+									<td nowrap="nowrap">Jul 11, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/560925.html" class="data-link">ODI # 3288</a></td>
+				 </tr>
+ <tr class="data1" data-days="735063">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">24 runs</td>
+									<td class="left"><a href="/ci/content/ground/59421.html" class="data-link">Basseterre</a></td>
+									<td nowrap="nowrap">Jul 14, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/560926.html" class="data-link">ODI # 3289</a></td>
+				 </tr>
+ <tr class="data1" data-days="735065">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">20 runs</td>
+									<td class="left"><a href="/ci/content/ground/59421.html" class="data-link">Basseterre</a></td>
+									<td nowrap="nowrap">Jul 16, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/560927.html" class="data-link">ODI # 3290</a></td>
+				 </tr>
+ <tr class="data1" data-days="735070">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">21 runs</td>
+									<td class="left"><a href="/ci/content/ground/434210.html" class="data-link">Hambantota</a></td>
+									<td nowrap="nowrap">Jul 21, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/564781.html" class="data-link">ODI # 3291</a></td>
+				 </tr>
+ <tr class="data1" data-days="735073">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/434210.html" class="data-link">Hambantota</a></td>
+									<td nowrap="nowrap">Jul 24, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/564782.html" class="data-link">ODI # 3292</a></td>
+				 </tr>
+ <tr class="data1" data-days="735077">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Jul 28, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/564783.html" class="data-link">ODI # 3293</a></td>
+				 </tr>
+ <tr class="data1" data-days="735080">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Jul 31, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/564784.html" class="data-link">ODI # 3294</a></td>
+				 </tr>
+ <tr class="data1" data-days="735084">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">20 runs</td>
+									<td class="left"><a href="/ci/content/ground/434211.html" class="data-link">Pallekele</a></td>
+									<td nowrap="nowrap">Aug 4, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/564785.html" class="data-link">ODI # 3295</a></td>
+				 </tr>
+ <tr class="data1" data-days="735104">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56874.html" class="data-link">Cardiff</a></td>
+									<td nowrap="nowrap">Aug 24, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534228.html" class="data-link">ODI # 3296</a></td>
+				 </tr>
+ <tr class="data1" data-days="735105">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">66 runs</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Aug 25, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/571947.html" class="data-link">ODI # 3297</a></td>
+				 </tr>
+ <tr class="data1" data-days="735108">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">80 runs</td>
+									<td class="left"><a href="/ci/content/ground/57312.html" class="data-link">Southampton</a></td>
+									<td nowrap="nowrap">Aug 28, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534229.html" class="data-link">ODI # 3298</a></td>
+				 </tr>
+ <tr class="data1" data-days="735108">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Aug 28, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/571145.html" class="data-link">ODI # 3299</a></td>
+				 </tr>
+ <tr class="data1" data-days="735111">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Aug 31, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534230.html" class="data-link">ODI # 3300</a></td>
+				 </tr>
+ <tr class="data1" data-days="735111">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59396.html" class="data-link">Abu Dhabi</a></td>
+									<td nowrap="nowrap">Aug 31, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/571146.html" class="data-link">ODI # 3301</a></td>
+				 </tr>
+ <tr class="data1" data-days="735113">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Sep 2, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534231.html" class="data-link">ODI # 3302</a></td>
+				 </tr>
+ <tr class="data1" data-days="735114">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59392.html" class="data-link">Sharjah</a></td>
+									<td nowrap="nowrap">Sep 3, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/571147.html" class="data-link">ODI # 3303</a></td>
+				 </tr>
+ <tr class="data1" data-days="735116">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Sep 5, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/534232.html" class="data-link">ODI # 3304</a></td>
+				 </tr>
+ <tr class="data1" data-days="735176">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">14 runs</td>
+									<td class="left"><a href="/ci/content/ground/434211.html" class="data-link">Pallekele</a></td>
+									<td nowrap="nowrap">Nov 4, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/582188.html" class="data-link">ODI # 3305</a></td>
+				 </tr>
+ <tr class="data1" data-days="735178">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/434211.html" class="data-link">Pallekele</a></td>
+									<td nowrap="nowrap">Nov 6, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/582189.html" class="data-link">ODI # 3306</a></td>
+				 </tr>
+ <tr class="data1" data-days="735182">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/434210.html" class="data-link">Hambantota</a></td>
+									<td nowrap="nowrap">Nov 10, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/582190.html" class="data-link">ODI # 3307</a></td>
+				 </tr>
+ <tr class="data1" data-days="735184">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/434210.html" class="data-link">Hambantota</a></td>
+									<td nowrap="nowrap">Nov 12, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/582191.html" class="data-link">ODI # 3308</a></td>
+				 </tr>
+ <tr class="data1" data-days="735202">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56691.html" class="data-link">Khulna</a></td>
+									<td nowrap="nowrap">Nov 30, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/587471.html" class="data-link">ODI # 3309</a></td>
+				 </tr>
+ <tr class="data1" data-days="735204">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">160 runs</td>
+									<td class="left"><a href="/ci/content/ground/56691.html" class="data-link">Khulna</a></td>
+									<td nowrap="nowrap">Dec 2, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/587472.html" class="data-link">ODI # 3310</a></td>
+				 </tr>
+ <tr class="data1" data-days="735207">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Dec 5, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/587473.html" class="data-link">ODI # 3311</a></td>
+				 </tr>
+ <tr class="data1" data-days="735209">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">75 runs</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Dec 7, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/587474.html" class="data-link">ODI # 3312</a></td>
+				 </tr>
+ <tr class="data1" data-days="735210">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Dec 8, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/587475.html" class="data-link">ODI # 3313</a></td>
+				 </tr>
+ <tr class="data1" data-days="735232">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58008.html" class="data-link">Chennai</a></td>
+									<td nowrap="nowrap">Dec 30, 2012</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/589308.html" class="data-link">ODI # 3314</a></td>
+				 </tr>
+</tbody>
+</table>

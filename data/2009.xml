@@ -1,0 +1,1366 @@
+<table class="engineTable">
+<caption>Match results</caption>
+<thead>
+ <tr class="head">
+  <th title="team" class="left" nowrap="nowrap">Team 1</th>
+  <th title="team" class="left" nowrap="nowrap">Team 2</th>
+  <th title="winner/result" class="left" nowrap="nowrap">Winner</th>
+  <th title="result margin" class="left" nowrap="nowrap">Margin</th>
+  <th title="ground played on" class="left" nowrap="nowrap">Ground</th>
+  <th title="match date span" nowrap="nowrap">Match Date</th>
+  <th title="match scorecard" nowrap="nowrap">Scorecard</th>
+ </tr>
+</thead>
+<tbody>
+ <tr class="data1" data-days="733775">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Jan 3, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/366710.html" class="data-link">ODI # 2787</a></td>
+				 </tr>
+ <tr class="data1" data-days="733779">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58899.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Jan 7, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/366711.html" class="data-link">ODI # 2788</a></td>
+				 </tr>
+ <tr class="data1" data-days="733782">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Jan 10, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/366712.html" class="data-link">ODI # 2789</a></td>
+				 </tr>
+ <tr class="data1" data-days="733782">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">38 runs</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Jan 10, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/378753.html" class="data-link">ODI # 2790</a></td>
+				 </tr>
+ <tr class="data1" data-days="733784">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">130 runs</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Jan 12, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/378754.html" class="data-link">ODI # 2791</a></td>
+				 </tr>
+ <tr class="data1" data-days="733785">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">9 runs</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Jan 13, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/366713.html" class="data-link">ODI # 2792</a></td>
+				 </tr>
+ <tr class="data1" data-days="733786">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Jan 14, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/378755.html" class="data-link">ODI # 2793</a></td>
+				 </tr>
+ <tr class="data1" data-days="733788">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Jan 16, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/378756.html" class="data-link">ODI # 2794</a></td>
+				 </tr>
+ <tr class="data1" data-days="733788">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Jan 16, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/351684.html" class="data-link">ODI # 2795</a></td>
+				 </tr>
+ <tr class="data1" data-days="733790">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">5 runs</td>
+									<td class="left"><a href="/ci/content/ground/56407.html" class="data-link">Hobart</a></td>
+									<td nowrap="nowrap">Jan 18, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/351685.html" class="data-link">ODI # 2796</a></td>
+				 </tr>
+ <tr class="data1" data-days="733791">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Jan 19, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/378757.html" class="data-link">ODI # 2797</a></td>
+				 </tr>
+ <tr class="data1" data-days="733792">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58956.html" class="data-link">Karachi</a></td>
+									<td nowrap="nowrap">Jan 20, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/385749.html" class="data-link">ODI # 2798</a></td>
+				 </tr>
+ <tr class="data1" data-days="733793">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Jan 21, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/378758.html" class="data-link">ODI # 2799</a></td>
+				 </tr>
+ <tr class="data1" data-days="733793">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">129 runs</td>
+									<td class="left"><a href="/ci/content/ground/58956.html" class="data-link">Karachi</a></td>
+									<td nowrap="nowrap">Jan 21, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/385750.html" class="data-link">ODI # 2800</a></td>
+				 </tr>
+ <tr class="data1" data-days="733795">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Jan 23, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/378759.html" class="data-link">ODI # 2801</a></td>
+				 </tr>
+ <tr class="data1" data-days="733795">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Jan 23, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/351686.html" class="data-link">ODI # 2802</a></td>
+				 </tr>
+ <tr class="data1" data-days="733796">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">234 runs</td>
+									<td class="left"><a href="/ci/content/ground/58967.html" class="data-link">Lahore</a></td>
+									<td nowrap="nowrap">Jan 24, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/385751.html" class="data-link">ODI # 2803</a></td>
+				 </tr>
+ <tr class="data1" data-days="733798">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Jan 26, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/351687.html" class="data-link">ODI # 2804</a></td>
+				 </tr>
+ <tr class="data1" data-days="733799">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">109 runs</td>
+									<td class="left"><a href="/ci/content/ground/58652.html" class="data-link">Mombasa</a></td>
+									<td nowrap="nowrap">Jan 27, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/385023.html" class="data-link">ODI # 2805</a></td>
+				 </tr>
+ <tr class="data1" data-days="733800">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59368.html" class="data-link">Dambulla</a></td>
+									<td nowrap="nowrap">Jan 28, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/386530.html" class="data-link">ODI # 2806</a></td>
+				 </tr>
+ <tr class="data1" data-days="733801">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">151 runs</td>
+									<td class="left"><a href="/ci/content/ground/58652.html" class="data-link">Mombasa</a></td>
+									<td nowrap="nowrap">Jan 29, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/385024.html" class="data-link">ODI # 2807</a></td>
+				 </tr>
+ <tr class="data1" data-days="733802">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">39 runs</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Jan 30, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/351688.html" class="data-link">ODI # 2808</a></td>
+				 </tr>
+ <tr class="data1" data-days="733803">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58661.html" class="data-link">Nairobi (Gym)</a></td>
+									<td nowrap="nowrap">Jan 31, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/385025.html" class="data-link">ODI # 2809</a></td>
+				 </tr>
+ <tr class="data1" data-days="733803">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">15 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Jan 31, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/386531.html" class="data-link">ODI # 2810</a></td>
+				 </tr>
+ <tr class="data1" data-days="733804">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56490.html" class="data-link">Perth</a></td>
+									<td nowrap="nowrap">Feb 1, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/351689.html" class="data-link">ODI # 2811</a></td>
+				 </tr>
+ <tr class="data1" data-days="733804">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">66 runs</td>
+									<td class="left"><a href="/ci/content/ground/58661.html" class="data-link">Nairobi (Gym)</a></td>
+									<td nowrap="nowrap">Feb 1, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/385026.html" class="data-link">ODI # 2812</a></td>
+				 </tr>
+ <tr class="data1" data-days="733806">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">147 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Feb 3, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/386532.html" class="data-link">ODI # 2813</a></td>
+				 </tr>
+ <tr class="data1" data-days="733807">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58661.html" class="data-link">Nairobi (Gym)</a></td>
+									<td nowrap="nowrap">Feb 4, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/385027.html" class="data-link">ODI # 2814</a></td>
+				 </tr>
+ <tr class="data1" data-days="733808">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">67 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Feb 5, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/386533.html" class="data-link">ODI # 2815</a></td>
+				 </tr>
+ <tr class="data1" data-days="733809">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56441.html" class="data-link">Melbourne</a></td>
+									<td nowrap="nowrap">Feb 6, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/351690.html" class="data-link">ODI # 2816</a></td>
+				 </tr>
+ <tr class="data1" data-days="733811">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">32 runs</td>
+									<td class="left"><a href="/ci/content/ground/56544.html" class="data-link">Sydney</a></td>
+									<td nowrap="nowrap">Feb 8, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/351691.html" class="data-link">ODI # 2817</a></td>
+				 </tr>
+ <tr class="data1" data-days="733811">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">68 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Feb 8, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/386534.html" class="data-link">ODI # 2818</a></td>
+				 </tr>
+ <tr class="data1" data-days="733813">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56293.html" class="data-link">Adelaide</a></td>
+									<td nowrap="nowrap">Feb 10, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/351692.html" class="data-link">ODI # 2819</a></td>
+				 </tr>
+ <tr class="data1" data-days="733816">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56336.html" class="data-link">Brisbane</a></td>
+									<td nowrap="nowrap">Feb 13, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/351693.html" class="data-link">ODI # 2820</a></td>
+				 </tr>
+ <tr class="data1" data-days="733834">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">53 runs</td>
+									<td class="left"><a href="/ci/content/ground/58857.html" class="data-link">Napier</a></td>
+									<td nowrap="nowrap">Mar 3, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/366623.html" class="data-link">ODI # 2821</a></td>
+				 </tr>
+ <tr class="data1" data-days="733837">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/58899.html" class="data-link">Wellington</a></td>
+									<td nowrap="nowrap">Mar 6, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/366626.html" class="data-link">ODI # 2822</a></td>
+				 </tr>
+ <tr class="data1" data-days="733839">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">58 runs</td>
+									<td class="left"><a href="/ci/content/ground/58812.html" class="data-link">Christchurch</a></td>
+									<td nowrap="nowrap">Mar 8, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/366627.html" class="data-link">ODI # 2823</a></td>
+				 </tr>
+ <tr class="data1" data-days="733842">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">84 runs</td>
+									<td class="left"><a href="/ci/content/ground/58831.html" class="data-link">Hamilton</a></td>
+									<td nowrap="nowrap">Mar 11, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/366624.html" class="data-link">ODI # 2824</a></td>
+				 </tr>
+ <tr class="data1" data-days="733845">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58792.html" class="data-link">Auckland</a></td>
+									<td nowrap="nowrap">Mar 14, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/366625.html" class="data-link">ODI # 2825</a></td>
+				 </tr>
+ <tr class="data1" data-days="733851">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">1 run</td>
+									<td class="left"><a href="/ci/content/ground/208544.html" class="data-link">Providence</a></td>
+									<td nowrap="nowrap">Mar 20, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/352665.html" class="data-link">ODI # 2826</a></td>
+				 </tr>
+ <tr class="data1" data-days="733853">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">21 runs</td>
+									<td class="left"><a href="/ci/content/ground/208544.html" class="data-link">Providence</a></td>
+									<td nowrap="nowrap">Mar 22, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/352666.html" class="data-link">ODI # 2827</a></td>
+				 </tr>
+ <tr class="data1" data-days="733858">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Mar 27, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/352667.html" class="data-link">ODI # 2828</a></td>
+				 </tr>
+ <tr class="data1" data-days="733860">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59429.html" class="data-link">Bridgetown</a></td>
+									<td nowrap="nowrap">Mar 29, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/352668.html" class="data-link">ODI # 2829</a></td>
+				 </tr>
+ <tr class="data1" data-days="733863">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59039.html" class="data-link">Benoni</a></td>
+									<td nowrap="nowrap">Apr 1, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/390204.html" class="data-link">ODI # 2830</a></td>
+				 </tr>
+ <tr class="data1" data-days="733863">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59172.html" class="data-link">Potchefstroom</a></td>
+									<td nowrap="nowrap">Apr 1, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/390205.html" class="data-link">ODI # 2831</a></td>
+				 </tr>
+ <tr class="data1" data-days="733865">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">141 runs</td>
+									<td class="left"><a href="/ci/content/ground/59089.html" class="data-link">Durban</a></td>
+									<td nowrap="nowrap">Apr 3, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350477.html" class="data-link">ODI # 2832</a></td>
+				 </tr>
+ <tr class="data1" data-days="733865">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">26 runs</td>
+									<td class="left"><a href="/ci/content/ground/59518.html" class="data-link">Gros Islet</a></td>
+									<td nowrap="nowrap">Apr 3, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/352669.html" class="data-link">ODI # 2833</a></td>
+				 </tr>
+ <tr class="data1" data-days="733867">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Apr 5, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350478.html" class="data-link">ODI # 2834</a></td>
+				 </tr>
+ <tr class="data1" data-days="733868">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/12.html" class="data-link">Bermuda</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59172.html" class="data-link">Potchefstroom</a></td>
+									<td nowrap="nowrap">Apr 6, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/390221.html" class="data-link">ODI # 2835</a></td>
+				 </tr>
+ <tr class="data1" data-days="733868">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59039.html" class="data-link">Benoni</a></td>
+									<td nowrap="nowrap">Apr 6, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/390219.html" class="data-link">ODI # 2836</a></td>
+				 </tr>
+ <tr class="data1" data-days="733870">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/12.html" class="data-link">Bermuda</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap">63 runs</td>
+									<td class="left"><a href="/ci/content/ground/59172.html" class="data-link">Potchefstroom</a></td>
+									<td nowrap="nowrap">Apr 8, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/390226.html" class="data-link">ODI # 2837</a></td>
+				 </tr>
+ <tr class="data1" data-days="733870">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap">148 runs</td>
+									<td class="left"><a href="/ci/content/ground/59039.html" class="data-link">Benoni</a></td>
+									<td nowrap="nowrap">Apr 8, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/390227.html" class="data-link">ODI # 2838</a></td>
+				 </tr>
+ <tr class="data1" data-days="733871">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">25 runs</td>
+									<td class="left"><a href="/ci/content/ground/59068.html" class="data-link">Cape Town</a></td>
+									<td nowrap="nowrap">Apr 9, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350479.html" class="data-link">ODI # 2839</a></td>
+				 </tr>
+ <tr class="data1" data-days="733875">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">61 runs</td>
+									<td class="left"><a href="/ci/content/ground/59159.html" class="data-link">Port Elizabeth</a></td>
+									<td nowrap="nowrap">Apr 13, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350480.html" class="data-link">ODI # 2840</a></td>
+				 </tr>
+ <tr class="data1" data-days="733879">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">47 runs</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Apr 17, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350481.html" class="data-link">ODI # 2841</a></td>
+				 </tr>
+ <tr class="data1" data-days="733881">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">89 runs</td>
+									<td class="left"><a href="/ci/content/ground/59039.html" class="data-link">Benoni</a></td>
+									<td nowrap="nowrap">Apr 19, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/390253.html" class="data-link">ODI # 2842</a></td>
+				 </tr>
+ <tr class="data1" data-days="733881">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Apr 19, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/390251.html" class="data-link">ODI # 2843</a></td>
+				 </tr>
+ <tr class="data1" data-days="733881">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59172.html" class="data-link">Potchefstroom</a></td>
+									<td nowrap="nowrap">Apr 19, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/390252.html" class="data-link">ODI # 2844</a></td>
+				 </tr>
+ <tr class="data1" data-days="733884">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/392627.html" class="data-link">Dubai (DSC)</a></td>
+									<td nowrap="nowrap">Apr 22, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/392616.html" class="data-link">ODI # 2845</a></td>
+				 </tr>
+ <tr class="data1" data-days="733886">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/392627.html" class="data-link">Dubai (DSC)</a></td>
+									<td nowrap="nowrap">Apr 24, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/392617.html" class="data-link">ODI # 2846</a></td>
+				 </tr>
+ <tr class="data1" data-days="733889">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">27 runs</td>
+									<td class="left"><a href="/ci/content/ground/59396.html" class="data-link">Abu Dhabi</a></td>
+									<td nowrap="nowrap">Apr 27, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/392618.html" class="data-link">ODI # 2847</a></td>
+				 </tr>
+ <tr class="data1" data-days="733893">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59396.html" class="data-link">Abu Dhabi</a></td>
+									<td nowrap="nowrap">May 1, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/392619.html" class="data-link">ODI # 2848</a></td>
+				 </tr>
+ <tr class="data1" data-days="733895">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59396.html" class="data-link">Abu Dhabi</a></td>
+									<td nowrap="nowrap">May 3, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/392620.html" class="data-link">ODI # 2849</a></td>
+				 </tr>
+ <tr class="data1" data-days="733916">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56831.html" class="data-link">Bristol</a></td>
+									<td nowrap="nowrap">May 24, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/380715.html" class="data-link">ODI # 2850</a></td>
+				 </tr>
+ <tr class="data1" data-days="733918">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">58 runs</td>
+									<td class="left"><a href="/ci/content/ground/56788.html" class="data-link">Birmingham</a></td>
+									<td nowrap="nowrap">May 26, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/380716.html" class="data-link">ODI # 2851</a></td>
+				 </tr>
+ <tr class="data1" data-days="733949">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">20 runs</td>
+									<td class="left"><a href="/ci/content/ground/59458.html" class="data-link">Kingston</a></td>
+									<td nowrap="nowrap">Jun 26, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/377313.html" class="data-link">ODI # 2852</a></td>
+				 </tr>
+ <tr class="data1" data-days="733951">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59458.html" class="data-link">Kingston</a></td>
+									<td nowrap="nowrap">Jun 28, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/377314.html" class="data-link">ODI # 2853</a></td>
+				 </tr>
+ <tr class="data1" data-days="733956">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59518.html" class="data-link">Gros Islet</a></td>
+									<td nowrap="nowrap">Jul 3, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/377315.html" class="data-link">ODI # 2854</a></td>
+				 </tr>
+ <tr class="data1" data-days="733958">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59518.html" class="data-link">Gros Islet</a></td>
+									<td nowrap="nowrap">Jul 5, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/377316.html" class="data-link">ODI # 2855</a></td>
+				 </tr>
+ <tr class="data1" data-days="733960">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59255.html" class="data-link">Aberdeen</a></td>
+									<td nowrap="nowrap">Jul 7, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/408621.html" class="data-link">ODI # 2856</a></td>
+				 </tr>
+ <tr class="data1" data-days="733961">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59255.html" class="data-link">Aberdeen</a></td>
+									<td nowrap="nowrap">Jul 8, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/408622.html" class="data-link">ODI # 2857</a></td>
+				 </tr>
+ <tr class="data1" data-days="733962">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58604.html" class="data-link">Dublin</a></td>
+									<td nowrap="nowrap">Jul 9, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/408623.html" class="data-link">ODI # 2858</a></td>
+				 </tr>
+ <tr class="data1" data-days="733964">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap">50 runs</td>
+									<td class="left"><a href="/ci/content/ground/58686.html" class="data-link">Amstelveen</a></td>
+									<td nowrap="nowrap">Jul 11, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/409070.html" class="data-link">ODI # 2859</a></td>
+				 </tr>
+ <tr class="data1" data-days="733964">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">52 runs</td>
+									<td class="left"><a href="/ci/content/ground/58604.html" class="data-link">Dublin</a></td>
+									<td nowrap="nowrap">Jul 11, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/408624.html" class="data-link">ODI # 2860</a></td>
+				 </tr>
+ <tr class="data1" data-days="733965">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">4 runs</td>
+									<td class="left"><a href="/ci/content/ground/58604.html" class="data-link">Dublin</a></td>
+									<td nowrap="nowrap">Jul 12, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/410557.html" class="data-link">ODI # 2861</a></td>
+				 </tr>
+ <tr class="data1" data-days="733979">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">52 runs</td>
+									<td class="left"><a href="/ci/content/ground/59480.html" class="data-link">Roseau</a></td>
+									<td nowrap="nowrap">Jul 26, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/401073.html" class="data-link">ODI # 2862</a></td>
+				 </tr>
+ <tr class="data1" data-days="733981">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59480.html" class="data-link">Roseau</a></td>
+									<td nowrap="nowrap">Jul 28, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/401074.html" class="data-link">ODI # 2863</a></td>
+				 </tr>
+ <tr class="data1" data-days="733983">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">36 runs</td>
+									<td class="left"><a href="/ci/content/ground/59368.html" class="data-link">Dambulla</a></td>
+									<td nowrap="nowrap">Jul 30, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/403370.html" class="data-link">ODI # 2864</a></td>
+				 </tr>
+ <tr class="data1" data-days="733984">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59421.html" class="data-link">Basseterre</a></td>
+									<td nowrap="nowrap">Jul 31, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/401075.html" class="data-link">ODI # 2865</a></td>
+				 </tr>
+ <tr class="data1" data-days="733985">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59368.html" class="data-link">Dambulla</a></td>
+									<td nowrap="nowrap">Aug 1, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/403371.html" class="data-link">ODI # 2866</a></td>
+				 </tr>
+ <tr class="data1" data-days="733987">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59368.html" class="data-link">Dambulla</a></td>
+									<td nowrap="nowrap">Aug 3, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/403372.html" class="data-link">ODI # 2867</a></td>
+				 </tr>
+ <tr class="data1" data-days="733991">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">146 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Aug 7, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/403373.html" class="data-link">ODI # 2868</a></td>
+				 </tr>
+ <tr class="data1" data-days="733993">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">8 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Aug 9, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/410337.html" class="data-link">ODI # 2869</a></td>
+				 </tr>
+ <tr class="data1" data-days="733993">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">132 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Aug 9, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/403374.html" class="data-link">ODI # 2870</a></td>
+				 </tr>
+ <tr class="data1" data-days="733995">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">49 runs</td>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Aug 11, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/410338.html" class="data-link">ODI # 2871</a></td>
+				 </tr>
+ <tr class="data1" data-days="733998">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">69 runs</td>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Aug 14, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/410339.html" class="data-link">ODI # 2872</a></td>
+				 </tr>
+ <tr class="data1" data-days="734000">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Aug 16, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/410340.html" class="data-link">ODI # 2873</a></td>
+				 </tr>
+ <tr class="data1" data-days="734002">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59537.html" class="data-link">Bulawayo</a></td>
+									<td nowrap="nowrap">Aug 18, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/410341.html" class="data-link">ODI # 2874</a></td>
+				 </tr>
+ <tr class="data1" data-days="734003">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56717.html" class="data-link">King City (NW)</a></td>
+									<td nowrap="nowrap">Aug 19, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415162.html" class="data-link">ODI # 2875</a></td>
+				 </tr>
+ <tr class="data1" data-days="734006">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap">96 runs</td>
+									<td class="left"><a href="/ci/content/ground/59255.html" class="data-link">Aberdeen</a></td>
+									<td nowrap="nowrap">Aug 22, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/408627.html" class="data-link">ODI # 2876</a></td>
+				 </tr>
+ <tr class="data1" data-days="734006">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/17.html" class="data-link">Canada</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/56717.html" class="data-link">King City (NW)</a></td>
+									<td nowrap="nowrap">Aug 22, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/420994.html" class="data-link">ODI # 2877</a></td>
+				 </tr>
+ <tr class="data1" data-days="734011">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/29.html" class="data-link">Ireland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">3 runs</td>
+									<td class="left"><a href="/ci/content/ground/58588.html" class="data-link">Belfast</a></td>
+									<td nowrap="nowrap">Aug 27, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/383275.html" class="data-link">ODI # 2878</a></td>
+				 </tr>
+ <tr class="data1" data-days="734012">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/30.html" class="data-link">Scotland</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">189 runs</td>
+									<td class="left"><a href="/ci/content/ground/59269.html" class="data-link">Edinburgh</a></td>
+									<td nowrap="nowrap">Aug 28, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350042.html" class="data-link">ODI # 2879</a></td>
+				 </tr>
+ <tr class="data1" data-days="734014">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap">8 runs</td>
+									<td class="left"><a href="/ci/content/ground/58686.html" class="data-link">Amstelveen</a></td>
+									<td nowrap="nowrap">Aug 30, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415172.html" class="data-link">ODI # 2880</a></td>
+				 </tr>
+ <tr class="data1" data-days="734016">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/15.html" class="data-link">Netherlands</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/40.html" class="data-link">Afghanistan</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58686.html" class="data-link">Amstelveen</a></td>
+									<td nowrap="nowrap">Sep 1, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415173.html" class="data-link">ODI # 2881</a></td>
+				 </tr>
+ <tr class="data1" data-days="734019">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">4 runs</td>
+									<td class="left"><a href="/ci/content/ground/57127.html" class="data-link">The Oval</a></td>
+									<td nowrap="nowrap">Sep 4, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350043.html" class="data-link">ODI # 2882</a></td>
+				 </tr>
+ <tr class="data1" data-days="734021">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">39 runs</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Sep 6, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350044.html" class="data-link">ODI # 2883</a></td>
+				 </tr>
+ <tr class="data1" data-days="734023">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">97 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Sep 8, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/403380.html" class="data-link">ODI # 2884</a></td>
+				 </tr>
+ <tr class="data1" data-days="734024">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57312.html" class="data-link">Southampton</a></td>
+									<td nowrap="nowrap">Sep 9, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350045.html" class="data-link">ODI # 2885</a></td>
+				 </tr>
+ <tr class="data1" data-days="734026">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Sep 11, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/403382.html" class="data-link">ODI # 2886</a></td>
+				 </tr>
+ <tr class="data1" data-days="734027">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">139 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Sep 12, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/403381.html" class="data-link">ODI # 2887</a></td>
+				 </tr>
+ <tr class="data1" data-days="734027">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57129.html" class="data-link">Lord's</a></td>
+									<td nowrap="nowrap">Sep 12, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350046.html" class="data-link">ODI # 2888</a></td>
+				 </tr>
+ <tr class="data1" data-days="734029">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">46 runs</td>
+									<td class="left"><a href="/ci/content/ground/59306.html" class="data-link">Colombo (RPS)</a></td>
+									<td nowrap="nowrap">Sep 14, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/403383.html" class="data-link">ODI # 2889</a></td>
+				 </tr>
+ <tr class="data1" data-days="734030">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Sep 15, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350047.html" class="data-link">ODI # 2890</a></td>
+				 </tr>
+ <tr class="data1" data-days="734032">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">111 runs</td>
+									<td class="left"><a href="/ci/content/ground/57219.html" class="data-link">Nottingham</a></td>
+									<td nowrap="nowrap">Sep 17, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350048.html" class="data-link">ODI # 2891</a></td>
+				 </tr>
+ <tr class="data1" data-days="734035">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56901.html" class="data-link">Chester-le-Street</a></td>
+									<td nowrap="nowrap">Sep 20, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/350049.html" class="data-link">ODI # 2892</a></td>
+				 </tr>
+ <tr class="data1" data-days="734037">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">55 runs</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Sep 22, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415273.html" class="data-link">ODI # 2893</a></td>
+				 </tr>
+ <tr class="data1" data-days="734038">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Sep 23, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415274.html" class="data-link">ODI # 2894</a></td>
+				 </tr>
+ <tr class="data1" data-days="734039">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Sep 24, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415275.html" class="data-link">ODI # 2895</a></td>
+				 </tr>
+ <tr class="data1" data-days="734040">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Sep 25, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415276.html" class="data-link">ODI # 2896</a></td>
+				 </tr>
+ <tr class="data1" data-days="734041">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">50 runs</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Sep 26, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415277.html" class="data-link">ODI # 2897</a></td>
+				 </tr>
+ <tr class="data1" data-days="734041">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">54 runs</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Sep 26, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415278.html" class="data-link">ODI # 2898</a></td>
+				 </tr>
+ <tr class="data1" data-days="734042">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">38 runs</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Sep 27, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415279.html" class="data-link">ODI # 2899</a></td>
+				 </tr>
+ <tr class="data1" data-days="734042">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">22 runs</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Sep 27, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415280.html" class="data-link">ODI # 2900</a></td>
+				 </tr>
+ <tr class="data1" data-days="734043">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Sep 28, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415281.html" class="data-link">ODI # 2901</a></td>
+				 </tr>
+ <tr class="data1" data-days="734044">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Sep 29, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415282.html" class="data-link">ODI # 2902</a></td>
+				 </tr>
+ <tr class="data1" data-days="734045">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">2 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Sep 30, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415283.html" class="data-link">ODI # 2903</a></td>
+				 </tr>
+ <tr class="data1" data-days="734045">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/4.html" class="data-link">West Indies</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Sep 30, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415284.html" class="data-link">ODI # 2904</a></td>
+				 </tr>
+ <tr class="data1" data-days="734047">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">9 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Oct 2, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415285.html" class="data-link">ODI # 2905</a></td>
+				 </tr>
+ <tr class="data1" data-days="734048">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59120.html" class="data-link">Johannesburg</a></td>
+									<td nowrap="nowrap">Oct 3, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415286.html" class="data-link">ODI # 2906</a></td>
+				 </tr>
+ <tr class="data1" data-days="734050">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Oct 5, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/415287.html" class="data-link">ODI # 2907</a></td>
+				 </tr>
+ <tr class="data1" data-days="734057">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">91 runs</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Oct 12, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/424849.html" class="data-link">ODI # 2908</a></td>
+				 </tr>
+ <tr class="data1" data-days="734058">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">86 runs</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Oct 13, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/424851.html" class="data-link">ODI # 2909</a></td>
+				 </tr>
+ <tr class="data1" data-days="734060">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap">20 runs</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Oct 15, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/424852.html" class="data-link">ODI # 2910</a></td>
+				 </tr>
+ <tr class="data1" data-days="734062">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Oct 17, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/426217.html" class="data-link">ODI # 2911</a></td>
+				 </tr>
+ <tr class="data1" data-days="734063">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/26.html" class="data-link">Kenya</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">142 runs</td>
+									<td class="left"><a href="/ci/content/ground/59545.html" class="data-link">Harare</a></td>
+									<td nowrap="nowrap">Oct 18, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/426219.html" class="data-link">ODI # 2912</a></td>
+				 </tr>
+ <tr class="data1" data-days="734070">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">4 runs</td>
+									<td class="left"><a href="/ci/content/ground/58516.html" class="data-link">Vadodara</a></td>
+									<td nowrap="nowrap">Oct 25, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/416236.html" class="data-link">ODI # 2913</a></td>
+				 </tr>
+ <tr class="data1" data-days="734072">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap">5 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Oct 27, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/422626.html" class="data-link">ODI # 2914</a></td>
+				 </tr>
+ <tr class="data1" data-days="734073">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">99 runs</td>
+									<td class="left"><a href="/ci/content/ground/375326.html" class="data-link">Nagpur</a></td>
+									<td nowrap="nowrap">Oct 28, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/416237.html" class="data-link">ODI # 2915</a></td>
+				 </tr>
+ <tr class="data1" data-days="734074">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Oct 29, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/422627.html" class="data-link">ODI # 2916</a></td>
+				 </tr>
+ <tr class="data1" data-days="734076">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">4 wickets</td>
+									<td class="left"><a href="/ci/content/ground/236761.html" class="data-link">Dhaka</a></td>
+									<td nowrap="nowrap">Oct 31, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/422628.html" class="data-link">ODI # 2917</a></td>
+				 </tr>
+ <tr class="data1" data-days="734076">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58040.html" class="data-link">Delhi</a></td>
+									<td nowrap="nowrap">Oct 31, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/416238.html" class="data-link">ODI # 2918</a></td>
+				 </tr>
+ <tr class="data1" data-days="734078">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">24 runs</td>
+									<td class="left"><a href="/ci/content/ground/57991.html" class="data-link">Mohali</a></td>
+									<td nowrap="nowrap">Nov 2, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/416239.html" class="data-link">ODI # 2919</a></td>
+				 </tr>
+ <tr class="data1" data-days="734079">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/56658.html" class="data-link">Chattogram</a></td>
+									<td nowrap="nowrap">Nov 3, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/422629.html" class="data-link">ODI # 2920</a></td>
+				 </tr>
+ <tr class="data1" data-days="734079">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap">138 runs</td>
+									<td class="left"><a href="/ci/content/ground/59396.html" class="data-link">Abu Dhabi</a></td>
+									<td nowrap="nowrap">Nov 3, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/426720.html" class="data-link">ODI # 2921</a></td>
+				 </tr>
+ <tr class="data1" data-days="734081">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/25.html" class="data-link">Bangladesh</a></td>
+									<td class="left" nowrap="nowrap">1 wicket</td>
+									<td class="left"><a href="/ci/content/ground/56658.html" class="data-link">Chattogram</a></td>
+									<td nowrap="nowrap">Nov 5, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/422630.html" class="data-link">ODI # 2922</a></td>
+				 </tr>
+ <tr class="data1" data-days="734081">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">3 runs</td>
+									<td class="left"><a href="/ci/content/ground/58142.html" class="data-link">Hyderabad (Deccan)</a></td>
+									<td nowrap="nowrap">Nov 5, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/416240.html" class="data-link">ODI # 2923</a></td>
+				 </tr>
+ <tr class="data1" data-days="734082">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">64 runs</td>
+									<td class="left"><a href="/ci/content/ground/59396.html" class="data-link">Abu Dhabi</a></td>
+									<td nowrap="nowrap">Nov 6, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/426721.html" class="data-link">ODI # 2924</a></td>
+				 </tr>
+ <tr class="data1" data-days="734084">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/2.html" class="data-link">Australia</a></td>
+									<td class="left" nowrap="nowrap">6 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58114.html" class="data-link">Guwahati</a></td>
+									<td nowrap="nowrap">Nov 8, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/416241.html" class="data-link">ODI # 2925</a></td>
+				 </tr>
+ <tr class="data1" data-days="734084">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">45 runs</td>
+									<td class="left"><a href="/ci/content/ground/59039.html" class="data-link">Benoni</a></td>
+									<td nowrap="nowrap">Nov 8, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/430508.html" class="data-link">ODI # 2926</a></td>
+				 </tr>
+ <tr class="data1" data-days="734085">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/7.html" class="data-link">Pakistan</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/5.html" class="data-link">New Zealand</a></td>
+									<td class="left" nowrap="nowrap">7 runs</td>
+									<td class="left"><a href="/ci/content/ground/59396.html" class="data-link">Abu Dhabi</a></td>
+									<td nowrap="nowrap">Nov 9, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/426722.html" class="data-link">ODI # 2927</a></td>
+				 </tr>
+ <tr class="data1" data-days="734086">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/9.html" class="data-link">Zimbabwe</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">212 runs</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Nov 10, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/430509.html" class="data-link">ODI # 2928</a></td>
+				 </tr>
+ <tr class="data1" data-days="734098">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59079.html" class="data-link">Centurion</a></td>
+									<td nowrap="nowrap">Nov 22, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/387566.html" class="data-link">ODI # 2929</a></td>
+				 </tr>
+ <tr class="data1" data-days="734103">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap">112 runs</td>
+									<td class="left"><a href="/ci/content/ground/59068.html" class="data-link">Cape Town</a></td>
+									<td nowrap="nowrap">Nov 27, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/387567.html" class="data-link">ODI # 2930</a></td>
+				 </tr>
+ <tr class="data1" data-days="734105">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/3.html" class="data-link">South Africa</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/1.html" class="data-link">England</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/59159.html" class="data-link">Port Elizabeth</a></td>
+									<td nowrap="nowrap">Nov 29, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/387568.html" class="data-link">ODI # 2931</a></td>
+				 </tr>
+ <tr class="data1" data-days="734121">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">3 runs</td>
+									<td class="left"><a href="/ci/content/ground/58401.html" class="data-link">Rajkot</a></td>
+									<td nowrap="nowrap">Dec 15, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/430886.html" class="data-link">ODI # 2932</a></td>
+				 </tr>
+ <tr class="data1" data-days="734124">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">3 wickets</td>
+									<td class="left"><a href="/ci/content/ground/375326.html" class="data-link">Nagpur</a></td>
+									<td nowrap="nowrap">Dec 18, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/430887.html" class="data-link">ODI # 2933</a></td>
+				 </tr>
+ <tr class="data1" data-days="734127">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/58027.html" class="data-link">Cuttack</a></td>
+									<td nowrap="nowrap">Dec 21, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/430888.html" class="data-link">ODI # 2934</a></td>
+				 </tr>
+ <tr class="data1" data-days="734130">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap">7 wickets</td>
+									<td class="left"><a href="/ci/content/ground/57980.html" class="data-link">Kolkata</a></td>
+									<td nowrap="nowrap">Dec 24, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/430889.html" class="data-link">ODI # 2935</a></td>
+				 </tr>
+ <tr class="data1" data-days="734133">
+					<td class="left" nowrap="nowrap"><a href="/ci/content/team/6.html" class="data-link">India</a></td>
+									<td class="left" nowrap="nowrap"><a href="/ci/content/team/8.html" class="data-link">Sri Lanka</a></td>
+									<td class="left" nowrap="nowrap">no result</td>
+									<td class="left" nowrap="nowrap"/>
+									<td class="left"><a href="/ci/content/ground/58040.html" class="data-link">Delhi</a></td>
+									<td nowrap="nowrap">Dec 27, 2009</td>
+									<td nowrap="nowrap"><a href="/ci/engine/match/430890.html" class="data-link">ODI # 2936</a></td>
+				 </tr>
+</tbody>
+</table>

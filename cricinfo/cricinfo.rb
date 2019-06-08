@@ -13,8 +13,8 @@ module Cricinfo
 	
 	NO_RESULT = "no result"
 
-	TEAMS = ['Afghanistan', 'Australia', 'Bangladesh', 'England', 'India', 'New Zealand', 'Pakistan',
-	'South Africa', 'Sri Lanka', 'West Indies']
+	TEAMS = ['Afghanistan', 'Australia', 'Bangladesh', 'England', 'India', 'NewZealand', 'Pakistan',
+	'SouthAfrica', 'SriLanka', 'WestIndies']
 
 	def self.list_teams
 		puts TEAMS
@@ -89,8 +89,8 @@ module Cricinfo
 			result_set = fetchResultData(year)
 			result_set.search('tr').each do |tr|
 				cells = tr.search('th, td')
-				home_team = cells[0].text.strip
-				away_team = cells[1].text.strip
+				home_team = cells[0].text.strip.delete(' ')
+				away_team = cells[1].text.strip.delete(' ')
 				result = cells[2].text.strip
 				
 				# Check if the team is participating in the world cup

@@ -61,7 +61,8 @@ module Cricinfo
 		return true
 	end
 
-	def self.calculatePercentage(value)
+	def self.calculatePercentage(team1,team2)
+		value = 1.0/(1 + (10 ** ((team1.rating - team2.rating)/400.0)))
 		value = value * 100
 		return value.round(2)
 	end
@@ -71,12 +72,11 @@ module Cricinfo
 			player = ratings[TEAMS.index(player_team)]
 			opponent = ratings[TEAMS.index(opponent_team)]
 			
-			playerPercentage = calculatePercentage(1.0/(1 + (10 ** ((opponent.rating - player.rating)/400.0))))
+			playerPercentage = calculatePercentage(opponent,player)
 			puts "#{player_team} has a #{playerPercentage}% chance of winning."
 
-			opponentWinPercentage = calculatePercentage(1.0/(1 + (10 ** ((player.rating - opponent.rating)/400.0))))
+			opponentWinPercentage = calculatePercentage(player,opponent)
 			puts "#{opponent_team} has a #{opponentWinPercentage}% chance of winning."
-
 		end
 	end
 

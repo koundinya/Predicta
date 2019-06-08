@@ -23,13 +23,17 @@ make
 ## Usage
 
 ```bash
-./predicta.rb fetch #Syncs data with Cricinfo
-./predicta.rb predict <team1> <team2> #Returns probability of team1 
+Commands:
+  predicta.rb fetch                    # Scraps data from Cricinfo and saves
+  predicta.rb help [COMMAND]           # Describe available commands or one specific command
+  predicta.rb list                     # Lists teams in CWC2019
+  predicta.rb predict [TEAM1] [TEAM2]  # Predicts the outcome of a match
 
 ```
 
 ## Todo
-1. TEST CASES
+1. TEST CASES -- RSPECS.
+2. BUILD SHEILDS
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

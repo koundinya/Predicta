@@ -16,6 +16,10 @@ module Cricinfo
 	TEAMS = ['Afghanistan', 'Australia', 'Bangladesh', 'England', 'India', 'New Zealand', 'Pakistan',
 	'South Africa', 'Sri Lanka', 'West Indies']
 
+	def self.list_teams
+		puts TEAMS
+	end
+
 	def self.sync
 		puts "Fetching data .... this might take sometime"
 		start_time = Time.now

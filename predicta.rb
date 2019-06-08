@@ -10,10 +10,15 @@ class PredictaCLI < Thor
 		Cricinfo.sync
 	end
 
-	desc "predict Australia Bangladesh", "Predicts the outcome of a match"
+	desc "predict [TEAM1] [TEAM2]", "Predicts the outcome of a match"
 	def predict(team1,team2)
 		ratings = Cricinfo.calculateRatings
 		Cricinfo.prediction(ratings,team1,team2)
+	end
+
+	desc "list" , "Lists teams in CWC2019" 
+	def list
+		Cricinfo.list_teams
 	end
 end
  

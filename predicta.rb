@@ -30,8 +30,16 @@ class PredictaCLI < Thor
 
 	desc "fetchTodaysFixture", "Scraps fixture data"
 	def fetchTodaysFixture
-		fixture = Cricinfo.fetchTodaysFixture
-		puts fixture
+		fixtures = Cricinfo.fetchTodaysFixture
+		puts fixtures
+	end
+
+	desc "todaysPrediction", "Predicts results for today's match/matches"
+	def todaysPrediction
+		fixtures = Cricinfo.fetchTodaysFixture
+		fixtures.each do |fixture| 
+			predict(fixture[:home],fixture[:away])
+		end
 	end
 
 end

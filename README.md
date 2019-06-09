@@ -23,11 +23,13 @@ make
 ## Usage
 
 ```bash
-Commands:
-  predicta.rb fetch                    # Scraps data from Cricinfo and saves
+predicta.rb fetch                    # Scraps data from Cricinfo and saves
+  predicta.rb fetchFixtures            # Scraps fixture data
+  predicta.rb fetchTodaysFixture       # Scraps fixture data
   predicta.rb help [COMMAND]           # Describe available commands or one specific command
   predicta.rb list                     # Lists teams in CWC2019
   predicta.rb predict [TEAM1] [TEAM2]  # Predicts the outcome of a match
+  predicta.rb todaysPrediction         # Predicts results for today's match/matches
 
 ```
 

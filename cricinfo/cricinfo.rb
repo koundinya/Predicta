@@ -96,6 +96,8 @@ module Cricinfo
 			fixtureTime = Time.parse(cell[0])
 			currentTime = Time.now
 			if currentTime.day == fixtureTime.day && currentTime.month == fixtureTime.month
+				puts cell[1].at_css('.summary').text
+				puts fixtures
 				fixtures.push(getHomeAndAway(cell[1].at_css('.summary').text))
 			end
 		end

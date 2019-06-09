@@ -4,8 +4,10 @@ require 'json'
 require 'elo'
 
 module Cricinfo
-
+	
 	DATA_ENDPOINT = "http://stats.espncricinfo.com/ci/engine/records/team/match_results.html?class=2;type=year;id="
+
+	FIXTURES_ENDPOINT = "https://www.firstpost.com/firstcricket/cricket-schedule/series/icc-cricket-world-cup-2019.html"
 
 	FIRST_MATCH = 1971
 
@@ -16,12 +18,13 @@ module Cricinfo
 	TEAMS = ['Afghanistan', 'Australia', 'Bangladesh', 'England', 'India', 'NewZealand', 'Pakistan',
 	'SouthAfrica', 'SriLanka', 'WestIndies']
 
+	FIXTURE_FILE_NAME = "data/fixtures.xml"
+
 	def self.list_teams
 		puts TEAMS
 	end
 
 	def self.sync
-		puts "Fetching data .... this might take sometime"
 		start_time = Time.now
 		fetchData(Time.now.year)
 		diff = Time.now - start_time
@@ -67,24 +70,48 @@ module Cricinfo
 		return value.round(2)
 	end
 
-	def self.prediction(ratings,player_team,opponent_team)
-		if validTeam?(player_team) && validTeam?(opponent_team) 
-			player = ratings[TEAMS.index(player_team)]
-			opponent = ratings[TEAMS.index(opponent_team)]
-			
-			playerPercentage = calculatePercentage(opponent,player)
-			puts "#{player_team} has a #{playerPercentage}% chance of winning."
-
-			opponentWinPercentage = calculatePercentage(player,opponent)
-			puts "#{opponent_team} has a #{opponentWinPercentage}% chance of winning."
+	def self.prediction(ratings,home_team,away_team)
+		if validTeam?(home_team) && validTeam?(away_team) 
+			home = ratings[TEAMS.index(home_team)]
+			away = ratings[TEAMS.index(away_team)]
+			homeWinPercentage = calculatePercentage(away,home)
+			awayWinPercentage = calculatePercentage(home,away)
+			result = {:home => homeWinPercentage, :away => awayWinPercentage}
+			return result
 		end
 	end
 
+	def self.fetchFixtures
+		html_data = open(FIXTURES_ENDPOINT)
+		html_doc = Nokogiri::HTML(html_data)
+		result_table = html_doc.at('.table')
+		File.write(FIXTURE_FILE_NAME, result_table.to_xml)
+	end
+
+	def self.fetchTodaysFixture
+		fixtures = []
+		result_table = File.open(FIXTURE_FILE_NAME) { |f| Nokogiri::HTML(f) }
+		result_table.search('tr').each do |tr|
+			cell = tr.search('th, td')
+			fixtureTime = Time.parse(cell[0])
+			currentTime = Time.now
+			if currentTime.day == fixtureTime.day && currentTime.month == fixtureTime.month
+				fixtures.push(getHomeAndAway(cell[1].at_css('.summary').text))
+			end
+		end
+		return fixtures
+	end
+
+	def self.getHomeAndAway(fixString)
+		home = fixString.split("vs")[0].strip.delete(' ')
+		away = fixString.split("vs")[1].strip.delete(' ')
+		return {:home => home, :away => away}
+	end
+
+
 	def self.calculateRatings
-		puts "Syncing data, just in case"
 		sync
 		elo_teams  = prepareEloTeams
-		puts "Calculating ELO ratings..."
 		for year in FIRST_MATCH..Time.now.year
 			result_set = fetchResultData(year)
 			result_set.search('tr').each do |tr|
@@ -111,7 +138,6 @@ module Cricinfo
 				end
 			end
 		end
-		puts "ELO ratings calculated!"
 		return elo_teams
 	end
 end

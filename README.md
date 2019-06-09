@@ -53,7 +53,7 @@ Bangladesh has a 24.66% chance of winning.
 2. BUILD SHEILDS
 3. cricinfo.rb is a module where I've dumped all my logic. Doesn't look good, should find a better way to split concerns. Example of why its ugly ~ Ideally it should be just returning results and the CLI file predicta.rb should be deciding if it should be printed on console or not. Print statements are across classes. 🤮
 4. Logic - Need to factor in new teams vs old teams using K factor. Example afghanistan should have a different K value compared to Australia / England. 
-
+5. Docker + Web App
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

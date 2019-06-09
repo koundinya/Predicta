@@ -20,7 +20,16 @@ class PredictaCLI < Thor
 
 	desc "list" , "Lists teams in CWC2019" 
 	def list
-		Cricinfo.list_teams
+		teams = Cricinfo.list_teams
+		ratings = Cricinfo.calculateRatings
+		results = []
+		teams.each_with_index do |team,index|
+			results.push({team: team, rating: ratings[index].rating})
+		end
+		results = results.sort_by{|result| result[:rating]}.reverse
+		results.each do |result| 
+			puts "#{result[:team]} -- #{result[:rating]}"
+		end
 	end
 
 	desc "fetchFixtures", "Scraps fixture data"

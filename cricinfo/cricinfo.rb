@@ -21,7 +21,7 @@ module Cricinfo
 	FIXTURE_FILE_NAME = "data/fixtures.xml"
 
 	def self.list_teams
-		puts TEAMS
+		return TEAMS
 	end
 
 	def self.sync
